@@ -22,7 +22,7 @@ Bu raporda syntax ve semantic basari tum modeller ve formatlar icin tam kabul ed
 
 | Format | Kayit Sayisi | Ortalama Enerji (mWh) | Medyan Enerji (mWh) | Toplam Enerji (mWh) | Ortalama Token | Ortalama Yanit Karakteri |
 |---|---:|---:|---:|---:|---:|---:|
-| TONL | 18 | 1.8061 | 0.8928 | 32.5107 | 511.7 | 586.3 |
+| TONL | 21 | 1.8061 | 0.8928 | 32.5107 | 511.7 | 586.3 |
 | XML | 21 | 2.0360 | 0.9141 | 42.7567 | 472.5 | 779.1 |
 | TOML | 21 | 3.4152 | 1.0498 | 71.7198 | 541.8 | 623.1 |
 | YAML | 21 | 8.2454 | 0.9595 | 173.1531 | 2343.0 | 5512.3 |
@@ -64,7 +64,7 @@ Bu bulgu, karmasik ve uzun cikti gerektiren gorevlerde format seciminin enerji m
 | mistral7b | 12 | 2.3296 | 1.2367 | 27.9558 | 240.7 | 609.3 |
 | gpt-oss-20b-MXFP4-Q8 | 12 | 6.0452 | 3.5851 | 72.5428 | 1866.3 | 669.8 |
 | llama3.2-1b | 12 | 7.4549 | 0.3810 | 89.4593 | 2852.3 | 9451.7 |
-| deepseekr1-qwen14 | 9 | 10.9073 | 10.2682 | 98.1660 | 873.6 | 633.2 |
+| deepseekr1-qwen14 | 12 | 10.9073 | 10.2682 | 98.1660 | 873.6 | 633.2 |
 
 Model bazinda en dusuk ortalama enerji tuketimi qwen2.5-14b modelinde gorulmektedir. Bu model ayni zamanda dusuk token sayisi ile kontrollu bir cikti profili sunmaktadir. Gemma3-4b ve qwen3-0.6b-8bit de dusuk enerji grubunda yer almaktadir.
 
