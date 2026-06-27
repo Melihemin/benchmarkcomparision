@@ -1,0 +1,1457 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-24T11:38:09.512,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,959.0,1303.0,0.0,0
+2026-06-24T11:38:09.569,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,196.0,1088.0,0.0,0
+2026-06-24T11:38:09.625,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,142.0,1258.0,0.0,0
+2026-06-24T11:38:09.680,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,785.0,1238.0,0.0,0
+2026-06-24T11:38:09.736,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,734.0,1272.0,0.0,0
+2026-06-24T11:38:09.791,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,360.0,1099.0,0.0,0
+2026-06-24T11:38:09.847,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1280.0,0.0,0
+2026-06-24T11:38:09.902,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,415.0,1100.0,0.0,0
+2026-06-24T11:38:09.958,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1280.0,0.0,0
+2026-06-24T11:38:10.014,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,974.0,1280.0,0.0,0
+2026-06-24T11:38:10.069,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,341.0,1095.0,0.0,0
+2026-06-24T11:38:10.124,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,323.0,1276.0,0.0,0
+2026-06-24T11:38:10.180,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2349.0,1293.0,0.0,0
+2026-06-24T11:38:10.237,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,3255.0,1109.0,0.0,0
+2026-06-24T11:38:10.294,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,194.0,1250.0,0.0,0
+2026-06-24T11:38:10.350,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,211.0,1251.0,0.0,0
+2026-06-24T11:38:10.405,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,175.0,1244.0,0.0,0
+2026-06-24T11:38:10.461,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,360.0,1276.0,0.0,0
+2026-06-24T11:38:10.516,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1946.0,1099.0,0.0,0
+2026-06-24T11:38:10.572,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1566.0,1293.0,0.0,0
+2026-06-24T11:38:10.627,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,233.0,1092.0,0.0,0
+2026-06-24T11:38:10.683,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,576.0,1278.0,0.0,0
+2026-06-24T11:38:10.739,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,429.0,1269.0,0.0,0
+2026-06-24T11:38:10.794,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1099.0,0.0,0
+2026-06-24T11:38:10.849,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1279.0,0.0,0
+2026-06-24T11:38:10.904,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1282.0,0.0,0
+2026-06-24T11:38:10.959,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,419.0,1112.0,0.0,0
+2026-06-24T11:38:11.014,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,970.0,1300.0,0.0,0
+2026-06-24T11:38:11.070,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1278.0,0.0,0
+2026-06-24T11:38:11.125,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,505.0,1100.0,0.0,0
+2026-06-24T11:38:11.181,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,326.0,1287.0,0.0,0
+2026-06-24T11:38:11.236,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,684.0,1279.0,0.0,0
+2026-06-24T11:38:11.291,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1100.0,0.0,0
+2026-06-24T11:38:11.347,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,344.0,1287.0,0.0,0
+2026-06-24T11:38:11.402,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,1101.0,0.0,0
+2026-06-24T11:38:11.458,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1280.0,0.0,0
+2026-06-24T11:38:11.513,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1028.0,1281.0,0.0,0
+2026-06-24T11:38:11.569,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1096.0,0.0,0
+2026-06-24T11:38:11.624,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1280.0,0.0,0
+2026-06-24T11:38:11.679,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,597.0,1284.0,0.0,0
+2026-06-24T11:38:11.735,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2368.0,1120.0,0.0,0
+2026-06-24T11:38:11.790,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,215.0,1270.0,0.0,0
+2026-06-24T11:38:11.846,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1721.0,1273.0,0.0,0
+2026-06-24T11:38:11.900,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1100.0,0.0,0
+2026-06-24T11:38:11.956,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,348.0,1299.0,0.0,0
+2026-06-24T11:38:12.011,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2543.0,1281.0,0.0,0
+2026-06-24T11:38:12.067,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2432.0,1099.0,0.0,0
+2026-06-24T11:38:12.122,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,520.0,1274.0,0.0,0
+2026-06-24T11:38:12.178,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,360.0,1278.0,0.0,0
+2026-06-24T11:38:12.233,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,577.0,1099.0,0.0,0
+2026-06-24T11:38:12.289,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,435.0,1285.0,0.0,0
+2026-06-24T11:38:12.344,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1278.0,0.0,0
+2026-06-24T11:38:12.400,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1101.0,0.0,0
+2026-06-24T11:38:12.455,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1280.0,0.0,0
+2026-06-24T11:38:12.510,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1084.0,1102.0,0.0,0
+2026-06-24T11:38:12.566,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,360.0,1279.0,0.0,0
+2026-06-24T11:38:12.621,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,1281.0,0.0,0
+2026-06-24T11:38:12.677,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,630.0,1098.0,0.0,0
+2026-06-24T11:38:12.732,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,487.0,1281.0,0.0,0
+2026-06-24T11:38:12.788,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,415.0,1280.0,0.0,0
+2026-06-24T11:38:12.843,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1099.0,0.0,0
+2026-06-24T11:38:12.899,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1280.0,0.0,0
+2026-06-24T11:38:12.954,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1280.0,0.0,0
+2026-06-24T11:38:13.009,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1008.0,1118.0,0.0,0
+2026-06-24T11:38:13.064,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,323.0,1275.0,0.0,0
+2026-06-24T11:38:13.120,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1280.0,0.0,0
+2026-06-24T11:38:13.175,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1101.0,0.0,0
+2026-06-24T11:38:13.231,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1283.0,0.0,0
+2026-06-24T11:38:13.286,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,667.0,1279.0,0.0,0
+2026-06-24T11:38:13.342,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1100.0,0.0,0
+2026-06-24T11:38:13.397,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1278.0,0.0,0
+2026-06-24T11:38:13.453,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,1281.0,0.0,0
+2026-06-24T11:38:13.508,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,921.0,1083.0,0.0,0
+2026-06-24T11:38:13.564,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,431.0,1276.0,0.0,0
+2026-06-24T11:38:13.619,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1280.0,0.0,0
+2026-06-24T11:38:13.675,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1082.0,0.0,0
+2026-06-24T11:38:13.730,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,613.0,1281.0,0.0,0
+2026-06-24T11:38:13.786,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1278.0,0.0,0
+2026-06-24T11:38:13.840,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,415.0,1082.0,0.0,0
+2026-06-24T11:38:13.895,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,1297.0,0.0,0
+2026-06-24T11:38:13.950,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,347.0,1097.0,0.0,0
+2026-06-24T11:38:14.004,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,878.0,1299.0,0.0,0
+2026-06-24T11:38:14.060,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,421.0,1098.0,0.0,0
+2026-06-24T11:38:14.115,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1279.0,0.0,0
+2026-06-24T11:38:14.170,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,491.0,1292.0,0.0,0
+2026-06-24T11:38:14.226,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1081.0,0.0,0
+2026-06-24T11:38:14.281,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1279.0,0.0,0
+2026-06-24T11:38:14.337,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,702.0,1278.0,0.0,0
+2026-06-24T11:38:14.392,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,450.0,1081.0,0.0,0
+2026-06-24T11:38:14.447,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,504.0,1279.0,0.0,0
+2026-06-24T11:38:14.503,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1094.0,1295.0,0.0,0
+2026-06-24T11:38:14.558,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1097.0,0.0,0
+2026-06-24T11:38:14.614,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,432.0,1278.0,0.0,0
+2026-06-24T11:38:14.669,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,1280.0,0.0,0
+2026-06-24T11:38:14.725,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,631.0,1082.0,0.0,0
+2026-06-24T11:38:14.780,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1280.0,0.0,0
+2026-06-24T11:38:14.836,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,1262.0,0.0,0
+2026-06-24T11:38:14.891,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,1082.0,0.0,0
+2026-06-24T11:38:14.947,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1279.0,0.0,0
+2026-06-24T11:38:15.002,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,866.0,1083.0,0.0,0
+2026-06-24T11:38:15.058,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1261.0,0.0,0
+2026-06-24T11:38:15.112,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,414.0,1261.0,0.0,0
+2026-06-24T11:38:15.168,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,330.0,1101.0,0.0,0
+2026-06-24T11:38:15.223,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,811.0,1262.0,0.0,0
+2026-06-24T11:38:15.280,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,1260.0,0.0,0
+2026-06-24T11:38:15.337,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2918.0,4863.0,0.0,0
+2026-06-24T11:38:15.394,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,4034.0,19482.0,0.0,0
+2026-06-24T11:38:15.454,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,638.0,19367.0,0.0,0
+2026-06-24T11:38:15.515,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1155.0,19572.0,0.0,0
+2026-06-24T11:38:15.576,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,317.0,21306.0,0.0,0
+2026-06-24T11:38:15.637,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,263.0,17971.0,0.0,0
+2026-06-24T11:38:15.701,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,572.0,18246.0,0.0,0
+2026-06-24T11:38:15.760,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,245.0,20859.0,0.0,0
+2026-06-24T11:38:15.819,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,283.0,17367.0,0.0,0
+2026-06-24T11:38:15.880,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1267.0,15820.0,0.0,0
+2026-06-24T11:38:15.940,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2097.0,6837.0,0.0,0
+2026-06-24T11:38:16.001,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,4652.0,317.0,0.0,0
+2026-06-24T11:38:16.063,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,975.0,5999.0,0.0,0
+2026-06-24T11:38:16.123,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1187.0,9102.0,0.0,0
+2026-06-24T11:38:16.185,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1379.0,10352.0,0.0,0
+2026-06-24T11:38:16.246,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1146.0,9297.0,0.0,0
+2026-06-24T11:38:16.307,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1186.0,9146.0,0.0,0
+2026-06-24T11:38:16.369,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1174.0,10521.0,0.0,0
+2026-06-24T11:38:16.430,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1639.0,9228.0,0.0,0
+2026-06-24T11:38:16.491,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1691.0,9122.0,0.0,0
+2026-06-24T11:38:16.553,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1177.0,10496.0,0.0,0
+2026-06-24T11:38:16.614,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1194.0,9211.0,0.0,0
+2026-06-24T11:38:16.676,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1403.0,10421.0,0.0,0
+2026-06-24T11:38:16.737,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1564.0,9141.0,0.0,0
+2026-06-24T11:38:16.799,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1060.0,9182.0,0.0,0
+2026-06-24T11:38:16.860,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1159.0,10511.0,0.0,0
+2026-06-24T11:38:16.921,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1230.0,9157.0,0.0,0
+2026-06-24T11:38:16.980,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1838.0,9106.0,0.0,0
+2026-06-24T11:38:17.041,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1561.0,9167.0,0.0,0
+2026-06-24T11:38:17.101,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,3111.0,10687.0,0.0,0
+2026-06-24T11:38:17.164,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,3776.0,9118.0,0.0,0
+2026-06-24T11:38:17.228,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,884.0,10696.0,0.0,0
+2026-06-24T11:38:17.290,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,616.0,8845.0,0.0,0
+2026-06-24T11:38:17.351,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,824.0,9964.0,0.0,0
+2026-06-24T11:38:17.414,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,462.0,8908.0,0.0,0
+2026-06-24T11:38:17.477,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,561.0,10555.0,0.0,0
+2026-06-24T11:38:17.538,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,755.0,8823.0,0.0,0
+2026-06-24T11:38:17.599,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,622.0,8897.0,0.0,0
+2026-06-24T11:38:17.662,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,459.0,10516.0,0.0,0
+2026-06-24T11:38:17.722,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,658.0,9177.0,0.0,0
+2026-06-24T11:38:17.782,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,447.0,9011.0,0.0,0
+2026-06-24T11:38:17.844,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,496.0,10638.0,0.0,0
+2026-06-24T11:38:17.903,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,384.0,9390.0,0.0,0
+2026-06-24T11:38:17.962,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,679.0,9035.0,0.0,0
+2026-06-24T11:38:18.020,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1044.0,9445.0,0.0,0
+2026-06-24T11:38:18.078,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,651.0,9628.0,0.0,0
+2026-06-24T11:38:18.136,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,873.0,9607.0,0.0,0
+2026-06-24T11:38:18.193,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,930.0,9659.0,0.0,0
+2026-06-24T11:38:18.251,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2154.0,9639.0,0.0,0
+2026-06-24T11:38:18.310,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1292.0,9815.0,0.0,0
+2026-06-24T11:38:18.370,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,607.0,9856.0,0.0,0
+2026-06-24T11:38:18.432,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,624.0,9542.0,0.0,0
+2026-06-24T11:38:18.493,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,817.0,10808.0,0.0,0
+2026-06-24T11:38:18.553,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,486.0,9190.0,0.0,0
+2026-06-24T11:38:18.614,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,376.0,9237.0,0.0,0
+2026-06-24T11:38:18.674,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,266.0,10738.0,0.0,0
+2026-06-24T11:38:18.736,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,331.0,9343.0,0.0,0
+2026-06-24T11:38:18.797,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,247.0,9308.0,0.0,0
+2026-06-24T11:38:18.859,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,259.0,10407.0,0.0,0
+2026-06-24T11:38:18.921,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,229.0,9273.0,0.0,0
+2026-06-24T11:38:18.982,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,247.0,9305.0,0.0,0
+2026-06-24T11:38:19.043,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,538.0,10250.0,0.0,0
+2026-06-24T11:38:19.102,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,335.0,9471.0,0.0,0
+2026-06-24T11:38:19.164,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,427.0,9244.0,0.0,0
+2026-06-24T11:38:19.228,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,248.0,10663.0,0.0,0
+2026-06-24T11:38:19.287,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,290.0,9086.0,0.0,0
+2026-06-24T11:38:19.346,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,442.0,8800.0,0.0,0
+2026-06-24T11:38:19.407,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,457.0,9543.0,0.0,0
+2026-06-24T11:38:19.468,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,438.0,10858.0,0.0,0
+2026-06-24T11:38:19.529,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,673.0,9224.0,0.0,0
+2026-06-24T11:38:19.589,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,529.0,9397.0,0.0,0
+2026-06-24T11:38:19.649,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,410.0,10615.0,0.0,0
+2026-06-24T11:38:19.709,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,504.0,9458.0,0.0,0
+2026-06-24T11:38:19.769,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,458.0,9257.0,0.0,0
+2026-06-24T11:38:19.830,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,618.0,9417.0,0.0,0
+2026-06-24T11:38:19.892,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,484.0,9429.0,0.0,0
+2026-06-24T11:38:19.952,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,329.0,10611.0,0.0,0
+2026-06-24T11:38:20.013,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,473.0,9202.0,0.0,0
+2026-06-24T11:38:20.073,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,463.0,9390.0,0.0,0
+2026-06-24T11:38:20.135,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,279.0,10588.0,0.0,0
+2026-06-24T11:38:20.191,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,364.0,9329.0,0.0,0
+2026-06-24T11:38:20.248,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,3938.0,8864.0,0.0,0
+2026-06-24T11:38:20.306,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1624.0,9870.0,0.0,0
+2026-06-24T11:38:20.363,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,422.0,9996.0,0.0,0
+2026-06-24T11:38:20.423,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,472.0,8489.0,0.0,0
+2026-06-24T11:38:20.483,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,484.0,11186.0,0.0,0
+2026-06-24T11:38:20.545,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,600.0,9470.0,0.0,0
+2026-06-24T11:38:20.605,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,634.0,9465.0,0.0,0
+2026-06-24T11:38:20.667,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,587.0,9216.0,0.0,0
+2026-06-24T11:38:20.727,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,549.0,10729.0,0.0,0
+2026-06-24T11:38:20.786,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,387.0,9176.0,0.0,0
+2026-06-24T11:38:20.847,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,388.0,9593.0,0.0,0
+2026-06-24T11:38:20.910,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,302.0,9542.0,0.0,0
+2026-06-24T11:38:20.970,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,278.0,10630.0,0.0,0
+2026-06-24T11:38:21.031,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,513.0,9021.0,0.0,0
+2026-06-24T11:38:21.093,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,346.0,10662.0,0.0,0
+2026-06-24T11:38:21.156,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,263.0,9339.0,0.0,0
+2026-06-24T11:38:21.218,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,240.0,10392.0,0.0,0
+2026-06-24T11:38:21.280,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,271.0,9029.0,0.0,0
+2026-06-24T11:38:21.343,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,258.0,9120.0,0.0,0
+2026-06-24T11:38:21.407,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,256.0,10417.0,0.0,0
+2026-06-24T11:38:21.468,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,303.0,10337.0,0.0,0
+2026-06-24T11:38:21.529,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,583.0,8935.0,0.0,0
+2026-06-24T11:38:21.589,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,441.0,9282.0,0.0,0
+2026-06-24T11:38:21.649,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,490.0,9249.0,0.0,0
+2026-06-24T11:38:21.710,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,634.0,10803.0,0.0,0
+2026-06-24T11:38:21.771,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,612.0,9343.0,0.0,0
+2026-06-24T11:38:21.832,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,412.0,9382.0,0.0,0
+2026-06-24T11:38:21.893,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1152.0,10610.0,0.0,0
+2026-06-24T11:38:21.956,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,474.0,9319.0,0.0,0
+2026-06-24T11:38:22.017,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,802.0,10629.0,0.0,0
+2026-06-24T11:38:22.078,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,491.0,9032.0,0.0,0
+2026-06-24T11:38:22.136,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,480.0,9371.0,0.0,0
+2026-06-24T11:38:22.195,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1052.0,9035.0,0.0,0
+2026-06-24T11:38:22.254,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,3145.0,9768.0,0.0,0
+2026-06-24T11:38:22.315,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1327.0,9391.0,0.0,0
+2026-06-24T11:38:22.376,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,897.0,10846.0,0.0,0
+2026-06-24T11:38:22.437,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,665.0,9476.0,0.0,0
+2026-06-24T11:38:22.499,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1452.0,9251.0,0.0,0
+2026-06-24T11:38:22.561,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1229.0,10683.0,0.0,0
+2026-06-24T11:38:22.624,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1356.0,9075.0,0.0,0
+2026-06-24T11:38:22.687,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1392.0,10487.0,0.0,0
+2026-06-24T11:38:22.744,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1505.0,9092.0,0.0,0
+2026-06-24T11:38:22.800,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1763.0,8895.0,0.0,0
+2026-06-24T11:38:22.857,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,2152.0,9972.0,0.0,0
+2026-06-24T11:38:22.918,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1802.0,10168.0,0.0,0
+2026-06-24T11:38:22.979,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1845.0,10094.0,0.0,0
+2026-06-24T11:38:23.037,timeseries,1,User List,mlx-community/gpt-oss-20b-MXFP4-Q8,1506.0,9346.0,0.0,252
+2026-06-24T11:38:26.744,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,377.0,17113.0,0.0,0
+2026-06-24T11:38:26.802,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,304.0,20084.0,0.0,0
+2026-06-24T11:38:26.861,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,707.0,19804.0,0.0,0
+2026-06-24T11:38:26.921,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,276.0,19450.0,0.0,0
+2026-06-24T11:38:26.981,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,896.0,18889.0,0.0,0
+2026-06-24T11:38:27.042,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,303.0,21439.0,0.0,0
+2026-06-24T11:38:27.102,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,215.0,18679.0,0.0,0
+2026-06-24T11:38:27.164,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,348.0,18720.0,0.0,0
+2026-06-24T11:38:27.224,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,165.0,21267.0,0.0,0
+2026-06-24T11:38:27.287,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1403.0,17943.0,0.0,0
+2026-06-24T11:38:27.348,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3319.0,10852.0,0.0,0
+2026-06-24T11:38:27.410,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1705.0,3956.0,0.0,0
+2026-06-24T11:38:27.472,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3669.0,522.0,0.0,0
+2026-06-24T11:38:27.533,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1509.0,6728.0,0.0,0
+2026-06-24T11:38:27.594,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1053.0,10452.0,0.0,0
+2026-06-24T11:38:27.651,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1449.0,9213.0,0.0,0
+2026-06-24T11:38:27.708,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3455.0,9214.0,0.0,0
+2026-06-24T11:38:27.764,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,5172.0,9575.0,0.0,0
+2026-06-24T11:38:27.820,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1410.0,9992.0,0.0,0
+2026-06-24T11:38:27.877,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1871.0,8640.0,0.0,0
+2026-06-24T11:38:27.937,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1760.0,10199.0,0.0,0
+2026-06-24T11:38:27.999,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2141.0,9913.0,0.0,0
+2026-06-24T11:38:28.060,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1246.0,10799.0,0.0,0
+2026-06-24T11:38:28.122,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1306.0,9139.0,0.0,0
+2026-06-24T11:38:28.183,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1372.0,9263.0,0.0,0
+2026-06-24T11:38:28.244,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1210.0,10592.0,0.0,0
+2026-06-24T11:38:28.305,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3245.0,9244.0,0.0,0
+2026-06-24T11:38:28.366,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,588.0,9322.0,0.0,0
+2026-06-24T11:38:28.427,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,857.0,10725.0,0.0,0
+2026-06-24T11:38:28.489,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1591.0,9206.0,0.0,0
+2026-06-24T11:38:28.550,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1126.0,9300.0,0.0,0
+2026-06-24T11:38:28.605,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1146.0,10728.0,0.0,0
+2026-06-24T11:38:28.664,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1291.0,9332.0,0.0,0
+2026-06-24T11:38:28.720,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2023.0,10149.0,0.0,0
+2026-06-24T11:38:28.776,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2317.0,8341.0,0.0,0
+2026-06-24T11:38:28.835,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2476.0,10154.0,0.0,0
+2026-06-24T11:38:28.892,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1758.0,10142.0,0.0,0
+2026-06-24T11:38:28.951,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2270.0,9622.0,0.0,0
+2026-06-24T11:38:29.013,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2004.0,10109.0,0.0,0
+2026-06-24T11:38:29.069,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1072.0,9546.0,0.0,0
+2026-06-24T11:38:29.124,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1323.0,9293.0,0.0,0
+2026-06-24T11:38:29.180,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3365.0,10186.0,0.0,0
+2026-06-24T11:38:29.236,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1846.0,8816.0,0.0,0
+2026-06-24T11:38:29.292,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,5527.0,10001.0,0.0,0
+2026-06-24T11:38:29.348,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1531.0,10168.0,0.0,0
+2026-06-24T11:38:29.407,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2039.0,10215.0,0.0,0
+2026-06-24T11:38:29.468,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1459.0,10195.0,0.0,0
+2026-06-24T11:38:29.530,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1727.0,9669.0,0.0,0
+2026-06-24T11:38:29.587,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1147.0,9390.0,0.0,0
+2026-06-24T11:38:29.645,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2957.0,9113.0,0.0,0
+2026-06-24T11:38:29.705,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1719.0,10116.0,0.0,0
+2026-06-24T11:38:29.767,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1157.0,9892.0,0.0,0
+2026-06-24T11:38:29.828,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1123.0,10799.0,0.0,0
+2026-06-24T11:38:29.886,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1133.0,9277.0,0.0,0
+2026-06-24T11:38:29.948,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1413.0,9448.0,0.0,0
+2026-06-24T11:38:30.009,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1981.0,11135.0,0.0,0
+2026-06-24T11:38:30.070,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1063.0,9339.0,0.0,0
+2026-06-24T11:38:30.131,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1132.0,9418.0,0.0,0
+2026-06-24T11:38:30.192,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1145.0,9373.0,0.0,0
+2026-06-24T11:38:30.248,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1348.0,10770.0,0.0,0
+2026-06-24T11:38:30.306,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2375.0,9335.0,0.0,0
+2026-06-24T11:38:30.364,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1513.0,10065.0,0.0,0
+2026-06-24T11:38:30.424,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1801.0,9889.0,0.0,0
+2026-06-24T11:38:30.485,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1957.0,9870.0,0.0,0
+2026-06-24T11:38:30.546,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1355.0,9569.0,0.0,0
+2026-06-24T11:38:30.606,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1165.0,9419.0,0.0,0
+2026-06-24T11:38:30.662,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1396.0,10722.0,0.0,0
+2026-06-24T11:38:30.723,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2799.0,8049.0,0.0,0
+2026-06-24T11:38:30.780,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1462.0,11604.0,0.0,0
+2026-06-24T11:38:30.837,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2982.0,8041.0,0.0,0
+2026-06-24T11:38:30.899,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1670.0,9967.0,0.0,0
+2026-06-24T11:38:30.960,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1306.0,11424.0,0.0,0
+2026-06-24T11:38:31.021,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1951.0,9459.0,0.0,0
+2026-06-24T11:38:31.082,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1156.0,9203.0,0.0,0
+2026-06-24T11:38:31.142,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1292.0,10697.0,0.0,0
+2026-06-24T11:38:31.202,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1207.0,9454.0,0.0,0
+2026-06-24T11:38:31.262,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1362.0,9634.0,0.0,0
+2026-06-24T11:38:31.323,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1838.0,9627.0,0.0,0
+2026-06-24T11:38:31.382,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1168.0,10823.0,0.0,0
+2026-06-24T11:38:31.438,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1277.0,9411.0,0.0,0
+2026-06-24T11:38:31.495,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3447.0,8252.0,0.0,0
+2026-06-24T11:38:31.555,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1584.0,10182.0,0.0,0
+2026-06-24T11:38:31.617,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1321.0,9974.0,0.0,0
+2026-06-24T11:38:31.678,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1084.0,10905.0,0.0,0
+2026-06-24T11:38:31.739,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1389.0,9397.0,0.0,0
+2026-06-24T11:38:31.800,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1228.0,10636.0,0.0,0
+2026-06-24T11:38:31.857,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1214.0,9418.0,0.0,0
+2026-06-24T11:38:31.913,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,4227.0,9256.0,0.0,0
+2026-06-24T11:38:31.970,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2858.0,8697.0,0.0,0
+2026-06-24T11:38:32.027,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2011.0,10199.0,0.0,0
+2026-06-24T11:38:32.083,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2469.0,10034.0,0.0,0
+2026-06-24T11:38:32.140,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1533.0,10100.0,0.0,0
+2026-06-24T11:38:32.196,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3487.0,10071.0,0.0,0
+2026-06-24T11:38:32.252,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,4542.0,8746.0,0.0,0
+2026-06-24T11:38:32.308,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,5079.0,10140.0,0.0,0
+2026-06-24T11:38:32.364,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2612.0,10250.0,0.0,0
+2026-06-24T11:38:32.421,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2941.0,10141.0,0.0,0
+2026-06-24T11:38:32.479,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,4900.0,8660.0,0.0,0
+2026-06-24T11:38:32.537,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,884.0,10134.0,0.0,0
+2026-06-24T11:38:32.593,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,794.0,9906.0,0.0,0
+2026-06-24T11:38:32.649,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3350.0,9826.0,0.0,0
+2026-06-24T11:38:32.705,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2373.0,10187.0,0.0,0
+2026-06-24T11:38:32.761,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,3845.0,8740.0,0.0,0
+2026-06-24T11:38:32.817,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,2140.0,10200.0,0.0,0
+2026-06-24T11:38:32.874,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1911.0,10178.0,0.0,0
+2026-06-24T11:38:32.930,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,410.0,10266.0,0.0,0
+2026-06-24T11:38:32.988,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1488.0,8698.0,0.0,0
+2026-06-24T11:38:33.046,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,671.0,10113.0,0.0,0
+2026-06-24T11:38:33.107,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,663.0,10072.0,0.0,0
+2026-06-24T11:38:33.163,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,480.0,11305.0,0.0,0
+2026-06-24T11:38:33.219,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,1531.0,8051.0,0.0,0
+2026-06-24T11:38:33.276,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,6134.0,9705.0,0.0,0
+2026-06-24T11:38:33.333,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,750.0,10226.0,0.0,0
+2026-06-24T11:38:33.392,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,461.0,10239.0,0.0,0
+2026-06-24T11:38:33.453,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,402.0,10055.0,0.0,0
+2026-06-24T11:38:33.515,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,579.0,9749.0,0.0,0
+2026-06-24T11:38:33.576,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,391.0,10674.0,0.0,0
+2026-06-24T11:38:33.637,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,435.0,9234.0,0.0,0
+2026-06-24T11:38:33.697,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,377.0,9357.0,0.0,0
+2026-06-24T11:38:33.757,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,441.0,9388.0,0.0,0
+2026-06-24T11:38:33.819,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,485.0,11010.0,0.0,0
+2026-06-24T11:38:33.881,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,384.0,9637.0,0.0,0
+2026-06-24T11:38:33.942,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,276.0,10615.0,0.0,0
+2026-06-24T11:38:34.004,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,497.0,9191.0,0.0,0
+2026-06-24T11:38:34.066,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,473.0,9401.0,0.0,0
+2026-06-24T11:38:34.112,timeseries,2,Nested Product Conversion,mlx-community/gpt-oss-20b-MXFP4-Q8,488.0,10762.0,0.0,238
+2026-06-24T11:38:37.588,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2655.0,20127.0,0.0,0
+2026-06-24T11:38:37.644,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,302.0,17477.0,0.0,0
+2026-06-24T11:38:37.701,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3354.0,19825.0,0.0,0
+2026-06-24T11:38:37.758,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,728.0,20172.0,0.0,0
+2026-06-24T11:38:37.816,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1659.0,19721.0,0.0,0
+2026-06-24T11:38:37.873,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,923.0,20044.0,0.0,0
+2026-06-24T11:38:37.931,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1399.0,19384.0,0.0,0
+2026-06-24T11:38:37.989,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,913.0,19991.0,0.0,0
+2026-06-24T11:38:38.049,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,436.0,19752.0,0.0,0
+2026-06-24T11:38:38.109,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,272.0,19376.0,0.0,0
+2026-06-24T11:38:38.169,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,250.0,18853.0,0.0,0
+2026-06-24T11:38:38.230,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,235.0,19172.0,0.0,0
+2026-06-24T11:38:38.290,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,299.0,18827.0,0.0,0
+2026-06-24T11:38:38.351,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2109.0,21432.0,0.0,0
+2026-06-24T11:38:38.412,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,119.0,19347.0,0.0,0
+2026-06-24T11:38:38.473,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,114.0,18549.0,0.0,0
+2026-06-24T11:38:38.533,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,590.0,21409.0,0.0,0
+2026-06-24T11:38:38.593,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,196.0,18672.0,0.0,0
+2026-06-24T11:38:38.654,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,99.0,18813.0,0.0,0
+2026-06-24T11:38:38.716,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,302.0,19136.0,0.0,0
+2026-06-24T11:38:38.777,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,82.0,21330.0,0.0,0
+2026-06-24T11:38:38.839,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,97.0,18481.0,0.0,0
+2026-06-24T11:38:38.899,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,972.0,11097.0,0.0,0
+2026-06-24T11:38:38.958,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3310.0,2739.0,0.0,0
+2026-06-24T11:38:39.019,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2874.0,652.0,0.0,0
+2026-06-24T11:38:39.080,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,234.0,1470.0,0.0,0
+2026-06-24T11:38:39.140,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,149.0,1438.0,0.0,0
+2026-06-24T11:38:39.199,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,246.0,1609.0,0.0,0
+2026-06-24T11:38:39.259,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,67.0,1423.0,0.0,0
+2026-06-24T11:38:39.320,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,84.0,1404.0,0.0,0
+2026-06-24T11:38:39.381,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,402.0,1407.0,0.0,0
+2026-06-24T11:38:39.440,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,83.0,1582.0,0.0,0
+2026-06-24T11:38:39.501,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,740.0,1365.0,0.0,0
+2026-06-24T11:38:39.561,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,50.0,1371.0,0.0,0
+2026-06-24T11:38:39.618,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,199.0,1361.0,0.0,0
+2026-06-24T11:38:39.675,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3252.0,1370.0,0.0,0
+2026-06-24T11:38:39.733,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,477.0,1450.0,0.0,0
+2026-06-24T11:38:39.792,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,175.0,1437.0,0.0,0
+2026-06-24T11:38:39.849,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,85.0,1383.0,0.0,0
+2026-06-24T11:38:39.905,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,171.0,1388.0,0.0,0
+2026-06-24T11:38:39.961,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,122.0,1200.0,0.0,0
+2026-06-24T11:38:40.016,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,806.0,1452.0,0.0,0
+2026-06-24T11:38:40.072,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,359.0,1454.0,0.0,0
+2026-06-24T11:38:40.127,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,485.0,1240.0,0.0,0
+2026-06-24T11:38:40.184,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,469.0,1461.0,0.0,0
+2026-06-24T11:38:40.239,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2016.0,1458.0,0.0,0
+2026-06-24T11:38:40.296,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,142.0,1440.0,0.0,0
+2026-06-24T11:38:40.354,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3463.0,1238.0,0.0,0
+2026-06-24T11:38:40.413,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,811.0,1429.0,0.0,0
+2026-06-24T11:38:40.474,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,326.0,1390.0,0.0,0
+2026-06-24T11:38:40.534,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,463.0,1578.0,0.0,0
+2026-06-24T11:38:40.594,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,49.0,1316.0,0.0,0
+2026-06-24T11:38:40.654,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,312.0,1315.0,0.0,0
+2026-06-24T11:38:40.711,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1368.0,0.0,0
+2026-06-24T11:38:40.770,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,741.0,1317.0,0.0,0
+2026-06-24T11:38:40.829,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,156.0,1389.0,0.0,0
+2026-06-24T11:38:40.889,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,103.0,1369.0,0.0,0
+2026-06-24T11:38:40.949,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,186.0,1351.0,0.0,0
+2026-06-24T11:38:41.010,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,601.0,1536.0,0.0,0
+2026-06-24T11:38:41.070,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,66.0,1323.0,0.0,0
+2026-06-24T11:38:41.131,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,66.0,1319.0,0.0,0
+2026-06-24T11:38:41.190,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,149.0,1505.0,0.0,0
+2026-06-24T11:38:41.250,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,83.0,1304.0,0.0,0
+2026-06-24T11:38:41.309,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,119.0,1347.0,0.0,0
+2026-06-24T11:38:41.369,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,100.0,1314.0,0.0,0
+2026-06-24T11:38:41.430,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,286.0,1330.0,0.0,0
+2026-06-24T11:38:41.490,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,678.0,1307.0,0.0,0
+2026-06-24T11:38:41.550,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,66.0,1501.0,0.0,0
+2026-06-24T11:38:41.610,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,34.0,1330.0,0.0,0
+2026-06-24T11:38:41.671,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,50.0,1304.0,0.0,0
+2026-06-24T11:38:41.731,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,416.0,1315.0,0.0,0
+2026-06-24T11:38:41.792,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,232.0,1491.0,0.0,0
+2026-06-24T11:38:41.853,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,264.0,1303.0,0.0,0
+2026-06-24T11:38:41.914,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1367.0,1301.0,0.0,0
+2026-06-24T11:38:41.974,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,342.0,1287.0,0.0,0
+2026-06-24T11:38:42.034,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,1488.0,0.0,0
+2026-06-24T11:38:42.093,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,99.0,1300.0,0.0,0
+2026-06-24T11:38:42.153,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,185.0,1328.0,0.0,0
+2026-06-24T11:38:42.219,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,153.0,1342.0,0.0,0
+2026-06-24T11:38:42.279,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,330.0,3072.0,0.0,0
+2026-06-24T11:38:42.341,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2089.0,7927.0,0.0,0
+2026-06-24T11:38:42.402,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1238.0,10711.0,0.0,0
+2026-06-24T11:38:42.464,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1304.0,9277.0,0.0,0
+2026-06-24T11:38:42.525,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1842.0,9192.0,0.0,0
+2026-06-24T11:38:42.586,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1139.0,10689.0,0.0,0
+2026-06-24T11:38:42.647,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1158.0,9346.0,0.0,0
+2026-06-24T11:38:42.708,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,4009.0,9250.0,0.0,0
+2026-06-24T11:38:42.765,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1235.0,10733.0,0.0,0
+2026-06-24T11:38:42.823,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1261.0,9302.0,0.0,0
+2026-06-24T11:38:42.883,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,592.0,10022.0,0.0,0
+2026-06-24T11:38:42.942,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,447.0,9878.0,0.0,0
+2026-06-24T11:38:43.002,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,673.0,9561.0,0.0,0
+2026-06-24T11:38:43.063,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,435.0,9613.0,0.0,0
+2026-06-24T11:38:43.123,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,400.0,9575.0,0.0,0
+2026-06-24T11:38:43.184,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,380.0,10791.0,0.0,0
+2026-06-24T11:38:43.246,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,250.0,9622.0,0.0,0
+2026-06-24T11:38:43.308,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,230.0,9464.0,0.0,0
+2026-06-24T11:38:43.369,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,193.0,10591.0,0.0,0
+2026-06-24T11:38:43.429,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,226.0,9327.0,0.0,0
+2026-06-24T11:38:43.490,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,346.0,9437.0,0.0,0
+2026-06-24T11:38:43.552,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,742.0,10688.0,0.0,0
+2026-06-24T11:38:43.613,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,619.0,9258.0,0.0,0
+2026-06-24T11:38:43.670,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,362.0,9434.0,0.0,0
+2026-06-24T11:38:43.726,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1465.0,9264.0,0.0,0
+2026-06-24T11:38:43.784,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1877.0,9963.0,0.0,0
+2026-06-24T11:38:43.842,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,510.0,10136.0,0.0,0
+2026-06-24T11:38:43.902,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,627.0,9966.0,0.0,0
+2026-06-24T11:38:43.963,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,361.0,9902.0,0.0,0
+2026-06-24T11:38:44.022,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,568.0,9567.0,0.0,0
+2026-06-24T11:38:44.083,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,686.0,9338.0,0.0,0
+2026-06-24T11:38:44.146,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,476.0,11099.0,0.0,0
+2026-06-24T11:38:44.206,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,358.0,9331.0,0.0,0
+2026-06-24T11:38:44.267,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,457.0,9285.0,0.0,0
+2026-06-24T11:38:44.330,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,345.0,10769.0,0.0,0
+2026-06-24T11:38:44.387,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,308.0,9297.0,0.0,0
+2026-06-24T11:38:44.445,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1190.0,9044.0,0.0,0
+2026-06-24T11:38:44.504,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,772.0,10049.0,0.0,0
+2026-06-24T11:38:44.565,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,619.0,9915.0,0.0,0
+2026-06-24T11:38:44.625,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,511.0,11195.0,0.0,0
+2026-06-24T11:38:44.683,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,513.0,9480.0,0.0,0
+2026-06-24T11:38:44.742,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,795.0,9696.0,0.0,0
+2026-06-24T11:38:44.803,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,536.0,9646.0,0.0,0
+2026-06-24T11:38:44.864,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,357.0,9819.0,0.0,0
+2026-06-24T11:38:44.925,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,279.0,10810.0,0.0,0
+2026-06-24T11:38:44.985,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,441.0,9358.0,0.0,0
+2026-06-24T11:38:45.041,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,539.0,9740.0,0.0,0
+2026-06-24T11:38:45.097,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1993.0,9312.0,0.0,0
+2026-06-24T11:38:45.154,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,5278.0,9990.0,0.0,0
+2026-06-24T11:38:45.210,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3935.0,8743.0,0.0,0
+2026-06-24T11:38:45.267,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1852.0,10152.0,0.0,0
+2026-06-24T11:38:45.325,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,515.0,10265.0,0.0,0
+2026-06-24T11:38:45.385,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,575.0,9990.0,0.0,0
+2026-06-24T11:38:45.445,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,399.0,9969.0,0.0,0
+2026-06-24T11:38:45.507,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,755.0,9644.0,0.0,0
+2026-06-24T11:38:45.568,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,463.0,10934.0,0.0,0
+2026-06-24T11:38:45.627,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,599.0,9333.0,0.0,0
+2026-06-24T11:38:45.685,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,734.0,9364.0,0.0,0
+2026-06-24T11:38:45.744,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,665.0,9793.0,0.0,0
+2026-06-24T11:38:45.806,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,631.0,9821.0,0.0,0
+2026-06-24T11:38:45.869,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,407.0,11147.0,0.0,0
+2026-06-24T11:38:45.930,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,537.0,9311.0,0.0,0
+2026-06-24T11:38:45.991,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,480.0,9139.0,0.0,0
+2026-06-24T11:38:46.052,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,522.0,10793.0,0.0,0
+2026-06-24T11:38:46.114,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,540.0,9423.0,0.0,0
+2026-06-24T11:38:46.175,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,9474.0,0.0,0
+2026-06-24T11:38:46.237,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,355.0,10770.0,0.0,0
+2026-06-24T11:38:46.298,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,368.0,9539.0,0.0,0
+2026-06-24T11:38:46.359,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,315.0,10381.0,0.0,0
+2026-06-24T11:38:46.424,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,281.0,9552.0,0.0,0
+2026-06-24T11:38:46.484,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,260.0,10741.0,0.0,0
+2026-06-24T11:38:46.546,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,435.0,8967.0,0.0,0
+2026-06-24T11:38:46.606,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,231.0,9554.0,0.0,0
+2026-06-24T11:38:46.667,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,378.0,10928.0,0.0,0
+2026-06-24T11:38:46.729,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,378.0,9560.0,0.0,0
+2026-06-24T11:38:46.790,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,251.0,9696.0,0.0,0
+2026-06-24T11:38:46.851,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,253.0,10428.0,0.0,0
+2026-06-24T11:38:46.915,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,212.0,9478.0,0.0,0
+2026-06-24T11:38:46.975,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,228.0,10835.0,0.0,0
+2026-06-24T11:38:47.036,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,585.0,9172.0,0.0,0
+2026-06-24T11:38:47.098,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,346.0,9564.0,0.0,0
+2026-06-24T11:38:47.159,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,280.0,10891.0,0.0,0
+2026-06-24T11:38:47.220,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,260.0,9441.0,0.0,0
+2026-06-24T11:38:47.284,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,312.0,9494.0,0.0,0
+2026-06-24T11:38:47.346,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,194.0,10729.0,0.0,0
+2026-06-24T11:38:47.407,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,206.0,9184.0,0.0,0
+2026-06-24T11:38:47.468,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,226.0,10702.0,0.0,0
+2026-06-24T11:38:47.530,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,570.0,9352.0,0.0,0
+2026-06-24T11:38:47.591,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,408.0,9477.0,0.0,0
+2026-06-24T11:38:47.653,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,257.0,10630.0,0.0,0
+2026-06-24T11:38:47.713,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,466.0,9630.0,0.0,0
+2026-06-24T11:38:47.773,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,386.0,9347.0,0.0,0
+2026-06-24T11:38:47.834,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,598.0,11004.0,0.0,0
+2026-06-24T11:38:47.895,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2391.0,9629.0,0.0,0
+2026-06-24T11:38:47.955,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,980.0,9469.0,0.0,0
+2026-06-24T11:38:48.017,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,993.0,9583.0,0.0,0
+2026-06-24T11:38:48.078,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,510.0,10904.0,0.0,0
+2026-06-24T11:38:48.139,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,617.0,9452.0,0.0,0
+2026-06-24T11:38:48.200,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1077.0,10889.0,0.0,0
+2026-06-24T11:38:48.262,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1309.0,9524.0,0.0,0
+2026-06-24T11:38:48.323,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,999.0,9500.0,0.0,0
+2026-06-24T11:38:48.384,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3063.0,10616.0,0.0,0
+2026-06-24T11:38:48.445,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,698.0,9387.0,0.0,0
+2026-06-24T11:38:48.507,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2095.0,9519.0,0.0,0
+2026-06-24T11:38:48.569,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1161.0,10909.0,0.0,0
+2026-06-24T11:38:48.630,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1180.0,9357.0,0.0,0
+2026-06-24T11:38:48.692,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1068.0,9404.0,0.0,0
+2026-06-24T11:38:48.754,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1411.0,10782.0,0.0,0
+2026-06-24T11:38:48.815,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,4850.0,9425.0,0.0,0
+2026-06-24T11:38:48.880,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,6046.0,10864.0,0.0,0
+2026-06-24T11:38:48.935,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,7601.0,9596.0,0.0,0
+2026-06-24T11:38:48.990,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,8454.0,8547.0,0.0,0
+2026-06-24T11:38:49.050,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,6778.0,10685.0,0.0,0
+2026-06-24T11:38:49.112,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,5744.0,10403.0,0.0,0
+2026-06-24T11:38:49.172,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,936.0,9712.0,0.0,0
+2026-06-24T11:38:49.234,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,775.0,10747.0,0.0,0
+2026-06-24T11:38:49.295,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,666.0,9741.0,0.0,0
+2026-06-24T11:38:49.355,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,849.0,9535.0,0.0,0
+2026-06-24T11:38:49.417,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1134.0,9596.0,0.0,0
+2026-06-24T11:38:49.478,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1347.0,10892.0,0.0,0
+2026-06-24T11:38:49.539,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1363.0,9458.0,0.0,0
+2026-06-24T11:38:49.600,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1088.0,11040.0,0.0,0
+2026-06-24T11:38:49.662,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1114.0,9582.0,0.0,0
+2026-06-24T11:38:49.723,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1069.0,9575.0,0.0,0
+2026-06-24T11:38:49.783,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1272.0,10756.0,0.0,0
+2026-06-24T11:38:49.845,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1190.0,9507.0,0.0,0
+2026-06-24T11:38:49.906,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1127.0,9680.0,0.0,0
+2026-06-24T11:38:49.968,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1179.0,10758.0,0.0,0
+2026-06-24T11:38:50.029,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1609.0,9521.0,0.0,0
+2026-06-24T11:38:50.089,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1139.0,9487.0,0.0,0
+2026-06-24T11:38:50.149,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1146.0,10952.0,0.0,0
+2026-06-24T11:38:50.211,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1156.0,9783.0,0.0,0
+2026-06-24T11:38:50.272,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1181.0,9597.0,0.0,0
+2026-06-24T11:38:50.333,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1059.0,9528.0,0.0,0
+2026-06-24T11:38:50.395,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1051.0,10932.0,0.0,0
+2026-06-24T11:38:50.456,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1100.0,9609.0,0.0,0
+2026-06-24T11:38:50.515,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1497.0,10752.0,0.0,0
+2026-06-24T11:38:50.576,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1262.0,9435.0,0.0,0
+2026-06-24T11:38:50.636,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1129.0,9938.0,0.0,0
+2026-06-24T11:38:50.697,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1254.0,9462.0,0.0,0
+2026-06-24T11:38:50.759,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1478.0,9792.0,0.0,0
+2026-06-24T11:38:50.820,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1389.0,10901.0,0.0,0
+2026-06-24T11:38:50.881,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1143.0,9453.0,0.0,0
+2026-06-24T11:38:50.942,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1209.0,10912.0,0.0,0
+2026-06-24T11:38:51.003,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1466.0,9553.0,0.0,0
+2026-06-24T11:38:51.065,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1080.0,9591.0,0.0,0
+2026-06-24T11:38:51.126,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1147.0,10981.0,0.0,0
+2026-06-24T11:38:51.187,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1075.0,9549.0,0.0,0
+2026-06-24T11:38:51.248,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1158.0,9573.0,0.0,0
+2026-06-24T11:38:51.309,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1047.0,10895.0,0.0,0
+2026-06-24T11:38:51.370,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1136.0,9663.0,0.0,0
+2026-06-24T11:38:51.431,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1063.0,9583.0,0.0,0
+2026-06-24T11:38:51.492,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1548.0,10905.0,0.0,0
+2026-06-24T11:38:51.553,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1086.0,9614.0,0.0,0
+2026-06-24T11:38:51.614,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1087.0,9619.0,0.0,0
+2026-06-24T11:38:51.674,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1182.0,9600.0,0.0,0
+2026-06-24T11:38:51.733,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1066.0,11008.0,0.0,0
+2026-06-24T11:38:51.795,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1180.0,9759.0,0.0,0
+2026-06-24T11:38:51.854,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1445.0,9976.0,0.0,0
+2026-06-24T11:38:51.916,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1987.0,9445.0,0.0,0
+2026-06-24T11:38:51.975,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1293.0,11020.0,0.0,0
+2026-06-24T11:38:52.036,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1405.0,9508.0,0.0,0
+2026-06-24T11:38:52.097,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1500.0,9894.0,0.0,0
+2026-06-24T11:38:52.159,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1241.0,10939.0,0.0,0
+2026-06-24T11:38:52.222,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1012.0,9536.0,0.0,0
+2026-06-24T11:38:52.284,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1076.0,9508.0,0.0,0
+2026-06-24T11:38:52.345,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1134.0,10412.0,0.0,0
+2026-06-24T11:38:52.406,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1122.0,9544.0,0.0,0
+2026-06-24T11:38:52.467,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1145.0,10944.0,0.0,0
+2026-06-24T11:38:52.528,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1408.0,9526.0,0.0,0
+2026-06-24T11:38:52.589,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1073.0,9547.0,0.0,0
+2026-06-24T11:38:52.650,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1146.0,11006.0,0.0,0
+2026-06-24T11:38:52.711,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1069.0,9668.0,0.0,0
+2026-06-24T11:38:52.771,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1151.0,9640.0,0.0,0
+2026-06-24T11:38:52.834,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1056.0,9655.0,0.0,0
+2026-06-24T11:38:52.895,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1302.0,11055.0,0.0,0
+2026-06-24T11:38:52.956,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3307.0,9294.0,0.0,0
+2026-06-24T11:38:53.017,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1209.0,10929.0,0.0,0
+2026-06-24T11:38:53.078,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,522.0,9565.0,0.0,0
+2026-06-24T11:38:53.139,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,411.0,9644.0,0.0,0
+2026-06-24T11:38:53.199,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,312.0,9634.0,0.0,0
+2026-06-24T11:38:53.259,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,267.0,11182.0,0.0,0
+2026-06-24T11:38:53.321,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,263.0,9650.0,0.0,0
+2026-06-24T11:38:53.383,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,279.0,9650.0,0.0,0
+2026-06-24T11:38:53.444,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,227.0,10801.0,0.0,0
+2026-06-24T11:38:53.505,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,420.0,9455.0,0.0,0
+2026-06-24T11:38:53.568,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,359.0,9579.0,0.0,0
+2026-06-24T11:38:53.629,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,263.0,11045.0,0.0,0
+2026-06-24T11:38:53.691,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,255.0,9323.0,0.0,0
+2026-06-24T11:38:53.752,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,278.0,10850.0,0.0,0
+2026-06-24T11:38:53.814,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,228.0,9542.0,0.0,0
+2026-06-24T11:38:53.874,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,243.0,9499.0,0.0,0
+2026-06-24T11:38:53.935,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,10937.0,0.0,0
+2026-06-24T11:38:53.997,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,701.0,9757.0,0.0,0
+2026-06-24T11:38:54.058,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,423.0,9540.0,0.0,0
+2026-06-24T11:38:54.120,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,355.0,10850.0,0.0,0
+2026-06-24T11:38:54.182,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,229.0,9652.0,0.0,0
+2026-06-24T11:38:54.244,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,256.0,10683.0,0.0,0
+2026-06-24T11:38:54.305,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,258.0,9432.0,0.0,0
+2026-06-24T11:38:54.368,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,212.0,9598.0,0.0,0
+2026-06-24T11:38:54.428,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,212.0,11006.0,0.0,0
+2026-06-24T11:38:54.488,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,370.0,9353.0,0.0,0
+2026-06-24T11:38:54.549,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2307.0,9694.0,0.0,0
+2026-06-24T11:38:54.610,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1660.0,10898.0,0.0,0
+2026-06-24T11:38:54.671,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,720.0,9627.0,0.0,0
+2026-06-24T11:38:54.733,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,655.0,9638.0,0.0,0
+2026-06-24T11:38:54.794,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,806.0,11109.0,0.0,0
+2026-06-24T11:38:54.856,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1078.0,9460.0,0.0,0
+2026-06-24T11:38:54.917,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,864.0,9573.0,0.0,0
+2026-06-24T11:38:54.979,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1388.0,10927.0,0.0,0
+2026-06-24T11:38:55.041,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1019.0,9494.0,0.0,0
+2026-06-24T11:38:55.102,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,935.0,10852.0,0.0,0
+2026-06-24T11:38:55.164,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,890.0,9511.0,0.0,0
+2026-06-24T11:38:55.225,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,954.0,9642.0,0.0,0
+2026-06-24T11:38:55.286,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1260.0,10835.0,0.0,0
+2026-06-24T11:38:55.347,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,831.0,9595.0,0.0,0
+2026-06-24T11:38:55.408,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,936.0,9656.0,0.0,0
+2026-06-24T11:38:55.469,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,11043.0,0.0,0
+2026-06-24T11:38:55.528,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1361.0,9612.0,0.0,0
+2026-06-24T11:38:55.589,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,854.0,9674.0,0.0,0
+2026-06-24T11:38:55.650,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,918.0,10050.0,0.0,0
+2026-06-24T11:38:55.710,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,837.0,11081.0,0.0,0
+2026-06-24T11:38:55.772,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,967.0,9656.0,0.0,0
+2026-06-24T11:38:55.832,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,788.0,9642.0,0.0,0
+2026-06-24T11:38:55.891,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,801.0,11023.0,0.0,0
+2026-06-24T11:38:55.953,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,821.0,9705.0,0.0,0
+2026-06-24T11:38:56.013,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1547.0,10013.0,0.0,0
+2026-06-24T11:38:56.075,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1033.0,9642.0,0.0,0
+2026-06-24T11:38:56.137,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,786.0,11005.0,0.0,0
+2026-06-24T11:38:56.197,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,833.0,9633.0,0.0,0
+2026-06-24T11:38:56.258,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,796.0,9569.0,0.0,0
+2026-06-24T11:38:56.320,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,902.0,11070.0,0.0,0
+2026-06-24T11:38:56.381,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,900.0,9651.0,0.0,0
+2026-06-24T11:38:56.443,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,762.0,10916.0,0.0,0
+2026-06-24T11:38:56.504,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1272.0,9587.0,0.0,0
+2026-06-24T11:38:56.565,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,878.0,9580.0,0.0,0
+2026-06-24T11:38:56.625,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1030.0,11040.0,0.0,0
+2026-06-24T11:38:56.686,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,823.0,9699.0,0.0,0
+2026-06-24T11:38:56.746,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,811.0,9753.0,0.0,0
+2026-06-24T11:38:56.807,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,880.0,9798.0,0.0,0
+2026-06-24T11:38:56.869,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,809.0,11160.0,0.0,0
+2026-06-24T11:38:56.930,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,9746.0,0.0,0
+2026-06-24T11:38:56.988,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1300.0,9453.0,0.0,0
+2026-06-24T11:38:57.049,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,960.0,9750.0,0.0,0
+2026-06-24T11:38:57.109,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1023.0,11473.0,0.0,0
+2026-06-24T11:38:57.170,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,814.0,9837.0,0.0,0
+2026-06-24T11:38:57.232,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,9684.0,0.0,0
+2026-06-24T11:38:57.293,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,945.0,10986.0,0.0,0
+2026-06-24T11:38:57.355,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,807.0,9474.0,0.0,0
+2026-06-24T11:38:57.416,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,799.0,9643.0,0.0,0
+2026-06-24T11:38:57.477,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1032.0,11075.0,0.0,0
+2026-06-24T11:38:57.538,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1065.0,9668.0,0.0,0
+2026-06-24T11:38:57.599,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,990.0,9577.0,0.0,0
+2026-06-24T11:38:57.661,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,755.0,11024.0,0.0,0
+2026-06-24T11:38:57.723,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,836.0,9686.0,0.0,0
+2026-06-24T11:38:57.783,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,797.0,11018.0,0.0,0
+2026-06-24T11:38:57.844,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,889.0,9532.0,0.0,0
+2026-06-24T11:38:57.905,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,905.0,9709.0,0.0,0
+2026-06-24T11:38:57.966,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,792.0,9730.0,0.0,0
+2026-06-24T11:38:58.027,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3190.0,10840.0,0.0,0
+2026-06-24T11:38:58.089,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1631.0,9738.0,0.0,0
+2026-06-24T11:38:58.148,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,656.0,9686.0,0.0,0
+2026-06-24T11:38:58.209,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,439.0,10993.0,0.0,0
+2026-06-24T11:38:58.270,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,417.0,9830.0,0.0,0
+2026-06-24T11:38:58.331,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,399.0,9784.0,0.0,0
+2026-06-24T11:38:58.392,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,753.0,9631.0,0.0,0
+2026-06-24T11:38:58.453,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1396.0,11034.0,0.0,0
+2026-06-24T11:38:58.514,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,966.0,9662.0,0.0,0
+2026-06-24T11:38:58.575,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,556.0,9674.0,0.0,0
+2026-06-24T11:38:58.635,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,426.0,11065.0,0.0,0
+2026-06-24T11:38:58.696,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,344.0,9683.0,0.0,0
+2026-06-24T11:38:58.756,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,331.0,9787.0,0.0,0
+2026-06-24T11:38:58.818,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,298.0,11209.0,0.0,0
+2026-06-24T11:38:58.879,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,281.0,9760.0,0.0,0
+2026-06-24T11:38:58.939,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,227.0,9573.0,0.0,0
+2026-06-24T11:38:59.001,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,375.0,10966.0,0.0,0
+2026-06-24T11:38:59.064,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,315.0,9837.0,0.0,0
+2026-06-24T11:38:59.124,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,229.0,9647.0,0.0,0
+2026-06-24T11:38:59.185,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,382.0,10735.0,0.0,0
+2026-06-24T11:38:59.247,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,381.0,9767.0,0.0,0
+2026-06-24T11:38:59.307,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,276.0,9592.0,0.0,0
+2026-06-24T11:38:59.370,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,245.0,11065.0,0.0,0
+2026-06-24T11:38:59.430,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,230.0,9761.0,0.0,0
+2026-06-24T11:38:59.490,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,337.0,9458.0,0.0,0
+2026-06-24T11:38:59.552,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,513.0,11157.0,0.0,0
+2026-06-24T11:38:59.612,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,264.0,9781.0,0.0,0
+2026-06-24T11:38:59.672,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,291.0,9559.0,0.0,0
+2026-06-24T11:38:59.734,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,299.0,11280.0,0.0,0
+2026-06-24T11:38:59.795,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,300.0,9852.0,0.0,0
+2026-06-24T11:38:59.857,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,9594.0,0.0,0
+2026-06-24T11:38:59.919,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,359.0,10857.0,0.0,0
+2026-06-24T11:38:59.980,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,326.0,9572.0,0.0,0
+2026-06-24T11:39:00.042,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,573.0,9332.0,0.0,0
+2026-06-24T11:39:00.105,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,692.0,10901.0,0.0,0
+2026-06-24T11:39:00.166,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,470.0,9570.0,0.0,0
+2026-06-24T11:39:00.227,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,574.0,10679.0,0.0,0
+2026-06-24T11:39:00.289,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,551.0,9529.0,0.0,0
+2026-06-24T11:39:00.351,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,312.0,11032.0,0.0,0
+2026-06-24T11:39:00.415,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,306.0,9429.0,0.0,0
+2026-06-24T11:39:00.476,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,10881.0,0.0,0
+2026-06-24T11:39:00.539,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,608.0,9160.0,0.0,0
+2026-06-24T11:39:00.599,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,398.0,9782.0,0.0,0
+2026-06-24T11:39:00.662,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,399.0,10707.0,0.0,0
+2026-06-24T11:39:00.723,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,409.0,9602.0,0.0,0
+2026-06-24T11:39:00.785,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,289.0,10837.0,0.0,0
+2026-06-24T11:39:00.847,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,292.0,9580.0,0.0,0
+2026-06-24T11:39:00.912,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,9572.0,0.0,0
+2026-06-24T11:39:00.971,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,335.0,10765.0,0.0,0
+2026-06-24T11:39:01.032,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,752.0,9159.0,0.0,0
+2026-06-24T11:39:01.094,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,398.0,11171.0,0.0,0
+2026-06-24T11:39:01.157,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,330.0,9725.0,0.0,0
+2026-06-24T11:39:01.221,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,258.0,10933.0,0.0,0
+2026-06-24T11:39:01.283,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,482.0,9476.0,0.0,0
+2026-06-24T11:39:01.340,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,632.0,10287.0,0.0,0
+2026-06-24T11:39:01.399,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1835.0,8755.0,0.0,0
+2026-06-24T11:39:01.459,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2046.0,9866.0,0.0,0
+2026-06-24T11:39:01.522,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2669.0,9794.0,0.0,0
+2026-06-24T11:39:01.583,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,877.0,10071.0,0.0,0
+2026-06-24T11:39:01.646,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1086.0,10801.0,0.0,0
+2026-06-24T11:39:01.710,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1225.0,9780.0,0.0,0
+2026-06-24T11:39:01.773,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,792.0,10575.0,0.0,0
+2026-06-24T11:39:01.836,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,733.0,10650.0,0.0,0
+2026-06-24T11:39:01.898,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,376.0,9251.0,0.0,0
+2026-06-24T11:39:01.959,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,926.0,10728.0,0.0,0
+2026-06-24T11:39:02.022,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,972.0,9554.0,0.0,0
+2026-06-24T11:39:02.084,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,712.0,9579.0,0.0,0
+2026-06-24T11:39:02.144,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,556.0,10863.0,0.0,0
+2026-06-24T11:39:02.206,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,489.0,9594.0,0.0,0
+2026-06-24T11:39:02.266,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,416.0,11160.0,0.0,0
+2026-06-24T11:39:02.328,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,607.0,9383.0,0.0,0
+2026-06-24T11:39:02.388,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,452.0,9850.0,0.0,0
+2026-06-24T11:39:02.450,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,440.0,9586.0,0.0,0
+2026-06-24T11:39:02.513,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,670.0,10947.0,0.0,0
+2026-06-24T11:39:02.574,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,551.0,9531.0,0.0,0
+2026-06-24T11:39:02.637,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,431.0,10686.0,0.0,0
+2026-06-24T11:39:02.698,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,395.0,9666.0,0.0,0
+2026-06-24T11:39:02.760,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,10688.0,0.0,0
+2026-06-24T11:39:02.822,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,373.0,9565.0,0.0,0
+2026-06-24T11:39:02.886,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,359.0,9627.0,0.0,0
+2026-06-24T11:39:02.947,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,365.0,10706.0,0.0,0
+2026-06-24T11:39:03.011,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2519.0,9074.0,0.0,0
+2026-06-24T11:39:03.073,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1506.0,11077.0,0.0,0
+2026-06-24T11:39:03.135,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,714.0,10444.0,0.0,0
+2026-06-24T11:39:03.197,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2663.0,9385.0,0.0,0
+2026-06-24T11:39:03.259,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1234.0,9663.0,0.0,0
+2026-06-24T11:39:03.321,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,961.0,10941.0,0.0,0
+2026-06-24T11:39:03.383,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,726.0,9546.0,0.0,0
+2026-06-24T11:39:03.446,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,722.0,10843.0,0.0,0
+2026-06-24T11:39:03.510,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1326.0,9525.0,0.0,0
+2026-06-24T11:39:03.571,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,978.0,10866.0,0.0,0
+2026-06-24T11:39:03.632,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,988.0,9283.0,0.0,0
+2026-06-24T11:39:03.693,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,901.0,11129.0,0.0,0
+2026-06-24T11:39:03.756,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,979.0,9677.0,0.0,0
+2026-06-24T11:39:03.818,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,829.0,9637.0,0.0,0
+2026-06-24T11:39:03.879,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,893.0,10765.0,0.0,0
+2026-06-24T11:39:03.941,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,899.0,9659.0,0.0,0
+2026-06-24T11:39:04.004,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1315.0,11021.0,0.0,0
+2026-06-24T11:39:04.065,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1070.0,9628.0,0.0,0
+2026-06-24T11:39:04.127,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1093.0,10591.0,0.0,0
+2026-06-24T11:39:04.189,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,819.0,9693.0,0.0,0
+2026-06-24T11:39:04.250,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,872.0,9558.0,0.0,0
+2026-06-24T11:39:04.312,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,846.0,11058.0,0.0,0
+2026-06-24T11:39:04.374,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1094.0,9700.0,0.0,0
+2026-06-24T11:39:04.435,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,972.0,10983.0,0.0,0
+2026-06-24T11:39:04.497,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1275.0,9539.0,0.0,0
+2026-06-24T11:39:04.558,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,832.0,9696.0,0.0,0
+2026-06-24T11:39:04.619,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,925.0,11051.0,0.0,0
+2026-06-24T11:39:04.680,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,9782.0,0.0,0
+2026-06-24T11:39:04.742,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,849.0,9730.0,0.0,0
+2026-06-24T11:39:04.804,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,975.0,11034.0,0.0,0
+2026-06-24T11:39:04.865,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,777.0,9596.0,0.0,0
+2026-06-24T11:39:04.927,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,926.0,11027.0,0.0,0
+2026-06-24T11:39:04.989,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1256.0,9688.0,0.0,0
+2026-06-24T11:39:05.050,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,885.0,9594.0,0.0,0
+2026-06-24T11:39:05.111,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1131.0,11019.0,0.0,0
+2026-06-24T11:39:05.172,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1094.0,9892.0,0.0,0
+2026-06-24T11:39:05.233,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,831.0,9706.0,0.0,0
+2026-06-24T11:39:05.295,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1220.0,10963.0,0.0,0
+2026-06-24T11:39:05.357,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,880.0,9684.0,0.0,0
+2026-06-24T11:39:05.419,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1100.0,11032.0,0.0,0
+2026-06-24T11:39:05.480,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1215.0,9604.0,0.0,0
+2026-06-24T11:39:05.541,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1103.0,9653.0,0.0,0
+2026-06-24T11:39:05.602,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,850.0,11049.0,0.0,0
+2026-06-24T11:39:05.663,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,891.0,9829.0,0.0,0
+2026-06-24T11:39:05.725,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,844.0,9677.0,0.0,0
+2026-06-24T11:39:05.786,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,900.0,11198.0,0.0,0
+2026-06-24T11:39:05.848,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,885.0,9755.0,0.0,0
+2026-06-24T11:39:05.909,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,975.0,11031.0,0.0,0
+2026-06-24T11:39:05.972,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,880.0,9491.0,0.0,0
+2026-06-24T11:39:06.031,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1298.0,9757.0,0.0,0
+2026-06-24T11:39:06.093,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1134.0,11035.0,0.0,0
+2026-06-24T11:39:06.155,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,907.0,9828.0,0.0,0
+2026-06-24T11:39:06.220,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,952.0,9603.0,0.0,0
+2026-06-24T11:39:06.281,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,983.0,10963.0,0.0,0
+2026-06-24T11:39:06.347,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,841.0,10596.0,0.0,0
+2026-06-24T11:39:06.414,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,938.0,9609.0,0.0,0
+2026-06-24T11:39:06.476,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1336.0,10384.0,0.0,0
+2026-06-24T11:39:06.538,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1597.0,10042.0,0.0,0
+2026-06-24T11:39:06.600,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,9552.0,0.0,0
+2026-06-24T11:39:06.662,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,853.0,10922.0,0.0,0
+2026-06-24T11:39:06.723,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,934.0,9599.0,0.0,0
+2026-06-24T11:39:06.784,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,859.0,11051.0,0.0,0
+2026-06-24T11:39:06.848,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,899.0,9777.0,0.0,0
+2026-06-24T11:39:06.912,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1043.0,10988.0,0.0,0
+2026-06-24T11:39:06.977,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,987.0,9291.0,0.0,0
+2026-06-24T11:39:07.040,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1429.0,10619.0,0.0,0
+2026-06-24T11:39:07.104,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1304.0,10495.0,0.0,0
+2026-06-24T11:39:07.167,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1065.0,9331.0,0.0,0
+2026-06-24T11:39:07.230,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1166.0,10587.0,0.0,0
+2026-06-24T11:39:07.294,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,962.0,9528.0,0.0,0
+2026-06-24T11:39:07.356,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1007.0,10678.0,0.0,0
+2026-06-24T11:39:07.419,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,977.0,9374.0,0.0,0
+2026-06-24T11:39:07.482,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1559.0,10929.0,0.0,0
+2026-06-24T11:39:07.546,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1188.0,10720.0,0.0,0
+2026-06-24T11:39:07.608,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,996.0,9409.0,0.0,0
+2026-06-24T11:39:07.671,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,979.0,10719.0,0.0,0
+2026-06-24T11:39:07.735,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,974.0,9657.0,0.0,0
+2026-06-24T11:39:07.797,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1166.0,10574.0,0.0,0
+2026-06-24T11:39:07.859,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,965.0,9398.0,0.0,0
+2026-06-24T11:39:07.922,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,935.0,10924.0,0.0,0
+2026-06-24T11:39:07.983,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1391.0,9588.0,0.0,0
+2026-06-24T11:39:08.046,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1188.0,10773.0,0.0,0
+2026-06-24T11:39:08.107,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1296.0,9672.0,0.0,0
+2026-06-24T11:39:08.169,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1128.0,10989.0,0.0,0
+2026-06-24T11:39:08.231,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1023.0,9691.0,0.0,0
+2026-06-24T11:39:08.294,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1087.0,11095.0,0.0,0
+2026-06-24T11:39:08.357,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,4015.0,9405.0,0.0,0
+2026-06-24T11:39:08.421,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,798.0,10810.0,0.0,0
+2026-06-24T11:39:08.482,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2565.0,9238.0,0.0,0
+2026-06-24T11:39:08.545,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1422.0,10776.0,0.0,0
+2026-06-24T11:39:08.608,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,750.0,9773.0,0.0,0
+2026-06-24T11:39:08.672,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,716.0,10822.0,0.0,0
+2026-06-24T11:39:08.735,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1018.0,9464.0,0.0,0
+2026-06-24T11:39:08.797,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1090.0,10609.0,0.0,0
+2026-06-24T11:39:08.860,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1148.0,9485.0,0.0,0
+2026-06-24T11:39:08.923,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,937.0,10920.0,0.0,0
+2026-06-24T11:39:08.986,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1439.0,10756.0,0.0,0
+2026-06-24T11:39:09.047,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1169.0,9428.0,0.0,0
+2026-06-24T11:39:09.110,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1327.0,9484.0,0.0,0
+2026-06-24T11:39:09.173,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1121.0,11048.0,0.0,0
+2026-06-24T11:39:09.236,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1097.0,10749.0,0.0,0
+2026-06-24T11:39:09.298,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1056.0,9551.0,0.0,0
+2026-06-24T11:39:09.359,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1007.0,10729.0,0.0,0
+2026-06-24T11:39:09.421,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,946.0,9737.0,0.0,0
+2026-06-24T11:39:09.482,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1386.0,9753.0,0.0,0
+2026-06-24T11:39:09.547,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1219.0,10942.0,0.0,0
+2026-06-24T11:39:09.611,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1408.0,9760.0,0.0,0
+2026-06-24T11:39:09.676,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1131.0,10422.0,0.0,0
+2026-06-24T11:39:09.740,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1078.0,10561.0,0.0,0
+2026-06-24T11:39:09.802,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1127.0,10469.0,0.0,0
+2026-06-24T11:39:09.865,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1301.0,9122.0,0.0,0
+2026-06-24T11:39:09.927,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,921.0,10982.0,0.0,0
+2026-06-24T11:39:09.989,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1343.0,9528.0,0.0,0
+2026-06-24T11:39:10.050,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,903.0,9658.0,0.0,0
+2026-06-24T11:39:10.111,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1195.0,11062.0,0.0,0
+2026-06-24T11:39:10.173,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,899.0,9794.0,0.0,0
+2026-06-24T11:39:10.234,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,960.0,11092.0,0.0,0
+2026-06-24T11:39:10.295,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,814.0,9734.0,0.0,0
+2026-06-24T11:39:10.356,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,917.0,9790.0,0.0,0
+2026-06-24T11:39:10.417,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,846.0,11157.0,0.0,0
+2026-06-24T11:39:10.479,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1175.0,9916.0,0.0,0
+2026-06-24T11:39:10.540,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,969.0,9695.0,0.0,0
+2026-06-24T11:39:10.603,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1141.0,11137.0,0.0,0
+2026-06-24T11:39:10.664,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,896.0,9726.0,0.0,0
+2026-06-24T11:39:10.725,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,821.0,9637.0,0.0,0
+2026-06-24T11:39:10.786,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,863.0,11176.0,0.0,0
+2026-06-24T11:39:10.847,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,849.0,9797.0,0.0,0
+2026-06-24T11:39:10.908,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,930.0,9757.0,0.0,0
+2026-06-24T11:39:10.970,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,947.0,11165.0,0.0,0
+2026-06-24T11:39:11.032,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1298.0,9795.0,0.0,0
+2026-06-24T11:39:11.093,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1097.0,11018.0,0.0,0
+2026-06-24T11:39:11.155,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,963.0,9823.0,0.0,0
+2026-06-24T11:39:11.216,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,842.0,9705.0,0.0,0
+2026-06-24T11:39:11.278,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,908.0,11136.0,0.0,0
+2026-06-24T11:39:11.340,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,968.0,9839.0,0.0,0
+2026-06-24T11:39:11.402,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,885.0,10920.0,0.0,0
+2026-06-24T11:39:11.464,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,847.0,9770.0,0.0,0
+2026-06-24T11:39:11.527,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1404.0,11009.0,0.0,0
+2026-06-24T11:39:11.589,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,988.0,9532.0,0.0,0
+2026-06-24T11:39:11.650,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1225.0,9513.0,0.0,0
+2026-06-24T11:39:11.713,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,11034.0,0.0,0
+2026-06-24T11:39:11.775,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,887.0,9811.0,0.0,0
+2026-06-24T11:39:11.836,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3154.0,10815.0,0.0,0
+2026-06-24T11:39:11.897,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1048.0,9709.0,0.0,0
+2026-06-24T11:39:11.959,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1434.0,9839.0,0.0,0
+2026-06-24T11:39:12.022,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1921.0,11026.0,0.0,0
+2026-06-24T11:39:12.082,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1144.0,9631.0,0.0,0
+2026-06-24T11:39:12.144,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,989.0,10946.0,0.0,0
+2026-06-24T11:39:12.206,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,934.0,9976.0,0.0,0
+2026-06-24T11:39:12.269,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,884.0,11010.0,0.0,0
+2026-06-24T11:39:12.330,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,905.0,9699.0,0.0,0
+2026-06-24T11:39:12.392,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,870.0,9460.0,0.0,0
+2026-06-24T11:39:12.454,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1050.0,11282.0,0.0,0
+2026-06-24T11:39:12.516,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1272.0,9738.0,0.0,0
+2026-06-24T11:39:12.577,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,844.0,10855.0,0.0,0
+2026-06-24T11:39:12.637,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,874.0,9899.0,0.0,0
+2026-06-24T11:39:12.698,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1101.0,9680.0,0.0,0
+2026-06-24T11:39:12.759,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,930.0,11441.0,0.0,0
+2026-06-24T11:39:12.820,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,9873.0,0.0,0
+2026-06-24T11:39:12.883,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,939.0,9899.0,0.0,0
+2026-06-24T11:39:12.946,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,844.0,11068.0,0.0,0
+2026-06-24T11:39:13.008,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1367.0,9587.0,0.0,0
+2026-06-24T11:39:13.071,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1146.0,10934.0,0.0,0
+2026-06-24T11:39:13.132,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,962.0,9732.0,0.0,0
+2026-06-24T11:39:13.194,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,942.0,10898.0,0.0,0
+2026-06-24T11:39:13.256,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1120.0,9885.0,0.0,0
+2026-06-24T11:39:13.318,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,843.0,10825.0,0.0,0
+2026-06-24T11:39:13.379,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,893.0,9746.0,0.0,0
+2026-06-24T11:39:13.441,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1334.0,9759.0,0.0,0
+2026-06-24T11:39:13.503,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3976.0,11060.0,0.0,0
+2026-06-24T11:39:13.573,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,690.0,9656.0,0.0,0
+2026-06-24T11:39:13.631,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,598.0,12292.0,0.0,0
+2026-06-24T11:39:13.688,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,5009.0,7992.0,0.0,0
+2026-06-24T11:39:13.745,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3072.0,8907.0,0.0,0
+2026-06-24T11:39:13.803,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1020.0,10605.0,0.0,0
+2026-06-24T11:39:13.860,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1115.0,10438.0,0.0,0
+2026-06-24T11:39:13.917,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,852.0,10340.0,0.0,0
+2026-06-24T11:39:13.974,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,947.0,10385.0,0.0,0
+2026-06-24T11:39:14.031,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2160.0,10211.0,0.0,0
+2026-06-24T11:39:14.089,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,902.0,10599.0,0.0,0
+2026-06-24T11:39:14.147,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,699.0,8961.0,0.0,0
+2026-06-24T11:39:14.205,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,712.0,10370.0,0.0,0
+2026-06-24T11:39:14.266,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,448.0,10331.0,0.0,0
+2026-06-24T11:39:14.328,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,358.0,11718.0,0.0,0
+2026-06-24T11:39:14.389,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,280.0,9896.0,0.0,0
+2026-06-24T11:39:14.450,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,260.0,9755.0,0.0,0
+2026-06-24T11:39:14.511,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,507.0,11206.0,0.0,0
+2026-06-24T11:39:14.571,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,425.0,9831.0,0.0,0
+2026-06-24T11:39:14.633,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,333.0,9980.0,0.0,0
+2026-06-24T11:39:14.695,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,311.0,11215.0,0.0,0
+2026-06-24T11:39:14.757,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,291.0,9717.0,0.0,0
+2026-06-24T11:39:14.818,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,566.0,11022.0,0.0,0
+2026-06-24T11:39:14.880,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,442.0,9763.0,0.0,0
+2026-06-24T11:39:14.940,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,326.0,9777.0,0.0,0
+2026-06-24T11:39:15.003,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,572.0,11114.0,0.0,0
+2026-06-24T11:39:15.064,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,538.0,9758.0,0.0,0
+2026-06-24T11:39:15.126,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,384.0,9616.0,0.0,0
+2026-06-24T11:39:15.187,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,374.0,11176.0,0.0,0
+2026-06-24T11:39:15.248,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,327.0,9866.0,0.0,0
+2026-06-24T11:39:15.310,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,466.0,10961.0,0.0,0
+2026-06-24T11:39:15.374,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,331.0,9933.0,0.0,0
+2026-06-24T11:39:15.436,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,320.0,10888.0,0.0,0
+2026-06-24T11:39:15.497,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,582.0,9377.0,0.0,0
+2026-06-24T11:39:15.557,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,567.0,9730.0,0.0,0
+2026-06-24T11:39:15.618,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,480.0,11317.0,0.0,0
+2026-06-24T11:39:15.680,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,380.0,9887.0,0.0,0
+2026-06-24T11:39:15.740,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,617.0,9688.0,0.0,0
+2026-06-24T11:39:15.801,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,388.0,11135.0,0.0,0
+2026-06-24T11:39:15.871,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,491.0,10155.0,0.0,0
+2026-06-24T11:39:15.930,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,548.0,10899.0,0.0,0
+2026-06-24T11:39:15.995,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2151.0,8316.0,0.0,0
+2026-06-24T11:39:16.056,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1734.0,11428.0,0.0,0
+2026-06-24T11:39:16.117,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1265.0,9333.0,0.0,0
+2026-06-24T11:39:16.177,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1135.0,11614.0,0.0,0
+2026-06-24T11:39:16.239,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1238.0,9696.0,0.0,0
+2026-06-24T11:39:16.299,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,614.0,11419.0,0.0,0
+2026-06-24T11:39:16.360,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,645.0,9625.0,0.0,0
+2026-06-24T11:39:16.423,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,524.0,10102.0,0.0,0
+2026-06-24T11:39:16.485,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,810.0,11171.0,0.0,0
+2026-06-24T11:39:16.546,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,895.0,9405.0,0.0,0
+2026-06-24T11:39:16.607,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,531.0,9595.0,0.0,0
+2026-06-24T11:39:16.669,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,421.0,10987.0,0.0,0
+2026-06-24T11:39:16.731,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,333.0,9972.0,0.0,0
+2026-06-24T11:39:16.792,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,320.0,10988.0,0.0,0
+2026-06-24T11:39:16.853,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,420.0,9619.0,0.0,0
+2026-06-24T11:39:16.916,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,396.0,9897.0,0.0,0
+2026-06-24T11:39:16.977,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,11143.0,0.0,0
+2026-06-24T11:39:17.040,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,706.0,9573.0,0.0,0
+2026-06-24T11:39:17.108,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,752.0,11157.0,0.0,0
+2026-06-24T11:39:17.171,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,616.0,10668.0,0.0,0
+2026-06-24T11:39:17.235,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1749.0,8524.0,0.0,0
+2026-06-24T11:39:17.297,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,851.0,10921.0,0.0,0
+2026-06-24T11:39:17.358,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,388.0,9308.0,0.0,0
+2026-06-24T11:39:17.422,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,11101.0,0.0,0
+2026-06-24T11:39:17.482,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,9802.0,0.0,0
+2026-06-24T11:39:17.544,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,579.0,10641.0,0.0,0
+2026-06-24T11:39:17.605,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,428.0,9879.0,0.0,0
+2026-06-24T11:39:17.666,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,393.0,9813.0,0.0,0
+2026-06-24T11:39:17.727,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,329.0,11312.0,0.0,0
+2026-06-24T11:39:17.789,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,280.0,9907.0,0.0,0
+2026-06-24T11:39:17.849,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,9799.0,0.0,0
+2026-06-24T11:39:17.911,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,420.0,11083.0,0.0,0
+2026-06-24T11:39:17.973,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,394.0,9844.0,0.0,0
+2026-06-24T11:39:18.035,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,648.0,11062.0,0.0,0
+2026-06-24T11:39:18.096,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,537.0,9783.0,0.0,0
+2026-06-24T11:39:18.156,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,592.0,9578.0,0.0,0
+2026-06-24T11:39:18.218,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,479.0,11375.0,0.0,0
+2026-06-24T11:39:18.281,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,329.0,9892.0,0.0,0
+2026-06-24T11:39:18.344,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,295.0,11240.0,0.0,0
+2026-06-24T11:39:18.406,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,330.0,9433.0,0.0,0
+2026-06-24T11:39:18.468,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,288.0,10941.0,0.0,0
+2026-06-24T11:39:18.529,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2403.0,9372.0,0.0,0
+2026-06-24T11:39:18.590,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3391.0,9750.0,0.0,0
+2026-06-24T11:39:18.651,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1063.0,11281.0,0.0,0
+2026-06-24T11:39:18.712,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,785.0,9858.0,0.0,0
+2026-06-24T11:39:18.773,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,637.0,9858.0,0.0,0
+2026-06-24T11:39:18.835,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,937.0,11310.0,0.0,0
+2026-06-24T11:39:18.897,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,803.0,9863.0,0.0,0
+2026-06-24T11:39:18.958,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1053.0,9789.0,0.0,0
+2026-06-24T11:39:19.020,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1379.0,11181.0,0.0,0
+2026-06-24T11:39:19.084,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1117.0,9870.0,0.0,0
+2026-06-24T11:39:19.146,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,925.0,11025.0,0.0,0
+2026-06-24T11:39:19.206,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1078.0,9422.0,0.0,0
+2026-06-24T11:39:19.268,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,837.0,11263.0,0.0,0
+2026-06-24T11:39:19.330,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,820.0,9901.0,0.0,0
+2026-06-24T11:39:19.391,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,877.0,9811.0,0.0,0
+2026-06-24T11:39:19.453,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,929.0,11095.0,0.0,0
+2026-06-24T11:39:19.515,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1274.0,9845.0,0.0,0
+2026-06-24T11:39:19.577,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,966.0,11108.0,0.0,0
+2026-06-24T11:39:19.638,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,979.0,9838.0,0.0,0
+2026-06-24T11:39:19.699,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,947.0,9682.0,0.0,0
+2026-06-24T11:39:19.761,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,883.0,11297.0,0.0,0
+2026-06-24T11:39:19.822,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,853.0,9928.0,0.0,0
+2026-06-24T11:39:19.883,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,847.0,9836.0,0.0,0
+2026-06-24T11:39:19.944,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,948.0,11311.0,0.0,0
+2026-06-24T11:39:20.006,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1569.0,9825.0,0.0,0
+2026-06-24T11:39:20.068,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1026.0,11204.0,0.0,0
+2026-06-24T11:39:20.130,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,904.0,9769.0,0.0,0
+2026-06-24T11:39:20.191,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,891.0,9797.0,0.0,0
+2026-06-24T11:39:20.252,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,941.0,11225.0,0.0,0
+2026-06-24T11:39:20.313,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,9938.0,0.0,0
+2026-06-24T11:39:20.375,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,937.0,9775.0,0.0,0
+2026-06-24T11:39:20.436,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,805.0,11290.0,0.0,0
+2026-06-24T11:39:20.497,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1320.0,9947.0,0.0,0
+2026-06-24T11:39:20.558,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,873.0,9801.0,0.0,0
+2026-06-24T11:39:20.619,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,847.0,11308.0,0.0,0
+2026-06-24T11:39:20.680,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,865.0,10062.0,0.0,0
+2026-06-24T11:39:20.741,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,998.0,9738.0,0.0,0
+2026-06-24T11:39:20.803,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,870.0,11320.0,0.0,0
+2026-06-24T11:39:20.864,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,797.0,10025.0,0.0,0
+2026-06-24T11:39:20.925,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,839.0,9749.0,0.0,0
+2026-06-24T11:39:20.986,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1257.0,11280.0,0.0,0
+2026-06-24T11:39:21.048,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1128.0,9911.0,0.0,0
+2026-06-24T11:39:21.109,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1124.0,11238.0,0.0,0
+2026-06-24T11:39:21.172,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,975.0,9850.0,0.0,0
+2026-06-24T11:39:21.233,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,829.0,9830.0,0.0,0
+2026-06-24T11:39:21.294,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,918.0,11078.0,0.0,0
+2026-06-24T11:39:21.355,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,868.0,9911.0,0.0,0
+2026-06-24T11:39:21.417,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,843.0,9825.0,0.0,0
+2026-06-24T11:39:21.478,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1246.0,11325.0,0.0,0
+2026-06-24T11:39:21.539,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1089.0,9830.0,0.0,0
+2026-06-24T11:39:21.600,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,980.0,9879.0,0.0,0
+2026-06-24T11:39:21.662,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,803.0,11262.0,0.0,0
+2026-06-24T11:39:21.723,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,9955.0,0.0,0
+2026-06-24T11:39:21.785,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,908.0,11272.0,0.0,0
+2026-06-24T11:39:21.847,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,846.0,9842.0,0.0,0
+2026-06-24T11:39:21.908,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,840.0,9807.0,0.0,0
+2026-06-24T11:39:21.970,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,956.0,11193.0,0.0,0
+2026-06-24T11:39:22.031,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2351.0,9864.0,0.0,0
+2026-06-24T11:39:22.094,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1288.0,11112.0,0.0,0
+2026-06-24T11:39:22.156,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,946.0,9882.0,0.0,0
+2026-06-24T11:39:22.220,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,869.0,10976.0,0.0,0
+2026-06-24T11:39:22.283,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,872.0,9720.0,0.0,0
+2026-06-24T11:39:22.344,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1132.0,10690.0,0.0,0
+2026-06-24T11:39:22.405,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,863.0,9667.0,0.0,0
+2026-06-24T11:39:22.467,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,819.0,9914.0,0.0,0
+2026-06-24T11:39:22.531,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1368.0,11239.0,0.0,0
+2026-06-24T11:39:22.592,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1002.0,11151.0,0.0,0
+2026-06-24T11:39:22.654,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,908.0,9488.0,0.0,0
+2026-06-24T11:39:22.715,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,938.0,9799.0,0.0,0
+2026-06-24T11:39:22.777,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,846.0,11205.0,0.0,0
+2026-06-24T11:39:22.839,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,890.0,10001.0,0.0,0
+2026-06-24T11:39:22.900,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,835.0,9750.0,0.0,0
+2026-06-24T11:39:22.962,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,857.0,11235.0,0.0,0
+2026-06-24T11:39:23.023,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1302.0,9832.0,0.0,0
+2026-06-24T11:39:23.084,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1274.0,11338.0,0.0,0
+2026-06-24T11:39:23.146,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1070.0,9828.0,0.0,0
+2026-06-24T11:39:23.207,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,820.0,9937.0,0.0,0
+2026-06-24T11:39:23.269,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,822.0,11124.0,0.0,0
+2026-06-24T11:39:23.330,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,870.0,9958.0,0.0,0
+2026-06-24T11:39:23.392,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,923.0,9843.0,0.0,0
+2026-06-24T11:39:23.454,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,845.0,11294.0,0.0,0
+2026-06-24T11:39:23.515,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1393.0,9817.0,0.0,0
+2026-06-24T11:39:23.576,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,11141.0,0.0,0
+2026-06-24T11:39:23.637,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3085.0,9782.0,0.0,0
+2026-06-24T11:39:23.699,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1538.0,10020.0,0.0,0
+2026-06-24T11:39:23.759,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,583.0,11287.0,0.0,0
+2026-06-24T11:39:23.820,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,457.0,9931.0,0.0,0
+2026-06-24T11:39:23.883,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,366.0,10045.0,0.0,0
+2026-06-24T11:39:23.945,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,308.0,11263.0,0.0,0
+2026-06-24T11:39:24.010,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,576.0,9640.0,0.0,0
+2026-06-24T11:39:24.072,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,530.0,11009.0,0.0,0
+2026-06-24T11:39:24.133,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,828.0,9272.0,0.0,0
+2026-06-24T11:39:24.193,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,502.0,11227.0,0.0,0
+2026-06-24T11:39:24.255,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,380.0,10023.0,0.0,0
+2026-06-24T11:39:24.318,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,314.0,10006.0,0.0,0
+2026-06-24T11:39:24.380,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,291.0,11221.0,0.0,0
+2026-06-24T11:39:24.442,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,332.0,9536.0,0.0,0
+2026-06-24T11:39:24.503,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,732.0,11074.0,0.0,0
+2026-06-24T11:39:24.567,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2948.0,9617.0,0.0,0
+2026-06-24T11:39:24.628,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1030.0,11315.0,0.0,0
+2026-06-24T11:39:24.690,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,847.0,9520.0,0.0,0
+2026-06-24T11:39:24.752,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,632.0,11282.0,0.0,0
+2026-06-24T11:39:24.813,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,927.0,9899.0,0.0,0
+2026-06-24T11:39:24.875,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,820.0,9749.0,0.0,0
+2026-06-24T11:39:24.938,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,896.0,11260.0,0.0,0
+2026-06-24T11:39:25.001,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1313.0,9823.0,0.0,0
+2026-06-24T11:39:25.063,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,892.0,11103.0,0.0,0
+2026-06-24T11:39:25.123,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1093.0,9629.0,0.0,0
+2026-06-24T11:39:25.185,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1155.0,11305.0,0.0,0
+2026-06-24T11:39:25.246,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,757.0,9989.0,0.0,0
+2026-06-24T11:39:25.307,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1107.0,9833.0,0.0,0
+2026-06-24T11:39:25.369,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,881.0,11343.0,0.0,0
+2026-06-24T11:39:25.430,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,930.0,9940.0,0.0,0
+2026-06-24T11:39:25.492,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1340.0,9901.0,0.0,0
+2026-06-24T11:39:25.553,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,897.0,11388.0,0.0,0
+2026-06-24T11:39:25.615,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,938.0,9833.0,0.0,0
+2026-06-24T11:39:25.677,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,809.0,11191.0,0.0,0
+2026-06-24T11:39:25.739,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,912.0,9904.0,0.0,0
+2026-06-24T11:39:25.800,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,825.0,9857.0,0.0,0
+2026-06-24T11:39:25.862,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,837.0,11200.0,0.0,0
+2026-06-24T11:39:25.922,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,835.0,9969.0,0.0,0
+2026-06-24T11:39:25.983,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1386.0,9901.0,0.0,0
+2026-06-24T11:39:26.045,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,922.0,11446.0,0.0,0
+2026-06-24T11:39:26.107,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1059.0,9855.0,0.0,0
+2026-06-24T11:39:26.169,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,891.0,11259.0,0.0,0
+2026-06-24T11:39:26.230,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1076.0,9777.0,0.0,0
+2026-06-24T11:39:26.291,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,844.0,9890.0,0.0,0
+2026-06-24T11:39:26.353,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,833.0,11401.0,0.0,0
+2026-06-24T11:39:26.414,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,945.0,9920.0,0.0,0
+2026-06-24T11:39:26.476,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,929.0,9914.0,0.0,0
+2026-06-24T11:39:26.538,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1256.0,11271.0,0.0,0
+2026-06-24T11:39:26.599,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,858.0,9854.0,0.0,0
+2026-06-24T11:39:26.661,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,838.0,11229.0,0.0,0
+2026-06-24T11:39:26.722,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,839.0,10016.0,0.0,0
+2026-06-24T11:39:26.783,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,986.0,9860.0,0.0,0
+2026-06-24T11:39:26.844,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,852.0,11394.0,0.0,0
+2026-06-24T11:39:26.905,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,787.0,9974.0,0.0,0
+2026-06-24T11:39:26.966,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,834.0,9943.0,0.0,0
+2026-06-24T11:39:27.028,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1373.0,11374.0,0.0,0
+2026-06-24T11:39:27.090,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1117.0,10002.0,0.0,0
+2026-06-24T11:39:27.151,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,882.0,11210.0,0.0,0
+2026-06-24T11:39:27.213,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,895.0,9905.0,0.0,0
+2026-06-24T11:39:27.270,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1119.0,9877.0,0.0,0
+2026-06-24T11:39:27.326,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,8688.0,9531.0,0.0,0
+2026-06-24T11:39:27.382,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3514.0,10402.0,0.0,0
+2026-06-24T11:39:27.438,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1008.0,10805.0,0.0,0
+2026-06-24T11:39:27.499,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1538.0,9279.0,0.0,0
+2026-06-24T11:39:27.560,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1104.0,12468.0,0.0,0
+2026-06-24T11:39:27.622,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,981.0,10108.0,0.0,0
+2026-06-24T11:39:27.683,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,810.0,9868.0,0.0,0
+2026-06-24T11:39:27.744,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,814.0,11276.0,0.0,0
+2026-06-24T11:39:27.806,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,897.0,9963.0,0.0,0
+2026-06-24T11:39:27.868,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,829.0,11367.0,0.0,0
+2026-06-24T11:39:27.924,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,862.0,9917.0,0.0,0
+2026-06-24T11:39:27.981,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,4511.0,9605.0,0.0,0
+2026-06-24T11:39:28.036,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,6857.0,8930.0,0.0,0
+2026-06-24T11:39:28.092,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1117.0,10799.0,0.0,0
+2026-06-24T11:39:28.155,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1090.0,10864.0,0.0,0
+2026-06-24T11:39:28.216,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1056.0,10958.0,0.0,0
+2026-06-24T11:39:28.279,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1095.0,11285.0,0.0,0
+2026-06-24T11:39:28.340,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,939.0,9928.0,0.0,0
+2026-06-24T11:39:28.402,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,948.0,11235.0,0.0,0
+2026-06-24T11:39:28.463,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,860.0,9904.0,0.0,0
+2026-06-24T11:39:28.525,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1306.0,9838.0,0.0,0
+2026-06-24T11:39:28.585,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2891.0,11236.0,0.0,0
+2026-06-24T11:39:28.647,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,538.0,9956.0,0.0,0
+2026-06-24T11:39:28.708,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,365.0,10113.0,0.0,0
+2026-06-24T11:39:28.769,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,469.0,11227.0,0.0,0
+2026-06-24T11:39:28.831,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2395.0,9962.0,0.0,0
+2026-06-24T11:39:28.892,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,806.0,9847.0,0.0,0
+2026-06-24T11:39:28.955,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,798.0,11361.0,0.0,0
+2026-06-24T11:39:29.017,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,834.0,9972.0,0.0,0
+2026-06-24T11:39:29.078,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,700.0,11062.0,0.0,0
+2026-06-24T11:39:29.139,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,540.0,10011.0,0.0,0
+2026-06-24T11:39:29.201,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,402.0,11216.0,0.0,0
+2026-06-24T11:39:29.262,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,9929.0,0.0,0
+2026-06-24T11:39:29.323,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,9848.0,0.0,0
+2026-06-24T11:39:29.385,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,493.0,11463.0,0.0,0
+2026-06-24T11:39:29.447,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,392.0,9923.0,0.0,0
+2026-06-24T11:39:29.508,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,580.0,9808.0,0.0,0
+2026-06-24T11:39:29.568,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,486.0,11283.0,0.0,0
+2026-06-24T11:39:29.630,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,398.0,10098.0,0.0,0
+2026-06-24T11:39:29.691,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,363.0,10022.0,0.0,0
+2026-06-24T11:39:29.753,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,323.0,11332.0,0.0,0
+2026-06-24T11:39:29.819,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,380.0,10002.0,0.0,0
+2026-06-24T11:39:29.883,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,354.0,11129.0,0.0,0
+2026-06-24T11:39:29.945,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,770.0,10177.0,0.0,0
+2026-06-24T11:39:30.008,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,682.0,9380.0,0.0,0
+2026-06-24T11:39:30.069,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,566.0,11222.0,0.0,0
+2026-06-24T11:39:30.129,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,709.0,9800.0,0.0,0
+2026-06-24T11:39:30.191,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,440.0,9908.0,0.0,0
+2026-06-24T11:39:30.253,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,329.0,11474.0,0.0,0
+2026-06-24T11:39:30.313,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,309.0,9906.0,0.0,0
+2026-06-24T11:39:30.374,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,341.0,9862.0,0.0,0
+2026-06-24T11:39:30.436,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,497.0,11517.0,0.0,0
+2026-06-24T11:39:30.498,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,573.0,9939.0,0.0,0
+2026-06-24T11:39:30.558,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,470.0,9929.0,0.0,0
+2026-06-24T11:39:30.619,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,406.0,11279.0,0.0,0
+2026-06-24T11:39:30.680,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,363.0,10026.0,0.0,0
+2026-06-24T11:39:30.743,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,9923.0,0.0,0
+2026-06-24T11:39:30.806,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,277.0,11381.0,0.0,0
+2026-06-24T11:39:30.867,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,273.0,9790.0,0.0,0
+2026-06-24T11:39:30.929,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,317.0,10994.0,0.0,0
+2026-06-24T11:39:30.990,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,9831.0,0.0,0
+2026-06-24T11:39:31.051,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,471.0,11302.0,0.0,0
+2026-06-24T11:39:31.113,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,556.0,9908.0,0.0,0
+2026-06-24T11:39:31.174,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,411.0,10020.0,0.0,0
+2026-06-24T11:39:31.235,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,325.0,11354.0,0.0,0
+2026-06-24T11:39:31.298,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,424.0,9876.0,0.0,0
+2026-06-24T11:39:31.359,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,423.0,11321.0,0.0,0
+2026-06-24T11:39:31.421,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,384.0,9722.0,0.0,0
+2026-06-24T11:39:31.481,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,439.0,9886.0,0.0,0
+2026-06-24T11:39:31.542,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,641.0,11427.0,0.0,0
+2026-06-24T11:39:31.604,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,426.0,9977.0,0.0,0
+2026-06-24T11:39:31.665,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,345.0,10008.0,0.0,0
+2026-06-24T11:39:31.726,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,11390.0,0.0,0
+2026-06-24T11:39:31.789,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,279.0,10017.0,0.0,0
+2026-06-24T11:39:31.850,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,261.0,9962.0,0.0,0
+2026-06-24T11:39:31.912,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,285.0,11006.0,0.0,0
+2026-06-24T11:39:31.974,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,295.0,9966.0,0.0,0
+2026-06-24T11:39:32.035,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1196.0,11035.0,0.0,0
+2026-06-24T11:39:32.097,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,749.0,9912.0,0.0,0
+2026-06-24T11:39:32.157,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,731.0,9879.0,0.0,0
+2026-06-24T11:39:32.219,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,489.0,11410.0,0.0,0
+2026-06-24T11:39:32.281,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,349.0,10135.0,0.0,0
+2026-06-24T11:39:32.343,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,323.0,11264.0,0.0,0
+2026-06-24T11:39:32.404,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,306.0,9812.0,0.0,0
+2026-06-24T11:39:32.467,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,337.0,9759.0,0.0,0
+2026-06-24T11:39:32.528,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,737.0,11356.0,0.0,0
+2026-06-24T11:39:32.589,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,462.0,9722.0,0.0,0
+2026-06-24T11:39:32.651,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,346.0,11523.0,0.0,0
+2026-06-24T11:39:32.713,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,293.0,9928.0,0.0,0
+2026-06-24T11:39:32.776,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,294.0,9948.0,0.0,0
+2026-06-24T11:39:32.837,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,290.0,11272.0,0.0,0
+2026-06-24T11:39:32.898,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,287.0,9694.0,0.0,0
+2026-06-24T11:39:32.960,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,292.0,11245.0,0.0,0
+2026-06-24T11:39:33.021,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,522.0,9949.0,0.0,0
+2026-06-24T11:39:33.081,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,584.0,9870.0,0.0,0
+2026-06-24T11:39:33.141,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,385.0,10248.0,0.0,0
+2026-06-24T11:39:33.202,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,366.0,11665.0,0.0,0
+2026-06-24T11:39:33.263,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,329.0,10049.0,0.0,0
+2026-06-24T11:39:33.327,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,343.0,9966.0,0.0,0
+2026-06-24T11:39:33.388,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,358.0,11342.0,0.0,0
+2026-06-24T11:39:33.450,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,287.0,9736.0,0.0,0
+2026-06-24T11:39:33.511,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,581.0,11157.0,0.0,0
+2026-06-24T11:39:33.573,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,452.0,9896.0,0.0,0
+2026-06-24T11:39:33.634,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,341.0,11349.0,0.0,0
+2026-06-24T11:39:33.696,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,9935.0,0.0,0
+2026-06-24T11:39:33.758,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,373.0,9874.0,0.0,0
+2026-06-24T11:39:33.821,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,309.0,11365.0,0.0,0
+2026-06-24T11:39:33.880,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,272.0,9793.0,0.0,0
+2026-06-24T11:39:33.942,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,571.0,9880.0,0.0,0
+2026-06-24T11:39:34.005,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2820.0,11379.0,0.0,0
+2026-06-24T11:39:34.067,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1072.0,9920.0,0.0,0
+2026-06-24T11:39:34.128,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,652.0,11172.0,0.0,0
+2026-06-24T11:39:34.189,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,612.0,9861.0,0.0,0
+2026-06-24T11:39:34.251,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,670.0,10039.0,0.0,0
+2026-06-24T11:39:34.312,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,929.0,11437.0,0.0,0
+2026-06-24T11:39:34.374,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,928.0,9983.0,0.0,0
+2026-06-24T11:39:34.436,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,809.0,11279.0,0.0,0
+2026-06-24T11:39:34.497,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1242.0,9987.0,0.0,0
+2026-06-24T11:39:34.558,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1081.0,9919.0,0.0,0
+2026-06-24T11:39:34.619,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,914.0,11472.0,0.0,0
+2026-06-24T11:39:34.680,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,835.0,10053.0,0.0,0
+2026-06-24T11:39:34.741,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,860.0,10144.0,0.0,0
+2026-06-24T11:39:34.802,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,952.0,11528.0,0.0,0
+2026-06-24T11:39:34.864,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,880.0,9989.0,0.0,0
+2026-06-24T11:39:34.925,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,793.0,11323.0,0.0,0
+2026-06-24T11:39:34.988,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1326.0,9882.0,0.0,0
+2026-06-24T11:39:35.049,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,869.0,10049.0,0.0,0
+2026-06-24T11:39:35.111,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1188.0,11237.0,0.0,0
+2026-06-24T11:39:35.172,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,879.0,10012.0,0.0,0
+2026-06-24T11:39:35.233,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,920.0,9911.0,0.0,0
+2026-06-24T11:39:35.295,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1197.0,11433.0,0.0,0
+2026-06-24T11:39:35.356,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,915.0,10002.0,0.0,0
+2026-06-24T11:39:35.418,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,858.0,11342.0,0.0,0
+2026-06-24T11:39:35.479,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1131.0,10031.0,0.0,0
+2026-06-24T11:39:35.540,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1000.0,10081.0,0.0,0
+2026-06-24T11:39:35.602,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1099.0,11378.0,0.0,0
+2026-06-24T11:39:35.663,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,867.0,10025.0,0.0,0
+2026-06-24T11:39:35.725,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,939.0,9912.0,0.0,0
+2026-06-24T11:39:35.787,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,811.0,11319.0,0.0,0
+2026-06-24T11:39:35.848,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,847.0,10001.0,0.0,0
+2026-06-24T11:39:35.910,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,898.0,11268.0,0.0,0
+2026-06-24T11:39:35.972,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,831.0,10006.0,0.0,0
+2026-06-24T11:39:36.035,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1345.0,10073.0,0.0,0
+2026-06-24T11:39:36.097,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1202.0,11254.0,0.0,0
+2026-06-24T11:39:36.158,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,965.0,9715.0,0.0,0
+2026-06-24T11:39:36.219,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,813.0,11347.0,0.0,0
+2026-06-24T11:39:36.281,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,839.0,10119.0,0.0,0
+2026-06-24T11:39:36.342,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,840.0,9933.0,0.0,0
+2026-06-24T11:39:36.404,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,894.0,11448.0,0.0,0
+2026-06-24T11:39:36.465,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,851.0,10036.0,0.0,0
+2026-06-24T11:39:36.527,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1363.0,11354.0,0.0,0
+2026-06-24T11:39:36.589,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,875.0,9950.0,0.0,0
+2026-06-24T11:39:36.650,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1037.0,9947.0,0.0,0
+2026-06-24T11:39:36.711,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,11327.0,0.0,0
+2026-06-24T11:39:36.772,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,10107.0,0.0,0
+2026-06-24T11:39:36.833,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,828.0,9984.0,0.0,0
+2026-06-24T11:39:36.895,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,915.0,11508.0,0.0,0
+2026-06-24T11:39:36.957,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,918.0,10093.0,0.0,0
+2026-06-24T11:39:37.020,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1325.0,11276.0,0.0,0
+2026-06-24T11:39:37.082,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1050.0,9889.0,0.0,0
+2026-06-24T11:39:37.144,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,891.0,11184.0,0.0,0
+2026-06-24T11:39:37.205,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,905.0,9925.0,0.0,0
+2026-06-24T11:39:37.266,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,891.0,9964.0,0.0,0
+2026-06-24T11:39:37.327,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,832.0,11481.0,0.0,0
+2026-06-24T11:39:37.389,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,937.0,10113.0,0.0,0
+2026-06-24T11:39:37.451,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,928.0,9996.0,0.0,0
+2026-06-24T11:39:37.513,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1235.0,11326.0,0.0,0
+2026-06-24T11:39:37.575,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,861.0,9804.0,0.0,0
+2026-06-24T11:39:37.637,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,860.0,11439.0,0.0,0
+2026-06-24T11:39:37.698,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1081.0,9902.0,0.0,0
+2026-06-24T11:39:37.759,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,843.0,11428.0,0.0,0
+2026-06-24T11:39:37.820,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,966.0,10086.0,0.0,0
+2026-06-24T11:39:37.881,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,3329.0,9954.0,0.0,0
+2026-06-24T11:39:37.942,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1632.0,11359.0,0.0,0
+2026-06-24T11:39:38.005,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,837.0,10065.0,0.0,0
+2026-06-24T11:39:38.065,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,602.0,10033.0,0.0,0
+2026-06-24T11:39:38.127,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,578.0,11247.0,0.0,0
+2026-06-24T11:39:38.188,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,432.0,10227.0,0.0,0
+2026-06-24T11:39:38.250,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,416.0,9765.0,0.0,0
+2026-06-24T11:39:38.313,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,330.0,11595.0,0.0,0
+2026-06-24T11:39:38.374,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,307.0,9912.0,0.0,0
+2026-06-24T11:39:38.436,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,303.0,11091.0,0.0,0
+2026-06-24T11:39:38.498,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,472.0,9946.0,0.0,0
+2026-06-24T11:39:38.559,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,465.0,11281.0,0.0,0
+2026-06-24T11:39:38.621,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1711.0,9875.0,0.0,0
+2026-06-24T11:39:38.682,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,674.0,10104.0,0.0,0
+2026-06-24T11:39:38.743,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,710.0,11376.0,0.0,0
+2026-06-24T11:39:38.805,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,522.0,10047.0,0.0,0
+2026-06-24T11:39:38.866,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,571.0,10050.0,0.0,0
+2026-06-24T11:39:38.927,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,774.0,11273.0,0.0,0
+2026-06-24T11:39:38.988,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1366.0,10212.0,0.0,0
+2026-06-24T11:39:39.049,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2526.0,9800.0,0.0,0
+2026-06-24T11:39:39.110,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2021.0,11504.0,0.0,0
+2026-06-24T11:39:39.171,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,597.0,10207.0,0.0,0
+2026-06-24T11:39:39.232,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,10164.0,0.0,0
+2026-06-24T11:39:39.294,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,11368.0,0.0,0
+2026-06-24T11:39:39.357,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,278.0,10023.0,0.0,0
+2026-06-24T11:39:39.418,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,275.0,11319.0,0.0,0
+2026-06-24T11:39:39.479,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,289.0,9837.0,0.0,0
+2026-06-24T11:39:39.541,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,581.0,9881.0,0.0,0
+2026-06-24T11:39:39.603,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,361.0,11455.0,0.0,0
+2026-06-24T11:39:39.665,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,291.0,9896.0,0.0,0
+2026-06-24T11:39:39.724,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,274.0,11332.0,0.0,0
+2026-06-24T11:39:39.786,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,438.0,9958.0,0.0,0
+2026-06-24T11:39:39.848,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,370.0,10317.0,0.0,0
+2026-06-24T11:39:39.912,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,292.0,11395.0,0.0,0
+2026-06-24T11:39:39.973,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,288.0,9820.0,0.0,0
+2026-06-24T11:39:40.035,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,765.0,10794.0,0.0,0
+2026-06-24T11:39:40.096,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,525.0,10040.0,0.0,0
+2026-06-24T11:39:40.156,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,455.0,9957.0,0.0,0
+2026-06-24T11:39:40.219,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,347.0,11593.0,0.0,0
+2026-06-24T11:39:40.280,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,294.0,10019.0,0.0,0
+2026-06-24T11:39:40.342,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,308.0,9964.0,0.0,0
+2026-06-24T11:39:40.405,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,292.0,11389.0,0.0,0
+2026-06-24T11:39:40.465,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,274.0,9902.0,0.0,0
+2026-06-24T11:39:40.526,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,512.0,11137.0,0.0,0
+2026-06-24T11:39:40.587,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,398.0,10182.0,0.0,0
+2026-06-24T11:39:40.649,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,313.0,10122.0,0.0,0
+2026-06-24T11:39:40.710,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,292.0,11363.0,0.0,0
+2026-06-24T11:39:40.771,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,290.0,9868.0,0.0,0
+2026-06-24T11:39:40.832,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,473.0,10028.0,0.0,0
+2026-06-24T11:39:40.894,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,11654.0,0.0,0
+2026-06-24T11:39:40.956,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,328.0,10057.0,0.0,0
+2026-06-24T11:39:41.016,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,535.0,9920.0,0.0,0
+2026-06-24T11:39:41.077,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,563.0,11236.0,0.0,0
+2026-06-24T11:39:41.138,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,515.0,10193.0,0.0,0
+2026-06-24T11:39:41.201,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,363.0,10143.0,0.0,0
+2026-06-24T11:39:41.262,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,275.0,11309.0,0.0,0
+2026-06-24T11:39:41.323,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,306.0,9872.0,0.0,0
+2026-06-24T11:39:41.384,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,278.0,11498.0,0.0,0
+2026-06-24T11:39:41.444,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,247.0,10126.0,0.0,0
+2026-06-24T11:39:41.505,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,424.0,9956.0,0.0,0
+2026-06-24T11:39:41.567,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,448.0,10226.0,0.0,0
+2026-06-24T11:39:41.629,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,411.0,11561.0,0.0,0
+2026-06-24T11:39:41.689,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,405.0,9938.0,0.0,0
+2026-06-24T11:39:41.750,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,310.0,11390.0,0.0,0
+2026-06-24T11:39:41.811,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,264.0,10146.0,0.0,0
+2026-06-24T11:39:41.872,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,438.0,9950.0,0.0,0
+2026-06-24T11:39:41.933,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,444.0,10124.0,0.0,0
+2026-06-24T11:39:41.994,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,509.0,11533.0,0.0,0
+2026-06-24T11:39:42.055,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1084.0,10222.0,0.0,0
+2026-06-24T11:39:42.116,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,840.0,9898.0,0.0,0
+2026-06-24T11:39:42.176,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,499.0,11794.0,0.0,0
+2026-06-24T11:39:42.238,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,491.0,10071.0,0.0,0
+2026-06-24T11:39:42.299,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,397.0,10190.0,0.0,0
+2026-06-24T11:39:42.360,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,354.0,11205.0,0.0,0
+2026-06-24T11:39:42.421,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,349.0,10150.0,0.0,0
+2026-06-24T11:39:42.482,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,9955.0,0.0,0
+2026-06-24T11:39:42.544,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,640.0,11533.0,0.0,0
+2026-06-24T11:39:42.605,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,422.0,9972.0,0.0,0
+2026-06-24T11:39:42.668,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,308.0,9954.0,0.0,0
+2026-06-24T11:39:42.730,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,309.0,11450.0,0.0,0
+2026-06-24T11:39:42.793,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,257.0,9873.0,0.0,0
+2026-06-24T11:39:42.853,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,271.0,11209.0,0.0,0
+2026-06-24T11:39:42.915,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,436.0,9914.0,0.0,0
+2026-06-24T11:39:42.977,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,394.0,11523.0,0.0,0
+2026-06-24T11:39:43.039,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,631.0,9974.0,0.0,0
+2026-06-24T11:39:43.099,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,550.0,9894.0,0.0,0
+2026-06-24T11:39:43.160,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,550.0,11335.0,0.0,0
+2026-06-24T11:39:43.221,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,384.0,10322.0,0.0,0
+2026-06-24T11:39:43.283,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,458.0,10024.0,0.0,0
+2026-06-24T11:39:43.347,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,294.0,11503.0,0.0,0
+2026-06-24T11:39:43.410,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,259.0,9989.0,0.0,0
+2026-06-24T11:39:43.472,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,296.0,10946.0,0.0,0
+2026-06-24T11:39:43.533,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,476.0,9744.0,0.0,0
+2026-06-24T11:39:43.596,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,355.0,11337.0,0.0,0
+2026-06-24T11:39:43.658,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,324.0,9990.0,0.0,0
+2026-06-24T11:39:43.720,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,304.0,11265.0,0.0,0
+2026-06-24T11:39:43.784,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,291.0,9955.0,0.0,0
+2026-06-24T11:39:43.846,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,275.0,11425.0,0.0,0
+2026-06-24T11:39:43.907,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,281.0,9639.0,0.0,0
+2026-06-24T11:39:43.969,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,417.0,11189.0,0.0,0
+2026-06-24T11:39:44.030,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,639.0,10114.0,0.0,0
+2026-06-24T11:39:44.092,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,581.0,9885.0,0.0,0
+2026-06-24T11:39:44.152,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,408.0,11495.0,0.0,0
+2026-06-24T11:39:44.214,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1312.0,9971.0,0.0,0
+2026-06-24T11:39:44.276,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,2075.0,10033.0,0.0,0
+2026-06-24T11:39:44.338,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,856.0,11457.0,0.0,0
+2026-06-24T11:39:44.398,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,622.0,10124.0,0.0,0
+2026-06-24T11:39:44.460,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,836.0,11383.0,0.0,0
+2026-06-24T11:39:44.522,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,1300.0,10167.0,0.0,0
+2026-06-24T11:39:44.583,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,825.0,9993.0,0.0,0
+2026-06-24T11:39:44.647,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,893.0,11448.0,0.0,0
+2026-06-24T11:39:44.698,timeseries,3,Weather Report Extended v2,mlx-community/gpt-oss-20b-MXFP4-Q8,926.0,10077.0,0.0,2187

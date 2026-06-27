@@ -1,0 +1,512 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-26T14:57:24.866,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,5043.0,20245.0,0.0,0
+2026-06-26T14:57:24.924,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,391.0,20418.0,0.0,0
+2026-06-26T14:57:24.985,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,281.0,20031.0,0.0,0
+2026-06-26T14:57:25.046,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,687.0,19681.0,0.0,0
+2026-06-26T14:57:25.109,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,245.0,21625.0,0.0,0
+2026-06-26T14:57:25.172,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,723.0,7709.0,0.0,0
+2026-06-26T14:57:25.234,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1507.0,7568.0,0.0,0
+2026-06-26T14:57:25.297,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,747.0,8507.0,0.0,0
+2026-06-26T14:57:25.360,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1083.0,9971.0,0.0,0
+2026-06-26T14:57:25.423,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,670.0,8741.0,0.0,0
+2026-06-26T14:57:25.484,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,564.0,9827.0,0.0,0
+2026-06-26T14:57:25.546,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1491.0,8865.0,0.0,0
+2026-06-26T14:57:25.609,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,579.0,10141.0,0.0,0
+2026-06-26T14:57:25.672,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,677.0,8851.0,0.0,0
+2026-06-26T14:57:25.735,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,525.0,9948.0,0.0,0
+2026-06-26T14:57:25.797,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,732.0,8672.0,0.0,0
+2026-06-26T14:57:25.860,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,605.0,9918.0,0.0,0
+2026-06-26T14:57:25.926,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1988.0,8740.0,0.0,0
+2026-06-26T14:57:25.990,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,552.0,9846.0,0.0,0
+2026-06-26T14:57:26.051,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1369.0,9477.0,0.0,0
+2026-06-26T14:57:26.112,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,895.0,8826.0,0.0,0
+2026-06-26T14:57:26.174,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,663.0,8910.0,0.0,0
+2026-06-26T14:57:26.238,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,550.0,10125.0,0.0,0
+2026-06-26T14:57:26.300,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,631.0,8863.0,0.0,0
+2026-06-26T14:57:26.362,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1106.0,9919.0,0.0,0
+2026-06-26T14:57:26.424,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,645.0,8816.0,0.0,0
+2026-06-26T14:57:26.487,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,530.0,10033.0,0.0,0
+2026-06-26T14:57:26.549,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1316.0,8776.0,0.0,0
+2026-06-26T14:57:26.611,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,650.0,9960.0,0.0,0
+2026-06-26T14:57:26.673,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,633.0,8871.0,0.0,0
+2026-06-26T14:57:26.737,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,514.0,10034.0,0.0,0
+2026-06-26T14:57:26.800,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,2317.0,8705.0,0.0,0
+2026-06-26T14:57:26.862,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1920.0,9771.0,0.0,0
+2026-06-26T14:57:26.925,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,478.0,8633.0,0.0,0
+2026-06-26T14:57:26.988,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,272.0,9981.0,0.0,0
+2026-06-26T14:57:27.049,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,319.0,9860.0,0.0,0
+2026-06-26T14:57:27.113,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,354.0,8857.0,0.0,0
+2026-06-26T14:57:27.175,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,226.0,8860.0,0.0,0
+2026-06-26T14:57:27.239,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,205.0,9849.0,0.0,0
+2026-06-26T14:57:27.302,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,9943.0,0.0,0
+2026-06-26T14:57:27.365,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,312.0,8550.0,0.0,0
+2026-06-26T14:57:27.428,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,9950.0,0.0,0
+2026-06-26T14:57:27.489,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,8749.0,0.0,0
+2026-06-26T14:57:27.551,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,302.0,9856.0,0.0,0
+2026-06-26T14:57:27.614,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,262.0,9089.0,0.0,0
+2026-06-26T14:57:27.677,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,10075.0,0.0,0
+2026-06-26T14:57:27.739,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,8701.0,0.0,0
+2026-06-26T14:57:27.801,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,9979.0,0.0,0
+2026-06-26T14:57:27.864,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,161.0,8835.0,0.0,0
+2026-06-26T14:57:27.927,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,9980.0,0.0,0
+2026-06-26T14:57:27.989,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,8792.0,0.0,0
+2026-06-26T14:57:28.051,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,362.0,9775.0,0.0,0
+2026-06-26T14:57:28.114,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,277.0,8946.0,0.0,0
+2026-06-26T14:57:28.176,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,272.0,9941.0,0.0,0
+2026-06-26T14:57:28.240,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,8819.0,0.0,0
+2026-06-26T14:57:28.303,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,9961.0,0.0,0
+2026-06-26T14:57:28.365,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,343.0,8475.0,0.0,0
+2026-06-26T14:57:28.429,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,9965.0,0.0,0
+2026-06-26T14:57:28.490,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,160.0,8792.0,0.0,0
+2026-06-26T14:57:28.553,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,364.0,9853.0,0.0,0
+2026-06-26T14:57:28.615,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,246.0,9057.0,0.0,0
+2026-06-26T14:57:28.679,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,222.0,9922.0,0.0,0
+2026-06-26T14:57:28.743,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,8759.0,0.0,0
+2026-06-26T14:57:28.805,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,224.0,9938.0,0.0,0
+2026-06-26T14:57:28.867,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1121.0,9509.0,0.0,0
+2026-06-26T14:57:28.929,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,357.0,8888.0,0.0,0
+2026-06-26T14:57:28.993,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,368.0,8746.0,0.0,0
+2026-06-26T14:57:29.055,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,421.0,10092.0,0.0,0
+2026-06-26T14:57:29.119,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,313.0,9814.0,0.0,0
+2026-06-26T14:57:29.180,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,224.0,8776.0,0.0,0
+2026-06-26T14:57:29.244,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,253.0,9848.0,0.0,0
+2026-06-26T14:57:29.306,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,210.0,8846.0,0.0,0
+2026-06-26T14:57:29.370,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,347.0,9866.0,0.0,0
+2026-06-26T14:57:29.432,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,179.0,8913.0,0.0,0
+2026-06-26T14:57:29.495,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,202.0,9748.0,0.0,0
+2026-06-26T14:57:29.557,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,342.0,8936.0,0.0,0
+2026-06-26T14:57:29.620,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,251.0,9893.0,0.0,0
+2026-06-26T14:57:29.682,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,8785.0,0.0,0
+2026-06-26T14:57:29.745,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,9998.0,0.0,0
+2026-06-26T14:57:29.807,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,178.0,8913.0,0.0,0
+2026-06-26T14:57:29.870,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,9954.0,0.0,0
+2026-06-26T14:57:29.932,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,211.0,8924.0,0.0,0
+2026-06-26T14:57:29.994,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,172.0,9815.0,0.0,0
+2026-06-26T14:57:30.057,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,402.0,8809.0,0.0,0
+2026-06-26T14:57:30.121,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,243.0,10240.0,0.0,0
+2026-06-26T14:57:30.184,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,223.0,8735.0,0.0,0
+2026-06-26T14:57:30.246,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,188.0,9846.0,0.0,0
+2026-06-26T14:57:30.308,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,288.0,9985.0,0.0,0
+2026-06-26T14:57:30.372,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,347.0,8652.0,0.0,0
+2026-06-26T14:57:30.435,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,178.0,10145.0,0.0,0
+2026-06-26T14:57:30.497,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,204.0,8646.0,0.0,0
+2026-06-26T14:57:30.559,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,335.0,9934.0,0.0,0
+2026-06-26T14:57:30.623,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,307.0,8858.0,0.0,0
+2026-06-26T14:57:30.686,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10054.0,0.0,0
+2026-06-26T14:57:30.749,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,173.0,8649.0,0.0,0
+2026-06-26T14:57:30.812,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,9952.0,0.0,0
+2026-06-26T14:57:30.854,timeseries,1,User List,mlx-community/Mistral-7B-Instruct-v0.3-4bit,174.0,8719.0,0.0,134
+2026-06-26T14:57:34.304,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,919.0,20908.0,0.0,0
+2026-06-26T14:57:34.362,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,339.0,20786.0,0.0,0
+2026-06-26T14:57:34.423,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,316.0,17695.0,0.0,0
+2026-06-26T14:57:34.486,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,569.0,23056.0,0.0,0
+2026-06-26T14:57:34.548,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1238.0,17318.0,0.0,0
+2026-06-26T14:57:34.609,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,555.0,10104.0,0.0,0
+2026-06-26T14:57:34.672,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1255.0,2301.0,0.0,0
+2026-06-26T14:57:34.735,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,263.0,2894.0,0.0,0
+2026-06-26T14:57:34.797,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,635.0,8510.0,0.0,0
+2026-06-26T14:57:34.859,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,554.0,9892.0,0.0,0
+2026-06-26T14:57:34.921,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,623.0,9014.0,0.0,0
+2026-06-26T14:57:34.983,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,595.0,8843.0,0.0,0
+2026-06-26T14:57:35.045,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1332.0,10064.0,0.0,0
+2026-06-26T14:57:35.108,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,545.0,8857.0,0.0,0
+2026-06-26T14:57:35.170,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,643.0,10104.0,0.0,0
+2026-06-26T14:57:35.232,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,622.0,8794.0,0.0,0
+2026-06-26T14:57:35.295,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,640.0,10056.0,0.0,0
+2026-06-26T14:57:35.359,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,999.0,8858.0,0.0,0
+2026-06-26T14:57:35.422,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,619.0,9979.0,0.0,0
+2026-06-26T14:57:35.483,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,505.0,9918.0,0.0,0
+2026-06-26T14:57:35.545,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1657.0,8833.0,0.0,0
+2026-06-26T14:57:35.607,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,548.0,8936.0,0.0,0
+2026-06-26T14:57:35.670,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,641.0,10056.0,0.0,0
+2026-06-26T14:57:35.732,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,501.0,8898.0,0.0,0
+2026-06-26T14:57:35.794,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,766.0,10067.0,0.0,0
+2026-06-26T14:57:35.856,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,504.0,8940.0,0.0,0
+2026-06-26T14:57:35.919,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1985.0,10006.0,0.0,0
+2026-06-26T14:57:35.981,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,483.0,8869.0,0.0,0
+2026-06-26T14:57:36.044,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1447.0,10015.0,0.0,0
+2026-06-26T14:57:36.106,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,498.0,8959.0,0.0,0
+2026-06-26T14:57:36.167,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,652.0,10018.0,0.0,0
+2026-06-26T14:57:36.230,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,521.0,9003.0,0.0,0
+2026-06-26T14:57:36.292,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,728.0,10191.0,0.0,0
+2026-06-26T14:57:36.355,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1006.0,8783.0,0.0,0
+2026-06-26T14:57:36.417,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,627.0,10140.0,0.0,0
+2026-06-26T14:57:36.479,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,511.0,8821.0,0.0,0
+2026-06-26T14:57:36.542,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1573.0,10093.0,0.0,0
+2026-06-26T14:57:36.605,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,546.0,8896.0,0.0,0
+2026-06-26T14:57:36.660,timeseries,2,Nested Product Conversion,mlx-community/Mistral-7B-Instruct-v0.3-4bit,636.0,10027.0,0.0,46
+2026-06-26T14:57:40.082,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,397.0,1535.0,0.0,0
+2026-06-26T14:57:40.140,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,232.0,1430.0,0.0,0
+2026-06-26T14:57:40.200,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,299.0,1407.0,0.0,0
+2026-06-26T14:57:40.263,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,259.0,16717.0,0.0,0
+2026-06-26T14:57:40.325,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,687.0,22616.0,0.0,0
+2026-06-26T14:57:40.386,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,18581.0,0.0,0
+2026-06-26T14:57:40.447,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,197.0,19421.0,0.0,0
+2026-06-26T14:57:40.509,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,276.0,21691.0,0.0,0
+2026-06-26T14:57:40.571,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,857.0,19178.0,0.0,0
+2026-06-26T14:57:40.632,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,161.0,21563.0,0.0,0
+2026-06-26T14:57:40.694,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,162.0,19163.0,0.0,0
+2026-06-26T14:57:40.755,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,492.0,19322.0,0.0,0
+2026-06-26T14:57:40.817,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,145.0,22018.0,0.0,0
+2026-06-26T14:57:40.879,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,163.0,19014.0,0.0,0
+2026-06-26T14:57:40.940,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,161.0,19000.0,0.0,0
+2026-06-26T14:57:41.001,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,245.0,22243.0,0.0,0
+2026-06-26T14:57:41.063,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,845.0,19395.0,0.0,0
+2026-06-26T14:57:41.124,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,180.0,21988.0,0.0,0
+2026-06-26T14:57:41.186,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,162.0,19264.0,0.0,0
+2026-06-26T14:57:41.249,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,246.0,19390.0,0.0,0
+2026-06-26T14:57:41.311,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,615.0,21867.0,0.0,0
+2026-06-26T14:57:41.372,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,380.0,18743.0,0.0,0
+2026-06-26T14:57:41.436,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,145.0,22036.0,0.0,0
+2026-06-26T14:57:41.498,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,261.0,18984.0,0.0,0
+2026-06-26T14:57:41.559,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1462.0,9854.0,0.0,0
+2026-06-26T14:57:41.621,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1332.0,3530.0,0.0,0
+2026-06-26T14:57:41.682,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,114.0,1488.0,0.0,0
+2026-06-26T14:57:41.743,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,163.0,1667.0,0.0,0
+2026-06-26T14:57:41.804,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,459.0,1425.0,0.0,0
+2026-06-26T14:57:41.865,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,162.0,1603.0,0.0,0
+2026-06-26T14:57:41.927,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,213.0,1396.0,0.0,0
+2026-06-26T14:57:41.988,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,131.0,1391.0,0.0,0
+2026-06-26T14:57:42.049,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,866.0,1600.0,0.0,0
+2026-06-26T14:57:42.110,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,343.0,1388.0,0.0,0
+2026-06-26T14:57:42.171,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,3462.0,1323.0,0.0,0
+2026-06-26T14:57:42.234,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,294.0,1569.0,0.0,0
+2026-06-26T14:57:42.297,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,263.0,6238.0,0.0,0
+2026-06-26T14:57:42.360,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,896.0,9870.0,0.0,0
+2026-06-26T14:57:42.422,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,697.0,8738.0,0.0,0
+2026-06-26T14:57:42.484,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,526.0,10082.0,0.0,0
+2026-06-26T14:57:42.546,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1421.0,8830.0,0.0,0
+2026-06-26T14:57:42.609,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,567.0,10294.0,0.0,0
+2026-06-26T14:57:42.671,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,659.0,8911.0,0.0,0
+2026-06-26T14:57:42.733,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,532.0,8945.0,0.0,0
+2026-06-26T14:57:42.795,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,828.0,10298.0,0.0,0
+2026-06-26T14:57:42.858,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,652.0,8837.0,0.0,0
+2026-06-26T14:57:42.921,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,624.0,10172.0,0.0,0
+2026-06-26T14:57:42.982,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,525.0,8837.0,0.0,0
+2026-06-26T14:57:43.045,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1313.0,10152.0,0.0,0
+2026-06-26T14:57:43.107,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,636.0,9099.0,0.0,0
+2026-06-26T14:57:43.170,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,636.0,10091.0,0.0,0
+2026-06-26T14:57:43.233,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,534.0,8992.0,0.0,0
+2026-06-26T14:57:43.296,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,598.0,9986.0,0.0,0
+2026-06-26T14:57:43.358,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1121.0,8920.0,0.0,0
+2026-06-26T14:57:43.420,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,585.0,10070.0,0.0,0
+2026-06-26T14:57:43.483,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,632.0,9016.0,0.0,0
+2026-06-26T14:57:43.545,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1178.0,10109.0,0.0,0
+2026-06-26T14:57:43.609,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,741.0,9007.0,0.0,0
+2026-06-26T14:57:43.671,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,543.0,10157.0,0.0,0
+2026-06-26T14:57:43.733,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,650.0,8815.0,0.0,0
+2026-06-26T14:57:43.795,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,529.0,10212.0,0.0,0
+2026-06-26T14:57:43.857,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,948.0,8938.0,0.0,0
+2026-06-26T14:57:43.920,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,518.0,10306.0,0.0,0
+2026-06-26T14:57:43.982,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,610.0,8953.0,0.0,0
+2026-06-26T14:57:44.044,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1196.0,10124.0,0.0,0
+2026-06-26T14:57:44.107,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1290.0,9015.0,0.0,0
+2026-06-26T14:57:44.170,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,527.0,10159.0,0.0,0
+2026-06-26T14:57:44.232,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,641.0,8930.0,0.0,0
+2026-06-26T14:57:44.295,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,524.0,10077.0,0.0,0
+2026-06-26T14:57:44.357,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1257.0,8993.0,0.0,0
+2026-06-26T14:57:44.420,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,555.0,10149.0,0.0,0
+2026-06-26T14:57:44.482,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,625.0,8915.0,0.0,0
+2026-06-26T14:57:44.544,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1180.0,10093.0,0.0,0
+2026-06-26T14:57:44.607,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,762.0,9097.0,0.0,0
+2026-06-26T14:57:44.670,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,524.0,10102.0,0.0,0
+2026-06-26T14:57:44.731,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,645.0,8965.0,0.0,0
+2026-06-26T14:57:44.794,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,539.0,10093.0,0.0,0
+2026-06-26T14:57:44.856,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,651.0,9088.0,0.0,0
+2026-06-26T14:57:44.919,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,820.0,10032.0,0.0,0
+2026-06-26T14:57:44.982,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,536.0,9043.0,0.0,0
+2026-06-26T14:57:45.044,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1245.0,10004.0,0.0,0
+2026-06-26T14:57:45.106,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,543.0,8936.0,0.0,0
+2026-06-26T14:57:45.167,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,765.0,10348.0,0.0,0
+2026-06-26T14:57:45.229,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,534.0,9001.0,0.0,0
+2026-06-26T14:57:45.292,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,630.0,10295.0,0.0,0
+2026-06-26T14:57:45.355,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1015.0,8938.0,0.0,0
+2026-06-26T14:57:45.418,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,746.0,10089.0,0.0,0
+2026-06-26T14:57:45.480,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,525.0,8854.0,0.0,0
+2026-06-26T14:57:45.543,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1304.0,10114.0,0.0,0
+2026-06-26T14:57:45.605,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,553.0,9140.0,0.0,0
+2026-06-26T14:57:45.667,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,743.0,10084.0,0.0,0
+2026-06-26T14:57:45.729,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,547.0,8956.0,0.0,0
+2026-06-26T14:57:45.792,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,626.0,8951.0,0.0,0
+2026-06-26T14:57:45.853,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,520.0,10364.0,0.0,0
+2026-06-26T14:57:45.915,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,2027.0,8881.0,0.0,0
+2026-06-26T14:57:45.978,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,504.0,10379.0,0.0,0
+2026-06-26T14:57:46.039,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1338.0,8980.0,0.0,0
+2026-06-26T14:57:46.102,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,540.0,10204.0,0.0,0
+2026-06-26T14:57:46.163,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,680.0,9022.0,0.0,0
+2026-06-26T14:57:46.226,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,657.0,10222.0,0.0,0
+2026-06-26T14:57:46.288,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,538.0,9107.0,0.0,0
+2026-06-26T14:57:46.350,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1096.0,10075.0,0.0,0
+2026-06-26T14:57:46.413,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,531.0,8983.0,0.0,0
+2026-06-26T14:57:46.476,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,740.0,10244.0,0.0,0
+2026-06-26T14:57:46.538,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1172.0,8945.0,0.0,0
+2026-06-26T14:57:46.601,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,678.0,10094.0,0.0,0
+2026-06-26T14:57:46.662,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,549.0,9011.0,0.0,0
+2026-06-26T14:57:46.728,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,723.0,8976.0,0.0,0
+2026-06-26T14:57:46.793,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,629.0,10122.0,0.0,0
+2026-06-26T14:57:46.855,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,733.0,9589.0,0.0,0
+2026-06-26T14:57:46.917,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,587.0,9833.0,0.0,0
+2026-06-26T14:57:46.980,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,943.0,8939.0,0.0,0
+2026-06-26T14:57:47.042,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1141.0,10251.0,0.0,0
+2026-06-26T14:57:47.105,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,688.0,9005.0,0.0,0
+2026-06-26T14:57:47.165,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,528.0,10222.0,0.0,0
+2026-06-26T14:57:47.228,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,2595.0,8920.0,0.0,0
+2026-06-26T14:57:47.292,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1825.0,9158.0,0.0,0
+2026-06-26T14:57:47.354,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,536.0,10033.0,0.0,0
+2026-06-26T14:57:47.419,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,299.0,10023.0,0.0,0
+2026-06-26T14:57:47.482,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,224.0,8881.0,0.0,0
+2026-06-26T14:57:47.546,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,249.0,9887.0,0.0,0
+2026-06-26T14:57:47.607,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,348.0,8863.0,0.0,0
+2026-06-26T14:57:47.670,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,298.0,9933.0,0.0,0
+2026-06-26T14:57:47.733,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,229.0,9128.0,0.0,0
+2026-06-26T14:57:47.796,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,237.0,10037.0,0.0,0
+2026-06-26T14:57:47.859,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,8836.0,0.0,0
+2026-06-26T14:57:47.923,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10188.0,0.0,0
+2026-06-26T14:57:47.986,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,174.0,10098.0,0.0,0
+2026-06-26T14:57:48.048,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,332.0,8771.0,0.0,0
+2026-06-26T14:57:48.111,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,391.0,10006.0,0.0,0
+2026-06-26T14:57:48.174,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,194.0,9051.0,0.0,0
+2026-06-26T14:57:48.238,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,10119.0,0.0,0
+2026-06-26T14:57:48.301,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10114.0,0.0,0
+2026-06-26T14:57:48.364,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,329.0,8703.0,0.0,0
+2026-06-26T14:57:48.428,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,221.0,10022.0,0.0,0
+2026-06-26T14:57:48.489,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,175.0,8912.0,0.0,0
+2026-06-26T14:57:48.551,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,382.0,10071.0,0.0,0
+2026-06-26T14:57:48.614,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,259.0,9110.0,0.0,0
+2026-06-26T14:57:48.676,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,10232.0,0.0,0
+2026-06-26T14:57:48.740,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,8904.0,0.0,0
+2026-06-26T14:57:48.803,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,10176.0,0.0,0
+2026-06-26T14:57:48.865,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,235.0,8760.0,0.0,0
+2026-06-26T14:57:48.929,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,352.0,10194.0,0.0,0
+2026-06-26T14:57:48.992,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1040.0,8830.0,0.0,0
+2026-06-26T14:57:49.055,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,957.0,10009.0,0.0,0
+2026-06-26T14:57:49.117,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,424.0,10103.0,0.0,0
+2026-06-26T14:57:49.179,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,255.0,8904.0,0.0,0
+2026-06-26T14:57:49.244,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,274.0,10281.0,0.0,0
+2026-06-26T14:57:49.306,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9016.0,0.0,0
+2026-06-26T14:57:49.369,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,325.0,9853.0,0.0,0
+2026-06-26T14:57:49.431,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,179.0,9087.0,0.0,0
+2026-06-26T14:57:49.492,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,10168.0,0.0,0
+2026-06-26T14:57:49.555,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,351.0,8874.0,0.0,0
+2026-06-26T14:57:49.618,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,310.0,10473.0,0.0,0
+2026-06-26T14:57:49.681,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,221.0,8838.0,0.0,0
+2026-06-26T14:57:49.744,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,10190.0,0.0,0
+2026-06-26T14:57:49.808,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,8880.0,0.0,0
+2026-06-26T14:57:49.871,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10086.0,0.0,0
+2026-06-26T14:57:49.935,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,204.0,10024.0,0.0,0
+2026-06-26T14:57:49.996,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,8907.0,0.0,0
+2026-06-26T14:57:50.057,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,312.0,9917.0,0.0,0
+2026-06-26T14:57:50.119,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,361.0,9257.0,0.0,0
+2026-06-26T14:57:50.182,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,296.0,9182.0,0.0,0
+2026-06-26T14:57:50.245,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,10247.0,0.0,0
+2026-06-26T14:57:50.307,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,209.0,9006.0,0.0,0
+2026-06-26T14:57:50.369,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,395.0,10055.0,0.0,0
+2026-06-26T14:57:50.431,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,213.0,9177.0,0.0,0
+2026-06-26T14:57:50.492,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,10214.0,0.0,0
+2026-06-26T14:57:50.555,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,389.0,9021.0,0.0,0
+2026-06-26T14:57:50.618,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,289.0,10346.0,0.0,0
+2026-06-26T14:57:50.680,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,9007.0,0.0,0
+2026-06-26T14:57:50.744,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,204.0,10038.0,0.0,0
+2026-06-26T14:57:50.806,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,194.0,9040.0,0.0,0
+2026-06-26T14:57:50.869,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,252.0,10051.0,0.0,0
+2026-06-26T14:57:50.932,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9013.0,0.0,0
+2026-06-26T14:57:50.994,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,205.0,10110.0,0.0,0
+2026-06-26T14:57:51.056,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,319.0,8889.0,0.0,0
+2026-06-26T14:57:51.118,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,309.0,10464.0,0.0,0
+2026-06-26T14:57:51.180,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,227.0,9081.0,0.0,0
+2026-06-26T14:57:51.244,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,10291.0,0.0,0
+2026-06-26T14:57:51.306,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,9013.0,0.0,0
+2026-06-26T14:57:51.370,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,330.0,10015.0,0.0,0
+2026-06-26T14:57:51.433,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,8936.0,0.0,0
+2026-06-26T14:57:51.494,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,204.0,10029.0,0.0,0
+2026-06-26T14:57:51.558,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,365.0,8874.0,0.0,0
+2026-06-26T14:57:51.621,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,260.0,10445.0,0.0,0
+2026-06-26T14:57:51.683,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,220.0,8805.0,0.0,0
+2026-06-26T14:57:51.746,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,10333.0,0.0,0
+2026-06-26T14:57:51.810,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,10154.0,0.0,0
+2026-06-26T14:57:51.872,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,8926.0,0.0,0
+2026-06-26T14:57:51.937,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,203.0,9992.0,0.0,0
+2026-06-26T14:57:51.997,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,9016.0,0.0,0
+2026-06-26T14:57:52.060,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,374.0,9934.0,0.0,0
+2026-06-26T14:57:52.123,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,231.0,9329.0,0.0,0
+2026-06-26T14:57:52.186,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10233.0,0.0,0
+2026-06-26T14:57:52.248,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,224.0,8981.0,0.0,0
+2026-06-26T14:57:52.311,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,300.0,10027.0,0.0,0
+2026-06-26T14:57:52.374,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1997.0,8987.0,0.0,0
+2026-06-26T14:57:52.437,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,487.0,10177.0,0.0,0
+2026-06-26T14:57:52.499,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,435.0,9128.0,0.0,0
+2026-06-26T14:57:52.561,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,570.0,10205.0,0.0,0
+2026-06-26T14:57:52.625,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,275.0,9178.0,0.0,0
+2026-06-26T14:57:52.688,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,10343.0,0.0,0
+2026-06-26T14:57:52.752,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,202.0,10046.0,0.0,0
+2026-06-26T14:57:52.814,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,9064.0,0.0,0
+2026-06-26T14:57:52.878,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,219.0,10077.0,0.0,0
+2026-06-26T14:57:52.939,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,209.0,9087.0,0.0,0
+2026-06-26T14:57:53.000,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10225.0,0.0,0
+2026-06-26T14:57:53.064,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,339.0,9096.0,0.0,0
+2026-06-26T14:57:53.127,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,260.0,10500.0,0.0,0
+2026-06-26T14:57:53.191,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,174.0,8973.0,0.0,0
+2026-06-26T14:57:53.254,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10162.0,0.0,0
+2026-06-26T14:57:53.317,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,249.0,8746.0,0.0,0
+2026-06-26T14:57:53.380,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,333.0,10163.0,0.0,0
+2026-06-26T14:57:53.444,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,10231.0,0.0,0
+2026-06-26T14:57:53.505,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,9071.0,0.0,0
+2026-06-26T14:57:53.568,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,358.0,10014.0,0.0,0
+2026-06-26T14:57:53.630,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,277.0,9244.0,0.0,0
+2026-06-26T14:57:53.693,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,239.0,10266.0,0.0,0
+2026-06-26T14:57:53.755,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9108.0,0.0,0
+2026-06-26T14:57:53.818,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,222.0,10218.0,0.0,0
+2026-06-26T14:57:53.881,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,176.0,9037.0,0.0,0
+2026-06-26T14:57:53.944,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,222.0,10193.0,0.0,0
+2026-06-26T14:57:54.006,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,175.0,8978.0,0.0,0
+2026-06-26T14:57:54.068,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,412.0,10124.0,0.0,0
+2026-06-26T14:57:54.131,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,405.0,9082.0,0.0,0
+2026-06-26T14:57:54.194,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,243.0,10394.0,0.0,0
+2026-06-26T14:57:54.256,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9085.0,0.0,0
+2026-06-26T14:57:54.318,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,330.0,10031.0,0.0,0
+2026-06-26T14:57:54.381,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,405.0,9093.0,0.0,0
+2026-06-26T14:57:54.443,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10269.0,0.0,0
+2026-06-26T14:57:54.505,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,226.0,9083.0,0.0,0
+2026-06-26T14:57:54.567,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,348.0,10111.0,0.0,0
+2026-06-26T14:57:54.629,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,260.0,9204.0,0.0,0
+2026-06-26T14:57:54.691,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,9010.0,0.0,0
+2026-06-26T14:57:54.753,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,245.0,10490.0,0.0,0
+2026-06-26T14:57:54.817,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,178.0,9091.0,0.0,0
+2026-06-26T14:57:54.880,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10138.0,0.0,0
+2026-06-26T14:57:54.944,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,203.0,10026.0,0.0,0
+2026-06-26T14:57:55.006,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,9006.0,0.0,0
+2026-06-26T14:57:55.069,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,374.0,10003.0,0.0,0
+2026-06-26T14:57:55.132,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,292.0,9156.0,0.0,0
+2026-06-26T14:57:55.195,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,205.0,10157.0,0.0,0
+2026-06-26T14:57:55.259,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,8976.0,0.0,0
+2026-06-26T14:57:55.321,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,238.0,10166.0,0.0,0
+2026-06-26T14:57:55.384,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,421.0,8693.0,0.0,0
+2026-06-26T14:57:55.446,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,210.0,10355.0,0.0,0
+2026-06-26T14:57:55.506,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,10263.0,0.0,0
+2026-06-26T14:57:55.568,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,389.0,9099.0,0.0,0
+2026-06-26T14:57:55.632,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,250.0,9422.0,0.0,0
+2026-06-26T14:57:55.695,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,10246.0,0.0,0
+2026-06-26T14:57:55.759,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,220.0,8852.0,0.0,0
+2026-06-26T14:57:55.822,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,10208.0,0.0,0
+2026-06-26T14:57:55.883,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,203.0,10064.0,0.0,0
+2026-06-26T14:57:55.946,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,365.0,8863.0,0.0,0
+2026-06-26T14:57:56.009,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,535.0,9162.0,0.0,0
+2026-06-26T14:57:56.071,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,545.0,10317.0,0.0,0
+2026-06-26T14:57:56.133,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,301.0,10230.0,0.0,0
+2026-06-26T14:57:56.196,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,194.0,9141.0,0.0,0
+2026-06-26T14:57:56.260,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,192.0,9043.0,0.0,0
+2026-06-26T14:57:56.322,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,207.0,10266.0,0.0,0
+2026-06-26T14:57:56.385,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,311.0,9968.0,0.0,0
+2026-06-26T14:57:56.448,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,354.0,9055.0,0.0,0
+2026-06-26T14:57:56.510,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,10306.0,0.0,0
+2026-06-26T14:57:56.573,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,362.0,8853.0,0.0,0
+2026-06-26T14:57:56.636,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,209.0,10442.0,0.0,0
+2026-06-26T14:57:56.700,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,8928.0,0.0,0
+2026-06-26T14:57:56.763,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,10301.0,0.0,0
+2026-06-26T14:57:56.828,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,219.0,8822.0,0.0,0
+2026-06-26T14:57:56.891,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,175.0,10284.0,0.0,0
+2026-06-26T14:57:56.961,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,258.0,9731.0,0.0,0
+2026-06-26T14:57:57.022,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,272.0,10153.0,0.0,0
+2026-06-26T14:57:57.087,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,461.0,9285.0,0.0,0
+2026-06-26T14:57:57.149,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,210.0,9148.0,0.0,0
+2026-06-26T14:57:57.213,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,217.0,9976.0,0.0,0
+2026-06-26T14:57:57.275,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,9005.0,0.0,0
+2026-06-26T14:57:57.337,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,316.0,10122.0,0.0,0
+2026-06-26T14:57:57.401,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,9094.0,0.0,0
+2026-06-26T14:57:57.463,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,272.0,10253.0,0.0,0
+2026-06-26T14:57:57.526,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,2220.0,10030.0,0.0,0
+2026-06-26T14:57:57.587,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1009.0,9130.0,0.0,0
+2026-06-26T14:57:57.650,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,326.0,9228.0,0.0,0
+2026-06-26T14:57:57.713,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,336.0,10380.0,0.0,0
+2026-06-26T14:57:57.776,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,414.0,9010.0,0.0,0
+2026-06-26T14:57:57.838,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,687.0,10344.0,0.0,0
+2026-06-26T14:57:57.900,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,539.0,10240.0,0.0,0
+2026-06-26T14:57:57.962,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,628.0,9120.0,0.0,0
+2026-06-26T14:57:58.025,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,800.0,9070.0,0.0,0
+2026-06-26T14:57:58.089,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1011.0,10417.0,0.0,0
+2026-06-26T14:57:58.151,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,781.0,10314.0,0.0,0
+2026-06-26T14:57:58.213,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,552.0,8950.0,0.0,0
+2026-06-26T14:57:58.276,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,723.0,10410.0,0.0,0
+2026-06-26T14:57:58.338,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,985.0,9104.0,0.0,0
+2026-06-26T14:57:58.401,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,669.0,10334.0,0.0,0
+2026-06-26T14:57:58.463,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,526.0,9002.0,0.0,0
+2026-06-26T14:57:58.526,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1205.0,10382.0,0.0,0
+2026-06-26T14:57:58.588,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,915.0,9181.0,0.0,0
+2026-06-26T14:57:58.650,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,652.0,10293.0,0.0,0
+2026-06-26T14:57:58.712,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,516.0,9119.0,0.0,0
+2026-06-26T14:57:58.774,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,752.0,9068.0,0.0,0
+2026-06-26T14:57:58.836,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,539.0,10596.0,0.0,0
+2026-06-26T14:57:58.899,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,580.0,9133.0,0.0,0
+2026-06-26T14:57:58.962,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,637.0,10311.0,0.0,0
+2026-06-26T14:57:59.023,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,2410.0,9013.0,0.0,0
+2026-06-26T14:57:59.086,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1503.0,10330.0,0.0,0
+2026-06-26T14:57:59.148,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,305.0,9083.0,0.0,0
+2026-06-26T14:57:59.211,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,622.0,10322.0,0.0,0
+2026-06-26T14:57:59.273,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,599.0,9196.0,0.0,0
+2026-06-26T14:57:59.336,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1092.0,10221.0,0.0,0
+2026-06-26T14:57:59.398,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,536.0,9222.0,0.0,0
+2026-06-26T14:57:59.461,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,634.0,10292.0,0.0,0
+2026-06-26T14:57:59.523,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,566.0,9181.0,0.0,0
+2026-06-26T14:57:59.585,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1483.0,10269.0,0.0,0
+2026-06-26T14:57:59.648,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,531.0,9139.0,0.0,0
+2026-06-26T14:57:59.711,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,578.0,10403.0,0.0,0
+2026-06-26T14:57:59.773,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,628.0,9164.0,0.0,0
+2026-06-26T14:57:59.836,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,648.0,10229.0,0.0,0
+2026-06-26T14:57:59.898,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,660.0,9124.0,0.0,0
+2026-06-26T14:57:59.961,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,539.0,10266.0,0.0,0
+2026-06-26T14:58:00.023,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,631.0,9204.0,0.0,0
+2026-06-26T14:58:00.087,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1263.0,10293.0,0.0,0
+2026-06-26T14:58:00.148,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,662.0,9257.0,0.0,0
+2026-06-26T14:58:00.211,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,525.0,10329.0,0.0,0
+2026-06-26T14:58:00.272,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,695.0,9179.0,0.0,0
+2026-06-26T14:58:00.334,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1004.0,10291.0,0.0,0
+2026-06-26T14:58:00.395,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,636.0,9273.0,0.0,0
+2026-06-26T14:58:00.457,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,524.0,9324.0,0.0,0
+2026-06-26T14:58:00.520,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,658.0,10405.0,0.0,0
+2026-06-26T14:58:00.580,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,3711.0,9099.0,0.0,0
+2026-06-26T14:58:00.644,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,368.0,10383.0,0.0,0
+2026-06-26T14:58:00.706,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1242.0,9343.0,0.0,0
+2026-06-26T14:58:00.767,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,425.0,10225.0,0.0,0
+2026-06-26T14:58:00.830,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,307.0,9142.0,0.0,0
+2026-06-26T14:58:00.894,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,243.0,10511.0,0.0,0
+2026-06-26T14:58:00.957,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,223.0,9031.0,0.0,0
+2026-06-26T14:58:01.020,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,204.0,10125.0,0.0,0
+2026-06-26T14:58:01.083,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,380.0,8940.0,0.0,0
+2026-06-26T14:58:01.146,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,268.0,10275.0,0.0,0
+2026-06-26T14:58:01.209,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9146.0,0.0,0
+2026-06-26T14:58:01.272,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,221.0,10273.0,0.0,0
+2026-06-26T14:58:01.334,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,332.0,10159.0,0.0,0
+2026-06-26T14:58:01.397,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,238.0,9015.0,0.0,0
+2026-06-26T14:58:01.461,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,10448.0,0.0,0
+2026-06-26T14:58:01.522,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,177.0,9136.0,0.0,0
+2026-06-26T14:58:01.585,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,344.0,10168.0,0.0,0
+2026-06-26T14:58:01.648,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,306.0,9114.0,0.0,0
+2026-06-26T14:58:01.712,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,190.0,10295.0,0.0,0
+2026-06-26T14:58:01.775,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,191.0,9047.0,0.0,0
+2026-06-26T14:58:01.839,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,189.0,10209.0,0.0,0
+2026-06-26T14:58:01.902,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,189.0,10199.0,0.0,0
+2026-06-26T14:58:01.966,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,205.0,8966.0,0.0,0
+2026-06-26T14:58:02.028,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10247.0,0.0,0
+2026-06-26T14:58:02.091,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,358.0,8793.0,0.0,0
+2026-06-26T14:58:02.154,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,193.0,10469.0,0.0,0
+2026-06-26T14:58:02.216,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,8951.0,0.0,0
+2026-06-26T14:58:02.281,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,208.0,10395.0,0.0,0
+2026-06-26T14:58:02.348,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,671.0,10081.0,0.0,0
+2026-06-26T14:58:02.411,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,480.0,9868.0,0.0,0
+2026-06-26T14:58:02.475,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,195.0,8501.0,0.0,0
+2026-06-26T14:58:02.537,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,206.0,10234.0,0.0,0
+2026-06-26T14:58:02.599,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1472.0,8660.0,0.0,0
+2026-06-26T14:58:02.662,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1584.0,10456.0,0.0,0
+2026-06-26T14:58:02.724,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,534.0,9208.0,0.0,0
+2026-06-26T14:58:02.787,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,319.0,10359.0,0.0,0
+2026-06-26T14:58:02.848,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,338.0,9155.0,0.0,0
+2026-06-26T14:58:02.911,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,618.0,10322.0,0.0,0
+2026-06-26T14:58:02.974,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,618.0,9251.0,0.0,0
+2026-06-26T14:58:03.037,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1277.0,10346.0,0.0,0
+2026-06-26T14:58:03.099,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,572.0,9075.0,0.0,0
+2026-06-26T14:58:03.162,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,665.0,10307.0,0.0,0
+2026-06-26T14:58:03.224,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,628.0,9158.0,0.0,0
+2026-06-26T14:58:03.288,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,638.0,10367.0,0.0,0
+2026-06-26T14:58:03.353,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,962.0,9090.0,0.0,0
+2026-06-26T14:58:03.413,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,773.0,10219.0,0.0,0
+2026-06-26T14:58:03.448,timeseries,3,Weather Report Extended v2,mlx-community/Mistral-7B-Instruct-v0.3-4bit,1372.0,9829.0,0.0,496

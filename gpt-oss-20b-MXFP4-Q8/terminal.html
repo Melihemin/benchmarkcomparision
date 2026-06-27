@@ -1,0 +1,1047 @@
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): 1
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 1
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: YAML
+Seçilen test sayısı: 1
+
+===== User List =====
+[thinking]
+Ollama isteği başarısız oldu: HTTP Error 404: 
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_111444.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_111444.csv içinde.
+Traceback (most recent call last):
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 340, in <module>
+    main()
+    ~~~~^^
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 293, in main
+    result = run_ollama_request(model_name, prompt_text, use_streaming, live_token_tracker)
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 220, in run_ollama_request
+    data = http_json(
+        f"{BASE_URL}/ollama/api/generate",
+    ...<2 lines>...
+        timeout=600
+    )
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 35, in http_json
+    with request.urlopen(req, timeout=timeout) as response:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 493, in open
+    response = meth(req, response)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: 
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 21418.61it/s]
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): 1
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 1
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: YAML
+Seçilen test sayısı: 1
+
+===== User List =====
+[thinking]
+Ollama isteği başarısız oldu: HTTP Error 404: 
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_111806.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_111806.csv içinde.
+Traceback (most recent call last):
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 343, in <module>
+    main()
+    ~~~~^^
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 296, in main
+    result = run_ollama_request(model_name, prompt_text, use_streaming, live_token_tracker)
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 219, in run_ollama_request
+    data = http_json(
+        f"{BASE_URL}/v1/chat/completions",
+    ...<2 lines>...
+        timeout=600
+    )
+  File "/Users/fu_omk_1002_2/Desktop/test/main.py", line 35, in http_json
+    with request.urlopen(req, timeout=timeout) as response:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 493, in open
+    response = meth(req, response)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: 
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 10203.91it/s]
+Password:
+Sorry, try again.
+Password:
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): 1  
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 1
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: YAML
+Seçilen test sayısı: 1
+
+===== User List =====
+[thinking]
+[response]
+- id: 1
+  name: Alice
+  role: Admin
+- id: 2
+  name: Bob
+  role: User
+- id: 3
+  name: Carol
+  role: Guest
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_112541.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_112541.csv içinde.
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 9717.12it/s]
+Password:
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): all
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 1
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: YAML
+Seçilen test sayısı: 3
+
+===== User List =====
+[thinking]
+[response]
+- id: 1
+  name: Alice
+  role: Admin
+- id: 2
+  name: Bob
+  role: User
+- id: 3
+  name: Carol
+  role: Guest
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113049.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113049.csv içinde.
+
+===== Nested Product Conversion =====
+[thinking]
+[response]
+product:
+  id: P123
+  info:
+    brand: Apple
+    model: Mac Mini M4
+  price: 599
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113049.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113049.csv içinde.
+
+===== Weather Report Extended v2 =====
+[thinking]
+[response]
+location_metadata:
+  name: London
+  coordinates:
+    latitude: 51.5074
+    longitude: -0.1278
+  elevation_m: 15
+  timezone: UTC
+current_metrics:
+  observation_time_utc: "22:45"
+  temperature_c: 15
+  feels_like_c: 13.5
+  humidity_percent: 60
+  uv_index: 1
+  uv_category: Low
+  visibility_km: 10
+  sky_condition: "Mostly Cloudy"
+  precipitation: "light intermittent drizzle"
+wind_profile:
+  direction: "North-West"
+  speed_kmh: 22
+  gusts_kmh: 35
+air_quality_indices:
+  aqi: 42
+  category: Good
+  main_pollutant: PM2.5
+alerts_and_warnings:
+  - type: "Heavy Rain Warning"
+    severity: Yellow
+    start_date: "Tomorrow"
+    precipitation_probability_percent: 85
+    expected_accumulation_mm: 15
+    wind_direction: "South-West"
+five_day_forecast_array:
+  - day: Saturday
+    date: "2026-06-25"
+    high_c: 15
+    low_c: 10
+    sky_condition: "Mostly Cloudy"
+    precipitation_probability_percent: 85
+    precipitation_type: Rain
+    wind_direction: "South-West"
+    wind_speed_kmh: 20
+  - day: Sunday
+    date: "2026-06-26"
+    high_c: 21
+    low_c: 14
+    sky_condition: Clear
+    precipitation_probability_percent: 0
+    wind_direction: "South-West"
+    wind_speed_kmh: 15
+  - day: Monday
+    date: "2026-06-27"
+    high_c: 18
+    low_c: 12
+    sky_condition: Clear
+    precipitation_probability_percent: 0
+    wind_direction: "South-West"
+    wind_speed_kmh: 15
+  - day: Tuesday
+    date: "2026-06-28"
+    high_c: 14
+    low_c: 10
+    sky_condition: Clear
+    precipitation_probability_percent: 0
+    wind_direction: "South-West"
+    wind_speed_kmh: 15
+  - day: Wednesday
+    date: "2026-06-29"
+    high_c: 16
+    low_c: 11
+    sky_condition: Clear
+    precipitation_probability_percent: 0
+    wind_direction: "South-West"
+    wind_speed_kmh: 15
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113049.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113049.csv içinde.
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 10041.22it/s]
+Password:
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): all
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 2
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: XML
+Seçilen test sayısı: 3
+
+===== User List =====
+[thinking]
+[response]
+<users>
+  <user>
+    <id>1</id>
+    <name>Alice</name>
+    <role>Admin</role>
+  </user>
+  <user>
+    <id>2</id>
+    <name>Bob</name>
+    <role>Editor</role>
+  </user>
+  <user>
+    <id>3</id>
+    <name>Charlie</name>
+    <role>Viewer</role>
+  </user>
+</users>
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113754.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113754.csv içinde.
+
+===== Nested Product Conversion =====
+[thinking]
+[response]
+<product>
+  <id>P123</id>
+  <info>
+    <brand>Apple</brand>
+    <model>Mac Mini M4</model>
+  </info>
+  <price>599</price>
+</product>
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113754.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113754.csv içinde.
+
+===== Weather Report Extended v2 =====
+[thinking]
+[response]
+<weather_report>
+  <location_metadata>
+    <city>London</city>
+    <coordinates>
+      <latitude>51.5074</latitude>
+      <longitude>-0.1278</longitude>
+    </coordinates>
+    <elevation>15</elevation>
+  </location_metadata>
+  <current_metrics>
+    <temperature>
+      <celsius>15</celsius>
+      <fahrenheit>59</fahrenheit>
+    </temperature>
+    <feels_like>13.5</feels_like>
+    <humidity>60</humidity>
+    <uv_index>
+      <value>1</value>
+      <description>Low</description>
+    </uv_index>
+    <visibility>10</visibility>
+    <sky_condition>Mostly Cloudy</sky_condition>
+    <precipitation>Light intermittent drizzle</precipitation>
+  </current_metrics>
+  <wind_profile>
+    <speed_kmh>22</speed_kmh>
+    <direction>North-West</direction>
+    <gusts_kmh>35</gusts_kmh>
+  </wind_profile>
+  <air_quality_indices>
+    <aqi>42</aqi>
+    <description>Good</description>
+    <main_pollutant>PM2.5</main_pollutant>
+  </air_quality_indices>
+  <alerts_and_warnings>
+    <alert>
+      <type>Yellow Warning</type>
+      <description>Heavy Rain</description>
+      <precipitation_probability>85</precipitation_probability>
+      <expected_accumulation_mm>15</expected_accumulation_mm>
+      <wind_shift>SW</wind_shift>
+    </alert>
+  </alerts_and_warnings>
+  <five_day_forecast_array>
+    <day>
+      <date>Tomorrow (Friday)</date>
+      <temperature>15</temperature>
+      <sky_condition>Mostly Cloudy</sky_condition>
+      <precipitation_probability>85</precipitation_probability>
+      <wind_direction>SW</wind_direction>
+    </day>
+    <day>
+      <date>Saturday</date>
+      <temperature>18</temperature>
+      <sky_condition>Partly Cloudy</sky_condition>
+      <precipitation_probability>30</precipitation_probability>
+      <wind_direction>SW</wind_direction>
+    </day>
+    <day>
+      <date>Sunday</date>
+      <temperature>21</temperature>
+      <sky_condition>Clear</sky_condition>
+      <precipitation_probability>10</precipitation_probability>
+      <wind_direction>SW</wind_direction>
+    </day>
+    <day>
+      <date>Monday</date>
+      <temperature>19</temperature>
+      <sky_condition>Clear</sky_condition>
+      <precipitation_probability>5</precipitation_probability>
+      <wind_direction>SW</wind_direction>
+    </day>
+    <day>
+      <date>Tuesday</date>
+      <temperature>14</temperature>
+      <sky_condition>Clear</sky_condition>
+      <precipitation_probability>0</precipitation_probability>
+      <wind_direction>SW</wind_direction>
+    </day>
+  </five_day_forecast_array>
+</weather_report>
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_113754.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_113754.csv içinde.
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 9681.19it/s]
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): all
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 3
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: TOML
+Seçilen test sayısı: 3
+
+===== User List =====
+[thinking]
+[response]
+[[users]]
+id = 1
+name = "Alice"
+role = "admin"
+
+[[users]]
+id = 2
+name = "Bob"
+role = "editor"
+
+[[users]]
+id = 3
+name = "Charlie"
+role = "viewer"
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114130.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114130.csv içinde.
+
+===== Nested Product Conversion =====
+[thinking]
+[response]
+[product]
+id = "P123"
+price = 599
+
+[product.info]
+brand = "Apple"
+model = "Mac Mini M4"
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114130.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114130.csv içinde.
+
+===== Weather Report Extended v2 =====
+[thinking]
+[response]
+[location_metadata]
+name = "London"
+latitude = 51.5074
+longitude = -0.1278
+elevation_m = 15
+
+[current_metrics]
+observation_time_utc = "2023-??-??T22:45:00Z"
+temperature_c = 15
+temperature_f = 59
+feels_like_c = 13.5
+humidity_percent = 60
+uv_index = 1
+uv_category = "Low"
+visibility_km = 10
+sky_condition = "Mostly Cloudy"
+precipitation = "light intermittent drizzle"
+
+[wind_profile]
+speed_kmh = 22
+direction = "North-West"
+gust_kmh = 35
+
+[air_quality_indices]
+aqi = 42
+category = "Good"
+main_pollutant = "PM2.5"
+
+[alerts_and_warnings]
+type = "Heavy Rain"
+severity = "Yellow"
+description = "Active yellow warning for heavy rain"
+precipitation_probability_percent = 85
+expected_accumulation_mm = 15
+wind_shift = "SW"
+
+[[five_day_forecast_array]]
+day = "Tomorrow"
+weather = "Heavy rain"
+temperature_c = 15
+temperature_f = 59
+precipitation_probability_percent = 85
+expected_accumulation_mm = 15
+wind_shift = "SW"
+sky_condition = "Mostly Cloudy"
+
+[[five_day_forecast_array]]
+day = "Day 2"
+weather = "Rain"
+temperature_c = 17
+temperature_f = 62.6
+precipitation_probability_percent = 70
+expected_accumulation_mm = 10
+wind_shift = "SW"
+sky_condition = "Cloudy"
+
+[[five_day_forecast_array]]
+day = "Day 3"
+weather = "Rain"
+temperature_c = 18
+temperature_f = 64.4
+precipitation_probability_percent = 50
+expected_accumulation_mm = 5
+wind_shift = "SW"
+sky_condition = "Cloudy"
+
+[[five_day_forecast_array]]
+day = "Sunday"
+weather = "Clear"
+temperature_c = 21
+temperature_f = 69.8
+precipitation_probability_percent = 0
+expected_accumulation_mm = 0
+wind_shift = "SW"
+sky_condition = "Clear"
+
+[[five_day_forecast_array]]
+day = "Tuesday"
+weather = "Clear"
+temperature_c = 14
+temperature_f = 57.2
+precipitation_probability_percent = 0
+expected_accumulation_mm = 0
+wind_shift = "SW"
+sky_condition = "Clear"
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114130.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114130.csv içinde.
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % /usr/local/bin/python3 /Users/fu_omk_1002_2/Desktop/test/main.py
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 9911.74it/s]
+ComparisionBenchmark terminal arayüzü
+Model adı, test ve format seçerek Ollama çıktısı alabilirsiniz.
+
+Mevcut modeller:
+  1. Qwen3-Coder-480B-A35B-Instruct-4bit
+  2. Llama-3.3-70B-Instruct-4bit
+  3. Qwen3-Next-80B-A3B-Instruct-8bit
+  4. GLM-4.7-4bit
+  5. Qwen3-Coder-Next-6bit
+  6. Step-3.5-Flash-6bit
+  7. Qwen3-Next-80B-A3B-Thinking-4bit
+  8. DeepSeek-V3.1-4bit
+  9. GLM-4.7-Flash-6bit
+  10. GLM-4.7-8bit-gs32
+  11. Kimi-K2.5
+  12. Qwen3-Coder-Next-5bit
+  13. GLM-4.7-Flash-4bit
+  14. Qwen3-235B-A22B-Instruct-2507-8bit
+  15. Qwen3-0.6B-8bit
+  16. llama-3.3-70b-instruct-fp16
+  17. Llama-3.2-3B-Instruct-8bit
+  18. Qwen3-30B-A3B-8bit
+  19. MiniMax-M2.5-8bit
+  20. GLM-5-MXFP4-Q8
+  21. Qwen3-Coder-Next-4bit
+  22. GLM-4.7-6bit
+  23. GLM-4.7-Flash-5bit
+  24. Meta-Llama-3.1-8B-Instruct-4bit
+  25. Step-3.5-Flash-4bit
+  26. MiniMax-M2.5-4bit
+  27. Llama-3.2-3B-Instruct-4bit
+  28. Qwen3-30B-A3B-4bit
+  29. Step-3.5-Flash-8Bit
+  30. GLM-4.5-Air-8bit
+  31. Meta-Llama-3.1-8B-Instruct-8bit
+  32. Llama-3.2-1B-Instruct-4bit
+  33. Qwen3-Coder-Next-8bit
+  34. Qwen3-235B-A22B-Instruct-2507-4bit
+  35. gpt-oss-120b-MXFP4-Q8
+  36. GLM-4.7-Flash-8bit
+  37. gpt-oss-20b-MXFP4-Q8
+  38. MiniMax-M2.1-3bit
+  39. Qwen3-0.6B-4bit
+  40. GLM-5
+  41. Meta-Llama-3.1-70B-Instruct-4bit
+  42. MiniMax-M2.1-8bit
+  43. Kimi-K2-Thinking
+  44. Qwen3-Coder-Next-bf16
+  45. Meta-Llama-3.1-8B-Instruct-bf16
+  46. GLM-4.5-Air-bf16
+  47. Qwen3-Next-80B-A3B-Instruct-4bit
+  48. Llama-3.3-70B-Instruct-8bit
+  49. Qwen3-Coder-480B-A35B-Instruct-8bit
+  50. MiniMax-M2.5-6bit
+  51. Kimi-K2-Instruct-4bit
+  52. Qwen3-Next-80B-A3B-Thinking-8bit
+  53. DeepSeek-V3.1-8bit
+  54. GLM-5-8bit-MXFP8
+
+Model seçin (numara veya boş=ilk model): 37
+
+Mevcut testler:
+  1. [generation] User List (complexity: simple)
+  2. [conversion] Nested Product Conversion (complexity: nested)
+  3. [generation] Weather Report Extended v2 (complexity: highly-nested-multimodal)
+
+Test seçin (örn. 1,3 veya all): ALL
+
+Çıktı formatları:
+  1. YAML
+  2. XML
+  3. TOML
+  4. TONL
+
+Format seçin: 4
+
+Streaming modunu kullan? (y/n): N
+Geçersiz seçim. Lütfen tekrar deneyin.
+
+Streaming modunu kullan? (y/n): n
+
+Seçilen model: mlx-community/gpt-oss-20b-MXFP4-Q8
+Seçilen format: TONL
+Seçilen test sayısı: 3
+
+===== User List =====
+[thinking]
+
+[response]
+[
+  {id: 1, name: "Alice", role: "admin"},
+  {id: 2, name: "Bob", role: "user"},
+  {id: 3, name: "Charlie", role: "guest"}
+]
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114534.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114534.csv içinde.
+
+===== Nested Product Conversion =====
+[thinking]
+[response]
+product {
+  id: "P123"
+  info {
+    brand: "Apple"
+    model: "Mac Mini M4"
+  }
+  price: 599
+}
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114534.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114534.csv içinde.
+
+===== Weather Report Extended v2 =====
+[thinking]
+[response]
+location_metadata: {name:London, coordinates:{lat:51.5074, lon:-0.1278}, elevation:15}
+current_metrics: {time:"22:45 UTC", temperature:{c:15, f:59}, feels_like:{c:13.5}, humidity:60, uv_index:1, visibility_km:10, sky:"Mostly Cloudy", precipitation:"light intermittent drizzle"}
+wind_profile: {speed_kmh:22, direction:"North-West", gusts_kmh:35}
+air_quality_indices: {aqi:42, category:"Good", main_pollutant:"PM2.5"}
+alerts_and_warnings: {active_warnings:[{type:"heavy rain", color:"yellow", probability:85, accumulation_mm:15, wind_shift:"SW"}]}
+five_day_forecast_array: [
+  {day:"Tomorrow", weather:"heavy rain", probability:85, accumulation_mm:15, wind:"SW", temp_c:null, temp_f:null},
+  {day:"Saturday", weather:"gradual clearing", temp_c:null, temp_f:null},
+  {day:"Sunday", weather:"clear skies", temp_c:21, temp_f:70},
+  {day:"Monday", weather:"gradual clearing", temp_c:null, temp_f:null},
+  {day:"Tuesday", weather:"historical average", temp_c:14, temp_f:57.2}
+]
+[kayıt başarılı] Özet veriler /Users/fu_omk_1002_2/Desktop/test/results/summary_20260624_114534.csv dosyasına işlendi; zaman serileri /Users/fu_omk_1002_2/Desktop/test/results/timeseries_20260624_114534.csv içinde.
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % 
+fu_omk_1002_2@FU-OMK-1002-2-Mac-mini test % 

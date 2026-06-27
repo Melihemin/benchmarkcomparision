@@ -1,0 +1,8 @@
+timestamp,record_type,task_id,task_name,task_type,task_complexity,model_name,output_format,stream_active,status,error_message,load_duration_ns,prompt_eval_count,prompt_eval_duration_ns,prompt_eval_rate_tps,decode_token_count,decode_duration_ns,decode_rate_tps,total_duration_ns,total_duration_ms,thinking_chars,response_chars,avg_cpu_power_mw,avg_gpu_power_mw,avg_ane_power_mw,estimated_total_energy_mwh,syntax_score,syntax_status,syntax_details,syntax_format,semantic_score,semantic_method,semantic_details
+2026-06-26T15:13:59.813,summary,1,User List,generation,simple,mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit,YAML,False,success,,,110,,,733,,,,,0,141,299.0,251.5,0.0,10.738057,1.0,parsed,yaml parse,YAML,0.8392727673053741,embedding,max_cosine_norm
+2026-06-26T15:15:05.140,summary,2,Nested Product Conversion,conversion,nested,mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit,YAML,False,success,,,162,,,729,,,,,0,82,416.0,307.5,0.0,12.80008,1.0,parsed,yaml parse,YAML,0.7507066130638123,embedding,max_cosine_norm
+2026-06-26T15:16:19.321,summary,3,Weather Report Extended v2,generation,highly-nested-multimodal,mlx-community/DeepSeek-R1-Distill-Qwen-14B-4bit,YAML,False,success,,,542,,,788,,,,,0,1060,369.0,315.0,0.0,13.809303,0.99,"partial: while scanning for the next token
+found character '`' that cannot start any token
+  in ""<unicode string>"", line 3, column 1:
+    ```yaml
+    ^",yaml parse,YAML,0.9242938756942749,embedding,max_cosine_norm

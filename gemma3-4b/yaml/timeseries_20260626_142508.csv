@@ -1,0 +1,403 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-26T14:25:47.684,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,361.0,939.0,0.0,0
+2026-06-26T14:25:47.742,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,232.0,769.0,0.0,0
+2026-06-26T14:25:47.801,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,230.0,901.0,0.0,0
+2026-06-26T14:25:47.860,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,313.0,903.0,0.0,0
+2026-06-26T14:25:47.921,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,204.0,1907.0,0.0,0
+2026-06-26T14:25:47.981,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,84.0,1822.0,0.0,0
+2026-06-26T14:25:48.042,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,577.0,1798.0,0.0,0
+2026-06-26T14:25:48.103,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,899.0,1849.0,0.0,0
+2026-06-26T14:25:48.164,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,230.0,2039.0,0.0,0
+2026-06-26T14:25:48.224,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,99.0,1829.0,0.0,0
+2026-06-26T14:25:48.284,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,33.0,1787.0,0.0,0
+2026-06-26T14:25:48.345,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1098.0,1929.0,0.0,0
+2026-06-26T14:25:48.409,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,639.0,2439.0,0.0,0
+2026-06-26T14:25:48.472,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,227.0,1831.0,0.0,0
+2026-06-26T14:25:48.535,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,109.0,1979.0,0.0,0
+2026-06-26T14:25:48.600,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,687.0,2062.0,0.0,0
+2026-06-26T14:25:48.665,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,2497.0,1734.0,0.0,0
+2026-06-26T14:25:48.729,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,46.0,1893.0,0.0,0
+2026-06-26T14:25:48.790,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1921.0,0.0,0
+2026-06-26T14:25:48.855,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,77.0,1689.0,0.0,0
+2026-06-26T14:25:48.919,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,165.0,2045.0,0.0,0
+2026-06-26T14:25:48.983,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1915.0,0.0,0
+2026-06-26T14:25:49.048,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,834.0,1683.0,0.0,0
+2026-06-26T14:25:49.113,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,631.0,2066.0,0.0,0
+2026-06-26T14:25:49.177,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,184.0,1949.0,0.0,0
+2026-06-26T14:25:49.238,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,61.0,1889.0,0.0,0
+2026-06-26T14:25:49.303,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,142.0,1778.0,0.0,0
+2026-06-26T14:25:49.368,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,49.0,2039.0,0.0,0
+2026-06-26T14:25:49.432,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,325.0,1687.0,0.0,0
+2026-06-26T14:25:49.496,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1912.0,0.0,0
+2026-06-26T14:25:49.561,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,619.0,1919.0,0.0,0
+2026-06-26T14:25:49.626,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,47.0,2017.0,0.0,0
+2026-06-26T14:25:49.690,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,108.0,1689.0,0.0,0
+2026-06-26T14:25:49.755,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,62.0,1917.0,0.0,0
+2026-06-26T14:25:49.819,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,62.0,1981.0,0.0,0
+2026-06-26T14:25:49.884,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1919.0,0.0,0
+2026-06-26T14:25:49.949,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,141.0,1775.0,0.0,0
+2026-06-26T14:25:50.012,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,336.0,1893.0,0.0,0
+2026-06-26T14:25:50.077,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1838.0,1945.0,0.0,0
+2026-06-26T14:25:50.140,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,47.0,1963.0,0.0,0
+2026-06-26T14:25:50.205,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,172.0,1752.0,0.0,0
+2026-06-26T14:25:50.269,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,47.0,1938.0,0.0,0
+2026-06-26T14:25:50.334,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1918.0,0.0,0
+2026-06-26T14:25:50.399,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,16.0,1693.0,0.0,0
+2026-06-26T14:25:50.464,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,326.0,1923.0,0.0,0
+2026-06-26T14:25:50.529,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1893.0,0.0,0
+2026-06-26T14:25:50.594,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,604.0,1967.0,0.0,0
+2026-06-26T14:25:50.656,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1898.0,0.0,0
+2026-06-26T14:25:50.720,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,110.0,1709.0,0.0,0
+2026-06-26T14:25:50.785,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,32.0,1964.0,0.0,0
+2026-06-26T14:25:50.849,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1929.0,0.0,0
+2026-06-26T14:25:50.914,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1695.0,0.0,0
+2026-06-26T14:25:50.978,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,125.0,1931.0,0.0,0
+2026-06-26T14:25:51.043,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,418.0,1920.0,0.0,0
+2026-06-26T14:25:51.108,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,618.0,1961.0,0.0,0
+2026-06-26T14:25:51.173,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1676.0,0.0,0
+2026-06-26T14:25:51.237,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,108.0,1920.0,0.0,0
+2026-06-26T14:25:51.302,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1920.0,0.0,0
+2026-06-26T14:25:51.366,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1921.0,0.0,0
+2026-06-26T14:25:51.432,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1699.0,0.0,0
+2026-06-26T14:25:51.496,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,217.0,1919.0,0.0,0
+2026-06-26T14:25:51.561,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,640.0,1904.0,0.0,0
+2026-06-26T14:25:51.625,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1920.0,0.0,0
+2026-06-26T14:25:51.690,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,466.0,1692.0,0.0,0
+2026-06-26T14:25:51.754,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,2257.0,1917.0,0.0,0
+2026-06-26T14:25:51.819,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1446.0,1928.0,0.0,0
+2026-06-26T14:25:51.883,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,154.0,1929.0,0.0,0
+2026-06-26T14:25:51.949,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1690.0,0.0,0
+2026-06-26T14:25:52.014,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,93.0,1919.0,0.0,0
+2026-06-26T14:25:52.079,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1114.0,1908.0,0.0,0
+2026-06-26T14:25:52.143,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1906.0,0.0,0
+2026-06-26T14:25:52.208,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1919.0,0.0,0
+2026-06-26T14:25:52.273,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,108.0,1688.0,0.0,0
+2026-06-26T14:25:52.338,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,62.0,1910.0,0.0,0
+2026-06-26T14:25:52.401,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1910.0,0.0,0
+2026-06-26T14:25:52.466,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,16.0,1950.0,0.0,0
+2026-06-26T14:25:52.531,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,216.0,1682.0,0.0,0
+2026-06-26T14:25:52.596,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,695.0,1931.0,0.0,0
+2026-06-26T14:25:52.660,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1908.0,0.0,0
+2026-06-26T14:25:52.725,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,16.0,1930.0,0.0,0
+2026-06-26T14:25:52.789,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1685.0,0.0,0
+2026-06-26T14:25:52.854,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,108.0,1912.0,0.0,0
+2026-06-26T14:25:52.918,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1944.0,0.0,0
+2026-06-26T14:25:52.982,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1910.0,0.0,0
+2026-06-26T14:25:53.047,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,418.0,1689.0,0.0,0
+2026-06-26T14:25:53.107,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,677.0,1969.0,0.0,0
+2026-06-26T14:25:53.171,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,1677.0,0.0,0
+2026-06-26T14:25:53.235,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,33.0,2062.0,0.0,0
+2026-06-26T14:25:53.297,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,1925.0,0.0,0
+2026-06-26T14:25:53.361,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,657.0,1784.0,0.0,0
+2026-06-26T14:25:53.427,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,162.0,2029.0,0.0,0
+2026-06-26T14:25:53.490,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,77.0,1915.0,0.0,0
+2026-06-26T14:25:53.555,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,799.0,10648.0,0.0,0
+2026-06-26T14:25:53.620,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,490.0,18577.0,0.0,0
+2026-06-26T14:25:53.685,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,122.0,17981.0,0.0,0
+2026-06-26T14:25:53.753,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,46.0,18014.0,0.0,0
+2026-06-26T14:25:53.818,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1053.0,11783.0,0.0,0
+2026-06-26T14:25:53.882,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,4826.0,1103.0,0.0,0
+2026-06-26T14:25:53.948,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,5695.0,61.0,0.0,0
+2026-06-26T14:25:54.013,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,77.0,852.0,0.0,0
+2026-06-26T14:25:54.078,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,964.0,949.0,0.0,0
+2026-06-26T14:25:54.143,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,123.0,904.0,0.0,0
+2026-06-26T14:25:54.207,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,893.0,0.0,0
+2026-06-26T14:25:54.272,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,785.0,0.0,0
+2026-06-26T14:25:54.337,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,899.0,0.0,0
+2026-06-26T14:25:54.402,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,108.0,899.0,0.0,0
+2026-06-26T14:25:54.467,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,31.0,892.0,0.0,0
+2026-06-26T14:25:54.533,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,15.0,770.0,0.0,0
+2026-06-26T14:25:54.598,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1252.0,4266.0,0.0,0
+2026-06-26T14:25:54.665,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1486.0,8827.0,0.0,0
+2026-06-26T14:25:54.731,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1154.0,8851.0,0.0,0
+2026-06-26T14:25:54.795,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1151.0,8951.0,0.0,0
+2026-06-26T14:25:54.861,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1316.0,8613.0,0.0,0
+2026-06-26T14:25:54.927,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1282.0,9067.0,0.0,0
+2026-06-26T14:25:54.991,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,997.0,8729.0,0.0,0
+2026-06-26T14:25:55.057,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,2093.0,7746.0,0.0,0
+2026-06-26T14:25:55.123,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1143.0,8990.0,0.0,0
+2026-06-26T14:25:55.189,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1181.0,8796.0,0.0,0
+2026-06-26T14:25:55.254,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1090.0,8809.0,0.0,0
+2026-06-26T14:25:55.320,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1139.0,8837.0,0.0,0
+2026-06-26T14:25:55.387,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1101.0,8915.0,0.0,0
+2026-06-26T14:25:55.454,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1887.0,8825.0,0.0,0
+2026-06-26T14:25:55.517,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1101.0,8611.0,0.0,0
+2026-06-26T14:25:55.581,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1598.0,7764.0,0.0,0
+2026-06-26T14:25:55.646,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,3117.0,9025.0,0.0,0
+2026-06-26T14:25:55.711,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,1764.0,9087.0,0.0,0
+2026-06-26T14:25:55.773,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,691.0,8931.0,0.0,0
+2026-06-26T14:25:55.835,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,415.0,7816.0,0.0,0
+2026-06-26T14:25:55.900,timeseries,1,User List,mlx-community/gemma-3-4b-it-qat-4bit,324.0,9418.0,0.0,59
+2026-06-26T14:25:59.391,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,217.0,1012.0,0.0,0
+2026-06-26T14:25:59.449,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,143.0,857.0,0.0,0
+2026-06-26T14:25:59.511,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,124.0,988.0,0.0,0
+2026-06-26T14:25:59.576,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,841.0,1133.0,0.0,0
+2026-06-26T14:25:59.641,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,49.0,914.0,0.0,0
+2026-06-26T14:25:59.704,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,93.0,1070.0,0.0,0
+2026-06-26T14:25:59.770,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,46.0,980.0,0.0,0
+2026-06-26T14:25:59.834,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,235.0,987.0,0.0,0
+2026-06-26T14:25:59.898,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,153.0,841.0,0.0,0
+2026-06-26T14:25:59.963,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,47.0,979.0,0.0,0
+2026-06-26T14:26:00.030,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,451.0,979.0,0.0,0
+2026-06-26T14:26:00.094,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1821.0,1050.0,0.0,0
+2026-06-26T14:26:00.159,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,136.0,994.0,0.0,0
+2026-06-26T14:26:00.223,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,46.0,865.0,0.0,0
+2026-06-26T14:26:00.289,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,31.0,976.0,0.0,0
+2026-06-26T14:26:00.355,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,109.0,2850.0,0.0,0
+2026-06-26T14:26:00.420,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,242.0,18073.0,0.0,0
+2026-06-26T14:26:00.483,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,153.0,18345.0,0.0,0
+2026-06-26T14:26:00.549,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,198.0,15904.0,0.0,0
+2026-06-26T14:26:00.615,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,639.0,19154.0,0.0,0
+2026-06-26T14:26:00.682,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,136.0,18034.0,0.0,0
+2026-06-26T14:26:00.747,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,611.0,14930.0,0.0,0
+2026-06-26T14:26:00.813,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,2730.0,5446.0,0.0,0
+2026-06-26T14:26:00.878,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,6160.0,215.0,0.0,0
+2026-06-26T14:26:00.943,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,2426.0,789.0,0.0,0
+2026-06-26T14:26:01.008,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,31.0,830.0,0.0,0
+2026-06-26T14:26:01.074,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1098.0,1686.0,0.0,0
+2026-06-26T14:26:01.139,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1262.0,7800.0,0.0,0
+2026-06-26T14:26:01.204,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1244.0,8826.0,0.0,0
+2026-06-26T14:26:01.270,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1139.0,8977.0,0.0,0
+2026-06-26T14:26:01.335,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1106.0,8971.0,0.0,0
+2026-06-26T14:26:01.400,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1166.0,7806.0,0.0,0
+2026-06-26T14:26:01.466,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,990.0,9050.0,0.0,0
+2026-06-26T14:26:01.530,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1136.0,8873.0,0.0,0
+2026-06-26T14:26:01.596,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1777.0,9025.0,0.0,0
+2026-06-26T14:26:01.662,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1663.0,8909.0,0.0,0
+2026-06-26T14:26:01.727,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1128.0,8903.0,0.0,0
+2026-06-26T14:26:01.792,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1113.0,8902.0,0.0,0
+2026-06-26T14:26:01.858,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1042.0,7799.0,0.0,0
+2026-06-26T14:26:01.925,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1266.0,8941.0,0.0,0
+2026-06-26T14:26:01.986,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,1261.0,8890.0,0.0,0
+2026-06-26T14:26:01.991,timeseries,2,Nested Product Conversion,mlx-community/gemma-3-4b-it-qat-4bit,2650.0,7679.0,0.0,41
+2026-06-26T14:26:05.391,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,199.0,813.0,0.0,0
+2026-06-26T14:26:05.449,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,161.0,928.0,0.0,0
+2026-06-26T14:26:05.510,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,88.0,917.0,0.0,0
+2026-06-26T14:26:05.576,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,859.0,5377.0,0.0,0
+2026-06-26T14:26:05.640,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,147.0,17268.0,0.0,0
+2026-06-26T14:26:05.706,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,46.0,18667.0,0.0,0
+2026-06-26T14:26:05.770,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,46.0,18715.0,0.0,0
+2026-06-26T14:26:05.836,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,77.0,18752.0,0.0,0
+2026-06-26T14:26:05.900,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,124.0,18818.0,0.0,0
+2026-06-26T14:26:05.965,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,61.0,16224.0,0.0,0
+2026-06-26T14:26:06.030,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,470.0,19159.0,0.0,0
+2026-06-26T14:26:06.095,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,675.0,18818.0,0.0,0
+2026-06-26T14:26:06.160,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,352.0,18681.0,0.0,0
+2026-06-26T14:26:06.225,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,61.0,18742.0,0.0,0
+2026-06-26T14:26:06.288,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,62.0,16486.0,0.0,0
+2026-06-26T14:26:06.353,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,62.0,18914.0,0.0,0
+2026-06-26T14:26:06.419,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,189.0,19253.0,0.0,0
+2026-06-26T14:26:06.485,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,46.0,18832.0,0.0,0
+2026-06-26T14:26:06.550,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,107.0,18694.0,0.0,0
+2026-06-26T14:26:06.615,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,681.0,16226.0,0.0,0
+2026-06-26T14:26:06.682,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,107.0,18737.0,0.0,0
+2026-06-26T14:26:06.747,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,414.0,16865.0,0.0,0
+2026-06-26T14:26:06.813,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,2556.0,5411.0,0.0,0
+2026-06-26T14:26:06.872,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,5904.0,0.0,0.0,0
+2026-06-26T14:26:06.936,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,2602.0,582.0,0.0,0
+2026-06-26T14:26:07.000,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1568.0,1125.0,0.0,0
+2026-06-26T14:26:07.065,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1414.0,1010.0,0.0,0
+2026-06-26T14:26:07.126,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,77.0,1053.0,0.0,0
+2026-06-26T14:26:07.191,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,2004.0,994.0,0.0,0
+2026-06-26T14:26:07.256,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1560.0,894.0,0.0,0
+2026-06-26T14:26:07.321,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,170.0,973.0,0.0,0
+2026-06-26T14:26:07.387,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,31.0,966.0,0.0,0
+2026-06-26T14:26:07.451,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,124.0,976.0,0.0,0
+2026-06-26T14:26:07.516,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,30.0,820.0,0.0,0
+2026-06-26T14:26:07.581,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,652.0,1010.0,0.0,0
+2026-06-26T14:26:07.645,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,31.0,951.0,0.0,0
+2026-06-26T14:26:07.710,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,124.0,949.0,0.0,0
+2026-06-26T14:26:07.774,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,15.0,942.0,0.0,0
+2026-06-26T14:26:07.839,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,16.0,823.0,0.0,0
+2026-06-26T14:26:07.904,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,47.0,946.0,0.0,0
+2026-06-26T14:26:07.969,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,108.0,941.0,0.0,0
+2026-06-26T14:26:08.031,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,448.0,942.0,0.0,0
+2026-06-26T14:26:08.096,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,815.0,846.0,0.0,0
+2026-06-26T14:26:08.161,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,128.0,1020.0,0.0,0
+2026-06-26T14:26:08.226,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,355.0,942.0,0.0,0
+2026-06-26T14:26:08.290,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,15.0,829.0,0.0,0
+2026-06-26T14:26:08.354,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,47.0,947.0,0.0,0
+2026-06-26T14:26:08.420,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,31.0,948.0,0.0,0
+2026-06-26T14:26:08.482,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,768.0,3511.0,0.0,0
+2026-06-26T14:26:08.547,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1242.0,7666.0,0.0,0
+2026-06-26T14:26:08.613,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,4471.0,9149.0,0.0,0
+2026-06-26T14:26:08.677,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,573.0,9047.0,0.0,0
+2026-06-26T14:26:08.743,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,824.0,8862.0,0.0,0
+2026-06-26T14:26:08.808,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1476.0,7862.0,0.0,0
+2026-06-26T14:26:08.871,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,488.0,8907.0,0.0,0
+2026-06-26T14:26:08.934,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,489.0,8948.0,0.0,0
+2026-06-26T14:26:08.995,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,409.0,8062.0,0.0,0
+2026-06-26T14:26:09.059,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,734.0,9451.0,0.0,0
+2026-06-26T14:26:09.121,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,432.0,8239.0,0.0,0
+2026-06-26T14:26:09.187,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,282.0,9170.0,0.0,0
+2026-06-26T14:26:09.248,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,389.0,9481.0,0.0,0
+2026-06-26T14:26:09.310,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,335.0,7789.0,0.0,0
+2026-06-26T14:26:09.373,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,316.0,9753.0,0.0,0
+2026-06-26T14:26:09.435,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,302.0,8129.0,0.0,0
+2026-06-26T14:26:09.500,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,304.0,9342.0,0.0,0
+2026-06-26T14:26:09.562,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,540.0,8007.0,0.0,0
+2026-06-26T14:26:09.625,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1032.0,8946.0,0.0,0
+2026-06-26T14:26:09.688,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,422.0,8258.0,0.0,0
+2026-06-26T14:26:09.750,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,361.0,9253.0,0.0,0
+2026-06-26T14:26:09.813,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,304.0,8152.0,0.0,0
+2026-06-26T14:26:09.875,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,614.0,9291.0,0.0,0
+2026-06-26T14:26:09.938,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,285.0,8102.0,0.0,0
+2026-06-26T14:26:10.003,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,275.0,9395.0,0.0,0
+2026-06-26T14:26:10.069,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,811.0,9173.0,0.0,0
+2026-06-26T14:26:10.135,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1062.0,8904.0,0.0,0
+2026-06-26T14:26:10.195,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,505.0,9035.0,0.0,0
+2026-06-26T14:26:10.260,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,441.0,7724.0,0.0,0
+2026-06-26T14:26:10.322,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,525.0,9588.0,0.0,0
+2026-06-26T14:26:10.382,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,293.0,7877.0,0.0,0
+2026-06-26T14:26:10.446,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,245.0,8438.0,0.0,0
+2026-06-26T14:26:10.512,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,229.0,9600.0,0.0,0
+2026-06-26T14:26:10.572,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,333.0,9237.0,0.0,0
+2026-06-26T14:26:10.635,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,359.0,7700.0,0.0,0
+2026-06-26T14:26:10.699,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,283.0,9778.0,0.0,0
+2026-06-26T14:26:10.760,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,177.0,8274.0,0.0,0
+2026-06-26T14:26:10.823,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,200.0,9052.0,0.0,0
+2026-06-26T14:26:10.887,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,214.0,8438.0,0.0,0
+2026-06-26T14:26:10.950,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,160.0,9429.0,0.0,0
+2026-06-26T14:26:11.017,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,279.0,7964.0,0.0,0
+2026-06-26T14:26:11.077,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,750.0,9259.0,0.0,0
+2026-06-26T14:26:11.140,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,361.0,8862.0,0.0,0
+2026-06-26T14:26:11.204,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,248.0,8523.0,0.0,0
+2026-06-26T14:26:11.265,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,191.0,9332.0,0.0,0
+2026-06-26T14:26:11.327,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,202.0,7985.0,0.0,0
+2026-06-26T14:26:11.389,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,398.0,9729.0,0.0,0
+2026-06-26T14:26:11.453,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,320.0,8212.0,0.0,0
+2026-06-26T14:26:11.519,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,306.0,9472.0,0.0,0
+2026-06-26T14:26:11.581,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,687.0,9010.0,0.0,0
+2026-06-26T14:26:11.642,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,672.0,7746.0,0.0,0
+2026-06-26T14:26:11.704,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,624.0,8108.0,0.0,0
+2026-06-26T14:26:11.771,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,278.0,9600.0,0.0,0
+2026-06-26T14:26:11.834,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,290.0,9407.0,0.0,0
+2026-06-26T14:26:11.895,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,542.0,7540.0,0.0,0
+2026-06-26T14:26:11.958,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,237.0,9288.0,0.0,0
+2026-06-26T14:26:12.023,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,246.0,8463.0,0.0,0
+2026-06-26T14:26:12.084,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,601.0,9212.0,0.0,0
+2026-06-26T14:26:12.145,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,337.0,7883.0,0.0,0
+2026-06-26T14:26:12.210,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,252.0,9914.0,0.0,0
+2026-06-26T14:26:12.272,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,193.0,9419.0,0.0,0
+2026-06-26T14:26:12.338,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,389.0,7958.0,0.0,0
+2026-06-26T14:26:12.404,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,2516.0,9285.0,0.0,0
+2026-06-26T14:26:12.470,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,710.0,8855.0,0.0,0
+2026-06-26T14:26:12.533,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,552.0,8975.0,0.0,0
+2026-06-26T14:26:12.596,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,785.0,7777.0,0.0,0
+2026-06-26T14:26:12.660,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,503.0,9220.0,0.0,0
+2026-06-26T14:26:12.723,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,302.0,9238.0,0.0,0
+2026-06-26T14:26:12.786,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,347.0,8076.0,0.0,0
+2026-06-26T14:26:12.848,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,3180.0,9318.0,0.0,0
+2026-06-26T14:26:12.911,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,7127.0,8155.0,0.0,0
+2026-06-26T14:26:12.974,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,7419.0,9621.0,0.0,0
+2026-06-26T14:26:13.037,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,7181.0,8253.0,0.0,0
+2026-06-26T14:26:13.102,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,7287.0,9297.0,0.0,0
+2026-06-26T14:26:13.169,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,5643.0,9452.0,0.0,0
+2026-06-26T14:26:13.232,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,811.0,9013.0,0.0,0
+2026-06-26T14:26:13.297,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,632.0,7706.0,0.0,0
+2026-06-26T14:26:13.363,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,426.0,9303.0,0.0,0
+2026-06-26T14:26:13.424,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,480.0,9146.0,0.0,0
+2026-06-26T14:26:13.487,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,408.0,7734.0,0.0,0
+2026-06-26T14:26:13.548,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,230.0,9728.0,0.0,0
+2026-06-26T14:26:13.611,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,461.0,8210.0,0.0,0
+2026-06-26T14:26:13.674,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,263.0,9636.0,0.0,0
+2026-06-26T14:26:13.738,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,206.0,8189.0,0.0,0
+2026-06-26T14:26:13.803,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,220.0,9259.0,0.0,0
+2026-06-26T14:26:13.865,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,172.0,9200.0,0.0,0
+2026-06-26T14:26:13.929,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,186.0,8004.0,0.0,0
+2026-06-26T14:26:13.993,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,241.0,9493.0,0.0,0
+2026-06-26T14:26:14.054,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,470.0,9164.0,0.0,0
+2026-06-26T14:26:14.115,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,497.0,7967.0,0.0,0
+2026-06-26T14:26:14.177,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,281.0,8552.0,0.0,0
+2026-06-26T14:26:14.239,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,212.0,9624.0,0.0,0
+2026-06-26T14:26:14.302,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,208.0,8312.0,0.0,0
+2026-06-26T14:26:14.364,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,613.0,9424.0,0.0,0
+2026-06-26T14:26:14.428,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,209.0,8287.0,0.0,0
+2026-06-26T14:26:14.490,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,306.0,9475.0,0.0,0
+2026-06-26T14:26:14.551,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,405.0,8004.0,0.0,0
+2026-06-26T14:26:14.614,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,561.0,9250.0,0.0,0
+2026-06-26T14:26:14.676,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,245.0,8423.0,0.0,0
+2026-06-26T14:26:14.739,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,224.0,8311.0,0.0,0
+2026-06-26T14:26:14.803,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,225.0,9508.0,0.0,0
+2026-06-26T14:26:14.865,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,174.0,9326.0,0.0,0
+2026-06-26T14:26:14.928,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,217.0,8056.0,0.0,0
+2026-06-26T14:26:14.992,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,212.0,9647.0,0.0,0
+2026-06-26T14:26:15.052,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,497.0,8226.0,0.0,0
+2026-06-26T14:26:15.115,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,525.0,9102.0,0.0,0
+2026-06-26T14:26:15.178,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,282.0,8554.0,0.0,0
+2026-06-26T14:26:15.241,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,239.0,9397.0,0.0,0
+2026-06-26T14:26:15.304,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,252.0,8158.0,0.0,0
+2026-06-26T14:26:15.366,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,240.0,9393.0,0.0,0
+2026-06-26T14:26:15.429,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,222.0,8247.0,0.0,0
+2026-06-26T14:26:15.489,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,226.0,9555.0,0.0,0
+2026-06-26T14:26:15.550,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,330.0,8118.0,0.0,0
+2026-06-26T14:26:15.612,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,516.0,8596.0,0.0,0
+2026-06-26T14:26:15.676,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,264.0,9779.0,0.0,0
+2026-06-26T14:26:15.740,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,322.0,8384.0,0.0,0
+2026-06-26T14:26:15.802,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,283.0,9225.0,0.0,0
+2026-06-26T14:26:15.865,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,282.0,9246.0,0.0,0
+2026-06-26T14:26:15.930,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,466.0,8166.0,0.0,0
+2026-06-26T14:26:15.994,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1167.0,9066.0,0.0,0
+2026-06-26T14:26:16.054,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,769.0,9015.0,0.0,0
+2026-06-26T14:26:16.116,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,658.0,8066.0,0.0,0
+2026-06-26T14:26:16.179,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,447.0,8547.0,0.0,0
+2026-06-26T14:26:16.241,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,339.0,9534.0,0.0,0
+2026-06-26T14:26:16.303,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,272.0,8273.0,0.0,0
+2026-06-26T14:26:16.365,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,227.0,9562.0,0.0,0
+2026-06-26T14:26:16.428,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,209.0,8364.0,0.0,0
+2026-06-26T14:26:16.488,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,209.0,9521.0,0.0,0
+2026-06-26T14:26:16.548,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,211.0,8371.0,0.0,0
+2026-06-26T14:26:16.610,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,546.0,8518.0,0.0,0
+2026-06-26T14:26:16.672,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,231.0,9803.0,0.0,0
+2026-06-26T14:26:16.737,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,178.0,8434.0,0.0,0
+2026-06-26T14:26:16.798,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,275.0,9392.0,0.0,0
+2026-06-26T14:26:16.862,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,322.0,7862.0,0.0,0
+2026-06-26T14:26:16.926,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,264.0,9735.0,0.0,0
+2026-06-26T14:26:16.989,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,623.0,9014.0,0.0,0
+2026-06-26T14:26:17.050,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,480.0,7949.0,0.0,0
+2026-06-26T14:26:17.110,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,587.0,8193.0,0.0,0
+2026-06-26T14:26:17.172,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,417.0,9869.0,0.0,0
+2026-06-26T14:26:17.234,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,264.0,8546.0,0.0,0
+2026-06-26T14:26:17.296,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,209.0,8383.0,0.0,0
+2026-06-26T14:26:17.359,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,227.0,9639.0,0.0,0
+2026-06-26T14:26:17.422,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,192.0,8341.0,0.0,0
+2026-06-26T14:26:17.486,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,191.0,9444.0,0.0,0
+2026-06-26T14:26:17.552,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1845.0,9241.0,0.0,0
+2026-06-26T14:26:17.617,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1656.0,9235.0,0.0,0
+2026-06-26T14:26:17.682,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,570.0,8010.0,0.0,0
+2026-06-26T14:26:17.744,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,442.0,9045.0,0.0,0
+2026-06-26T14:26:17.804,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,322.0,9025.0,0.0,0
+2026-06-26T14:26:17.867,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,293.0,8491.0,0.0,0
+2026-06-26T14:26:17.931,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,216.0,8617.0,0.0,0
+2026-06-26T14:26:17.990,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,175.0,9500.0,0.0,0
+2026-06-26T14:26:18.050,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,360.0,8081.0,0.0,0
+2026-06-26T14:26:18.111,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,541.0,8746.0,0.0,0
+2026-06-26T14:26:18.174,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,351.0,9920.0,0.0,0
+2026-06-26T14:26:18.236,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,210.0,8429.0,0.0,0
+2026-06-26T14:26:18.298,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,176.0,9528.0,0.0,0
+2026-06-26T14:26:18.363,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,211.0,8491.0,0.0,0
+2026-06-26T14:26:18.424,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,176.0,9483.0,0.0,0
+2026-06-26T14:26:18.488,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,186.0,8127.0,0.0,0
+2026-06-26T14:26:18.547,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,194.0,9638.0,0.0,0
+2026-06-26T14:26:18.613,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,489.0,8125.0,0.0,0
+2026-06-26T14:26:18.675,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,452.0,9969.0,0.0,0
+2026-06-26T14:26:18.740,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,325.0,8019.0,0.0,0
+2026-06-26T14:26:18.808,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1120.0,9315.0,0.0,0
+2026-06-26T14:26:18.874,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,1260.0,8924.0,0.0,0
+2026-06-26T14:26:18.937,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,549.0,8753.0,0.0,0
+2026-06-26T14:26:19.002,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,394.0,8982.0,0.0,0
+2026-06-26T14:26:19.063,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,690.0,9285.0,0.0,0
+2026-06-26T14:26:19.124,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,423.0,8109.0,0.0,0
+2026-06-26T14:26:19.186,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,245.0,8532.0,0.0,0
+2026-06-26T14:26:19.251,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,212.0,9715.0,0.0,0
+2026-06-26T14:26:19.316,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,161.0,8388.0,0.0,0
+2026-06-26T14:26:19.379,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,262.0,9157.0,0.0,0
+2026-06-26T14:26:19.443,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,277.0,9111.0,0.0,0
+2026-06-26T14:26:19.508,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,299.0,9244.0,0.0,0
+2026-06-26T14:26:19.571,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,425.0,8211.0,0.0,0
+2026-06-26T14:26:19.636,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,307.0,9091.0,0.0,0
+2026-06-26T14:26:19.698,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,253.0,9449.0,0.0,0
+2026-06-26T14:26:19.761,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,853.0,7955.0,0.0,0
+2026-06-26T14:26:19.822,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,399.0,9386.0,0.0,0
+2026-06-26T14:26:19.884,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,289.0,8386.0,0.0,0
+2026-06-26T14:26:19.948,timeseries,3,Weather Report Extended v2,mlx-community/gemma-3-4b-it-qat-4bit,261.0,8473.0,0.0,480

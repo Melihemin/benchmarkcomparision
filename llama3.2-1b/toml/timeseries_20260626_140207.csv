@@ -1,0 +1,392 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-26T14:02:46.205,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,469.0,758.0,0.0,0
+2026-06-26T14:02:46.263,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,446.0,874.0,0.0,0
+2026-06-26T14:02:46.323,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,281.0,842.0,0.0,0
+2026-06-26T14:02:46.383,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,225.0,831.0,0.0,0
+2026-06-26T14:02:46.442,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,100.0,921.0,0.0,0
+2026-06-26T14:02:46.502,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,807.0,0.0,0
+2026-06-26T14:02:46.562,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,438.0,809.0,0.0,0
+2026-06-26T14:02:46.623,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,681.0,797.0,0.0,0
+2026-06-26T14:02:46.683,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,2644.0,793.0,0.0,0
+2026-06-26T14:02:46.744,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1070.0,906.0,0.0,0
+2026-06-26T14:02:46.805,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,796.0,0.0,0
+2026-06-26T14:02:46.865,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,512.0,793.0,0.0,0
+2026-06-26T14:02:46.926,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,98.0,900.0,0.0,0
+2026-06-26T14:02:46.987,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,665.0,798.0,0.0,0
+2026-06-26T14:02:47.047,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,165.0,793.0,0.0,0
+2026-06-26T14:02:47.108,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,700.0,781.0,0.0,0
+2026-06-26T14:02:47.167,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,910.0,0.0,0
+2026-06-26T14:02:47.228,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,800.0,0.0,0
+2026-06-26T14:02:47.288,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,800.0,0.0,0
+2026-06-26T14:02:47.348,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,132.0,793.0,0.0,0
+2026-06-26T14:02:47.408,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,913.0,0.0,0
+2026-06-26T14:02:47.469,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,797.0,0.0,0
+2026-06-26T14:02:47.529,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,800.0,0.0,0
+2026-06-26T14:02:47.588,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,347.0,794.0,0.0,0
+2026-06-26T14:02:47.649,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,810.0,0.0,0
+2026-06-26T14:02:47.709,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,918.0,0.0,0
+2026-06-26T14:02:47.769,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,795.0,0.0,0
+2026-06-26T14:02:47.829,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,800.0,0.0,0
+2026-06-26T14:02:47.890,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,792.0,0.0,0
+2026-06-26T14:02:47.950,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,800.0,0.0,0
+2026-06-26T14:02:48.009,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,627.0,908.0,0.0,0
+2026-06-26T14:02:48.070,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,34.0,812.0,0.0,0
+2026-06-26T14:02:48.129,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,149.0,796.0,0.0,0
+2026-06-26T14:02:48.189,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,800.0,0.0,0
+2026-06-26T14:02:48.249,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,799.0,0.0,0
+2026-06-26T14:02:48.309,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,914.0,0.0,0
+2026-06-26T14:02:48.368,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,135.0,809.0,0.0,0
+2026-06-26T14:02:48.428,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,34.0,811.0,0.0,0
+2026-06-26T14:02:48.489,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,801.0,0.0,0
+2026-06-26T14:02:48.549,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,792.0,0.0,0
+2026-06-26T14:02:48.610,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,329.0,903.0,0.0,0
+2026-06-26T14:02:48.670,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,798.0,0.0,0
+2026-06-26T14:02:48.730,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,796.0,0.0,0
+2026-06-26T14:02:48.790,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,799.0,0.0,0
+2026-06-26T14:02:48.851,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,909.0,0.0,0
+2026-06-26T14:02:48.911,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,800.0,0.0,0
+2026-06-26T14:02:48.971,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,595.0,794.0,0.0,0
+2026-06-26T14:02:49.031,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,801.0,0.0,0
+2026-06-26T14:02:49.092,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,794.0,0.0,0
+2026-06-26T14:02:49.152,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,917.0,0.0,0
+2026-06-26T14:02:49.212,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,792.0,0.0,0
+2026-06-26T14:02:49.272,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,798.0,0.0,0
+2026-06-26T14:02:49.333,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,794.0,0.0,0
+2026-06-26T14:02:49.393,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,916.0,0.0,0
+2026-06-26T14:02:49.452,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,49.0,792.0,0.0,0
+2026-06-26T14:02:49.512,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,34.0,811.0,0.0,0
+2026-06-26T14:02:49.573,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,800.0,0.0,0
+2026-06-26T14:02:49.633,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,678.0,794.0,0.0,0
+2026-06-26T14:02:49.694,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,132.0,907.0,0.0,0
+2026-06-26T14:02:49.754,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,798.0,0.0,0
+2026-06-26T14:02:49.814,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,793.0,0.0,0
+2026-06-26T14:02:49.874,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,799.0,0.0,0
+2026-06-26T14:02:49.934,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,116.0,915.0,0.0,0
+2026-06-26T14:02:49.993,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,649.0,798.0,0.0,0
+2026-06-26T14:02:50.054,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,812.0,0.0,0
+2026-06-26T14:02:50.114,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,799.0,0.0,0
+2026-06-26T14:02:50.174,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,132.0,793.0,0.0,0
+2026-06-26T14:02:50.234,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,914.0,0.0,0
+2026-06-26T14:02:50.295,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,795.0,0.0,0
+2026-06-26T14:02:50.355,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,802.0,0.0,0
+2026-06-26T14:02:50.415,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,132.0,794.0,0.0,0
+2026-06-26T14:02:50.475,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,912.0,0.0,0
+2026-06-26T14:02:50.536,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,17.0,795.0,0.0,0
+2026-06-26T14:02:50.596,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,799.0,0.0,0
+2026-06-26T14:02:50.657,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,793.0,0.0,0
+2026-06-26T14:02:50.717,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,350.0,800.0,0.0,0
+2026-06-26T14:02:50.777,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,908.0,0.0,0
+2026-06-26T14:02:50.837,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,801.0,0.0,0
+2026-06-26T14:02:50.898,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,793.0,0.0,0
+2026-06-26T14:02:50.958,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,117.0,800.0,0.0,0
+2026-06-26T14:02:51.018,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,594.0,907.0,0.0,0
+2026-06-26T14:02:51.078,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,800.0,0.0,0
+2026-06-26T14:02:51.138,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,2120.0,795.0,0.0,0
+2026-06-26T14:02:51.198,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,269.0,807.0,0.0,0
+2026-06-26T14:02:51.258,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,798.0,0.0,0
+2026-06-26T14:02:51.317,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,912.0,0.0,0
+2026-06-26T14:02:51.378,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,34.0,809.0,0.0,0
+2026-06-26T14:02:51.438,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,800.0,0.0,0
+2026-06-26T14:02:51.498,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,796.0,0.0,0
+2026-06-26T14:02:51.558,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,796.0,0.0,0
+2026-06-26T14:02:51.618,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,914.0,0.0,0
+2026-06-26T14:02:51.678,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,801.0,0.0,0
+2026-06-26T14:02:51.739,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1903.0,794.0,0.0,0
+2026-06-26T14:02:51.799,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1818.0,801.0,0.0,0
+2026-06-26T14:02:51.859,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,214.0,907.0,0.0,0
+2026-06-26T14:02:51.920,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,797.0,0.0,0
+2026-06-26T14:02:51.980,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1295.0,797.0,0.0,0
+2026-06-26T14:02:52.043,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,794.0,0.0,0
+2026-06-26T14:02:52.104,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,216.0,4068.0,0.0,0
+2026-06-26T14:02:52.164,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,3618.0,9388.0,0.0,0
+2026-06-26T14:02:52.225,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,4216.0,2357.0,0.0,0
+2026-06-26T14:02:52.286,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,2323.0,9277.0,0.0,0
+2026-06-26T14:02:52.348,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,2604.0,8291.0,0.0,0
+2026-06-26T14:02:52.409,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1761.0,8186.0,0.0,0
+2026-06-26T14:02:52.471,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,700.0,9355.0,0.0,0
+2026-06-26T14:02:52.532,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,633.0,8201.0,0.0,0
+2026-06-26T14:02:52.594,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,521.0,9340.0,0.0,0
+2026-06-26T14:02:52.656,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,712.0,8382.0,0.0,0
+2026-06-26T14:02:52.717,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,413.0,8029.0,0.0,0
+2026-06-26T14:02:52.778,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,466.0,9231.0,0.0,0
+2026-06-26T14:02:52.797,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,346.0,8330.0,0.0,82
+2026-06-26T14:02:56.179,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,379.0,830.0,0.0,0
+2026-06-26T14:02:56.237,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,232.0,963.0,0.0,0
+2026-06-26T14:02:56.296,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,262.0,927.0,0.0,0
+2026-06-26T14:02:56.356,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,103.0,923.0,0.0,0
+2026-06-26T14:02:56.417,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,152.0,914.0,0.0,0
+2026-06-26T14:02:56.477,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,166.0,1014.0,0.0,0
+2026-06-26T14:02:56.537,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,132.0,891.0,0.0,0
+2026-06-26T14:02:56.597,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,667.0,884.0,0.0,0
+2026-06-26T14:02:56.658,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,99.0,877.0,0.0,0
+2026-06-26T14:02:56.718,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,183.0,1017.0,0.0,0
+2026-06-26T14:02:56.777,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,874.0,0.0,0
+2026-06-26T14:02:56.838,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,894.0,0.0,0
+2026-06-26T14:02:56.899,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,3319.0,867.0,0.0,0
+2026-06-26T14:02:56.959,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,379.0,1006.0,0.0,0
+2026-06-26T14:02:57.019,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,627.0,874.0,0.0,0
+2026-06-26T14:02:57.079,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,83.0,881.0,0.0,0
+2026-06-26T14:02:57.139,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,483.0,883.0,0.0,0
+2026-06-26T14:02:57.199,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,880.0,0.0,0
+2026-06-26T14:02:57.259,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,151.0,1020.0,0.0,0
+2026-06-26T14:02:57.319,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,880.0,0.0,0
+2026-06-26T14:02:57.379,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,884.0,0.0,0
+2026-06-26T14:02:57.439,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,889.0,0.0,0
+2026-06-26T14:02:57.499,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,881.0,0.0,0
+2026-06-26T14:02:57.560,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,1003.0,0.0,0
+2026-06-26T14:02:57.620,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,884.0,0.0,0
+2026-06-26T14:02:57.679,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,879.0,0.0,0
+2026-06-26T14:02:57.740,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,134.0,889.0,0.0,0
+2026-06-26T14:02:57.799,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,883.0,0.0,0
+2026-06-26T14:02:57.859,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1013.0,0.0,0
+2026-06-26T14:02:57.919,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,891.0,0.0,0
+2026-06-26T14:02:57.979,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,634.0,885.0,0.0,0
+2026-06-26T14:02:58.040,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,381.0,878.0,0.0,0
+2026-06-26T14:02:58.100,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,881.0,0.0,0
+2026-06-26T14:02:58.159,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,1012.0,0.0,0
+2026-06-26T14:02:58.219,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,34.0,892.0,0.0,0
+2026-06-26T14:02:58.279,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,884.0,0.0,0
+2026-06-26T14:02:58.340,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,878.0,0.0,0
+2026-06-26T14:02:58.400,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,885.0,0.0,0
+2026-06-26T14:02:58.461,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1010.0,0.0,0
+2026-06-26T14:02:58.521,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,250.0,884.0,0.0,0
+2026-06-26T14:02:58.581,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,65.0,865.0,0.0,0
+2026-06-26T14:02:58.642,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,877.0,0.0,0
+2026-06-26T14:02:58.702,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1018.0,0.0,0
+2026-06-26T14:02:58.764,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,877.0,0.0,0
+2026-06-26T14:02:58.824,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,882.0,0.0,0
+2026-06-26T14:02:58.884,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,162.0,988.0,0.0,0
+2026-06-26T14:02:58.944,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,879.0,0.0,0
+2026-06-26T14:02:59.004,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,635.0,885.0,0.0,0
+2026-06-26T14:02:59.065,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,364.0,877.0,0.0,0
+2026-06-26T14:02:59.125,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,880.0,0.0,0
+2026-06-26T14:02:59.185,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,249.0,1012.0,0.0,0
+2026-06-26T14:02:59.246,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,882.0,0.0,0
+2026-06-26T14:02:59.306,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,149.0,879.0,0.0,0
+2026-06-26T14:02:59.366,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,877.0,0.0,0
+2026-06-26T14:02:59.426,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,1014.0,0.0,0
+2026-06-26T14:02:59.486,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,883.0,0.0,0
+2026-06-26T14:02:59.546,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,878.0,0.0,0
+2026-06-26T14:02:59.606,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,886.0,0.0,0
+2026-06-26T14:02:59.666,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,463.0,877.0,0.0,0
+2026-06-26T14:02:59.726,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,68.0,1030.0,0.0,0
+2026-06-26T14:02:59.786,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,885.0,0.0,0
+2026-06-26T14:02:59.846,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,149.0,878.0,0.0,0
+2026-06-26T14:02:59.906,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,882.0,0.0,0
+2026-06-26T14:02:59.967,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,282.0,878.0,0.0,0
+2026-06-26T14:03:00.027,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,452.0,1020.0,0.0,0
+2026-06-26T14:03:00.087,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,364.0,876.0,0.0,0
+2026-06-26T14:03:00.147,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,877.0,0.0,0
+2026-06-26T14:03:00.208,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,879.0,0.0,0
+2026-06-26T14:03:00.267,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,1019.0,0.0,0
+2026-06-26T14:03:00.328,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,896.0,0.0,0
+2026-06-26T14:03:00.388,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,884.0,0.0,0
+2026-06-26T14:03:00.449,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,875.0,0.0,0
+2026-06-26T14:03:00.508,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,883.0,0.0,0
+2026-06-26T14:03:00.569,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1008.0,0.0,0
+2026-06-26T14:03:00.629,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,884.0,0.0,0
+2026-06-26T14:03:00.689,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,49.0,874.0,0.0,0
+2026-06-26T14:03:00.749,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,885.0,0.0,0
+2026-06-26T14:03:00.810,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1010.0,0.0,0
+2026-06-26T14:03:00.870,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,883.0,0.0,0
+2026-06-26T14:03:00.930,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,876.0,0.0,0
+2026-06-26T14:03:00.990,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,633.0,883.0,0.0,0
+2026-06-26T14:03:01.051,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,1009.0,0.0,0
+2026-06-26T14:03:01.111,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,250.0,885.0,0.0,0
+2026-06-26T14:03:01.171,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,2457.0,857.0,0.0,0
+2026-06-26T14:03:01.231,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,898.0,0.0,0
+2026-06-26T14:03:01.292,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,894.0,0.0,0
+2026-06-26T14:03:01.352,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,1019.0,0.0,0
+2026-06-26T14:03:01.411,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,149.0,895.0,0.0,0
+2026-06-26T14:03:01.471,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,911.0,0.0,0
+2026-06-26T14:03:01.531,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,902.0,0.0,0
+2026-06-26T14:03:01.592,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,894.0,0.0,0
+2026-06-26T14:03:01.652,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,117.0,1018.0,0.0,0
+2026-06-26T14:03:01.712,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,875.0,0.0,0
+2026-06-26T14:03:01.772,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,900.0,0.0,0
+2026-06-26T14:03:01.833,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,878.0,0.0,0
+2026-06-26T14:03:01.893,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,133.0,1016.0,0.0,0
+2026-06-26T14:03:01.953,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,2690.0,858.0,0.0,0
+2026-06-26T14:03:02.013,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1361.0,880.0,0.0,0
+2026-06-26T14:03:02.072,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,892.0,0.0,0
+2026-06-26T14:03:02.133,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,84.0,912.0,0.0,0
+2026-06-26T14:03:02.193,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,367.0,1019.0,0.0,0
+2026-06-26T14:03:02.253,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,892.0,0.0,0
+2026-06-26T14:03:02.313,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,901.0,0.0,0
+2026-06-26T14:03:02.374,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,895.0,0.0,0
+2026-06-26T14:03:02.434,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,1018.0,0.0,0
+2026-06-26T14:03:02.494,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,893.0,0.0,0
+2026-06-26T14:03:02.554,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,899.0,0.0,0
+2026-06-26T14:03:02.614,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,880.0,0.0,0
+2026-06-26T14:03:02.674,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,885.0,0.0,0
+2026-06-26T14:03:02.735,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1007.0,0.0,0
+2026-06-26T14:03:02.795,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,900.0,0.0,0
+2026-06-26T14:03:02.855,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,895.0,0.0,0
+2026-06-26T14:03:02.915,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,901.0,0.0,0
+2026-06-26T14:03:02.976,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,711.0,1009.0,0.0,0
+2026-06-26T14:03:03.036,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,882.0,0.0,0
+2026-06-26T14:03:03.096,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,893.0,0.0,0
+2026-06-26T14:03:03.156,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,883.0,0.0,0
+2026-06-26T14:03:03.217,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,364.0,877.0,0.0,0
+2026-06-26T14:03:03.277,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,1014.0,0.0,0
+2026-06-26T14:03:03.337,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,893.0,0.0,0
+2026-06-26T14:03:03.398,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,884.0,0.0,0
+2026-06-26T14:03:03.458,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,116.0,892.0,0.0,0
+2026-06-26T14:03:03.518,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,83.0,1013.0,0.0,0
+2026-06-26T14:03:03.578,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,879.0,0.0,0
+2026-06-26T14:03:03.638,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,900.0,0.0,0
+2026-06-26T14:03:03.699,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,895.0,0.0,0
+2026-06-26T14:03:03.758,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,1017.0,0.0,0
+2026-06-26T14:03:03.818,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,893.0,0.0,0
+2026-06-26T14:03:03.878,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,912.0,0.0,0
+2026-06-26T14:03:03.938,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,900.0,0.0,0
+2026-06-26T14:03:03.999,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,711.0,877.0,0.0,0
+2026-06-26T14:03:04.059,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1013.0,0.0,0
+2026-06-26T14:03:04.122,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,249.0,880.0,0.0,0
+2026-06-26T14:03:04.182,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,250.0,884.0,0.0,0
+2026-06-26T14:03:04.242,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,366.0,843.0,0.0,0
+2026-06-26T14:03:04.302,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1016.0,0.0,0
+2026-06-26T14:03:04.362,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,894.0,0.0,0
+2026-06-26T14:03:04.422,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,900.0,0.0,0
+2026-06-26T14:03:04.483,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,894.0,0.0,0
+2026-06-26T14:03:04.543,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,4326.0,985.0,0.0,0
+2026-06-26T14:03:04.602,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,4676.0,846.0,0.0,0
+2026-06-26T14:03:04.662,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,6607.0,855.0,0.0,0
+2026-06-26T14:03:04.722,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,6662.0,854.0,0.0,0
+2026-06-26T14:03:04.783,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,6608.0,845.0,0.0,0
+2026-06-26T14:03:04.843,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,3168.0,1000.0,0.0,0
+2026-06-26T14:03:04.903,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,33.0,892.0,0.0,0
+2026-06-26T14:03:04.964,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,898.0,0.0,0
+2026-06-26T14:03:05.024,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,943.0,877.0,0.0,0
+2026-06-26T14:03:05.084,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,83.0,1030.0,0.0,0
+2026-06-26T14:03:05.144,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,892.0,0.0,0
+2026-06-26T14:03:05.205,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,903.0,0.0,0
+2026-06-26T14:03:05.265,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,265.0,895.0,0.0,0
+2026-06-26T14:03:05.325,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,166.0,895.0,0.0,0
+2026-06-26T14:03:05.385,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1356.0,1009.0,0.0,0
+2026-06-26T14:03:05.445,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,898.0,0.0,0
+2026-06-26T14:03:05.506,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,897.0,0.0,0
+2026-06-26T14:03:05.566,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,150.0,900.0,0.0,0
+2026-06-26T14:03:05.626,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,1027.0,0.0,0
+2026-06-26T14:03:05.686,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,67.0,902.0,0.0,0
+2026-06-26T14:03:05.746,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,50.0,894.0,0.0,0
+2026-06-26T14:03:05.806,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,134.0,903.0,0.0,0
+2026-06-26T14:03:05.866,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,894.0,0.0,0
+2026-06-26T14:03:05.927,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,51.0,1044.0,0.0,0
+2026-06-26T14:03:05.986,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,700.0,900.0,0.0,0
+2026-06-26T14:03:06.047,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,382.0,896.0,0.0,0
+2026-06-26T14:03:06.107,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,2315.0,13922.0,0.0,0
+2026-06-26T14:03:06.167,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,4576.0,4953.0,0.0,0
+2026-06-26T14:03:06.229,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1028.0,895.0,0.0,0
+2026-06-26T14:03:06.290,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,66.0,877.0,0.0,0
+2026-06-26T14:03:06.351,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,404.0,873.0,0.0,0
+2026-06-26T14:03:06.412,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,82.0,1002.0,0.0,0
+2026-06-26T14:03:06.473,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,49.0,852.0,0.0,0
+2026-06-26T14:03:06.534,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,99.0,855.0,0.0,0
+2026-06-26T14:03:06.595,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,720.0,982.0,0.0,0
+2026-06-26T14:03:06.656,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,83.0,878.0,0.0,0
+2026-06-26T14:03:06.718,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,82.0,864.0,0.0,0
+2026-06-26T14:03:06.780,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,49.0,1079.0,0.0,0
+2026-06-26T14:03:06.841,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1578.0,7924.0,0.0,0
+2026-06-26T14:03:06.903,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1384.0,9363.0,0.0,0
+2026-06-26T14:03:06.965,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1330.0,8176.0,0.0,0
+2026-06-26T14:03:07.027,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,3045.0,8040.0,0.0,0
+2026-06-26T14:03:07.089,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1957.0,9362.0,0.0,0
+2026-06-26T14:03:07.152,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,944.0,8083.0,0.0,0
+2026-06-26T14:03:07.213,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,531.0,9315.0,0.0,0
+2026-06-26T14:03:07.275,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,389.0,8215.0,0.0,0
+2026-06-26T14:03:07.299,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,336.0,9172.0,0.0,74
+2026-06-26T14:03:10.669,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,271.0,1028.0,0.0,0
+2026-06-26T14:03:10.727,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,160.0,1032.0,0.0,0
+2026-06-26T14:03:10.787,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,228.0,1000.0,0.0,0
+2026-06-26T14:03:10.848,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,120.0,977.0,0.0,0
+2026-06-26T14:03:10.910,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,83.0,967.0,0.0,0
+2026-06-26T14:03:10.971,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,460.0,1068.0,0.0,0
+2026-06-26T14:03:11.033,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,228.0,13783.0,0.0,0
+2026-06-26T14:03:11.094,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,617.0,20685.0,0.0,0
+2026-06-26T14:03:11.155,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1323.0,10125.0,0.0,0
+2026-06-26T14:03:11.216,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,6179.0,527.0,0.0,0
+2026-06-26T14:03:11.277,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,210.0,1034.0,0.0,0
+2026-06-26T14:03:11.339,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,82.0,936.0,0.0,0
+2026-06-26T14:03:11.400,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1033.0,4656.0,0.0,0
+2026-06-26T14:03:11.463,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1270.0,9069.0,0.0,0
+2026-06-26T14:03:11.524,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1309.0,8081.0,0.0,0
+2026-06-26T14:03:11.586,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1553.0,9079.0,0.0,0
+2026-06-26T14:03:11.648,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1641.0,8028.0,0.0,0
+2026-06-26T14:03:11.709,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1207.0,7934.0,0.0,0
+2026-06-26T14:03:11.771,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1237.0,9198.0,0.0,0
+2026-06-26T14:03:11.832,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1373.0,8073.0,0.0,0
+2026-06-26T14:03:11.895,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1234.0,9157.0,0.0,0
+2026-06-26T14:03:11.956,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1281.0,8024.0,0.0,0
+2026-06-26T14:03:12.018,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1605.0,7914.0,0.0,0
+2026-06-26T14:03:12.080,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1396.0,9189.0,0.0,0
+2026-06-26T14:03:12.142,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1874.0,8014.0,0.0,0
+2026-06-26T14:03:12.204,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,3151.0,9068.0,0.0,0
+2026-06-26T14:03:12.265,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,826.0,8053.0,0.0,0
+2026-06-26T14:03:12.328,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,517.0,8024.0,0.0,0
+2026-06-26T14:03:12.390,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,424.0,9321.0,0.0,0
+2026-06-26T14:03:12.452,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,290.0,8127.0,0.0,0
+2026-06-26T14:03:12.514,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,273.0,9256.0,0.0,0
+2026-06-26T14:03:12.575,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,242.0,8201.0,0.0,0
+2026-06-26T14:03:12.637,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,647.0,9273.0,0.0,0
+2026-06-26T14:03:12.701,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,406.0,8128.0,0.0,0
+2026-06-26T14:03:12.765,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,273.0,9265.0,0.0,0
+2026-06-26T14:03:12.828,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,266.0,7925.0,0.0,0
+2026-06-26T14:03:12.892,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,252.0,9144.0,0.0,0
+2026-06-26T14:03:12.954,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,252.0,9172.0,0.0,0
+2026-06-26T14:03:13.016,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,426.0,7902.0,0.0,0
+2026-06-26T14:03:13.078,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,341.0,9359.0,0.0,0
+2026-06-26T14:03:13.140,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,512.0,8037.0,0.0,0
+2026-06-26T14:03:13.204,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,359.0,8240.0,0.0,0
+2026-06-26T14:03:13.266,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,254.0,9186.0,0.0,0
+2026-06-26T14:03:13.329,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,251.0,9141.0,0.0,0
+2026-06-26T14:03:13.393,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,290.0,8145.0,0.0,0
+2026-06-26T14:03:13.451,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,285.0,9121.0,0.0,0
+2026-06-26T14:03:13.513,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,686.0,7872.0,0.0,0
+2026-06-26T14:03:13.575,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,291.0,8717.0,0.0,0
+2026-06-26T14:03:13.636,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,605.0,9438.0,0.0,0
+2026-06-26T14:03:13.699,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,456.0,8175.0,0.0,0
+2026-06-26T14:03:13.762,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,327.0,9474.0,0.0,0
+2026-06-26T14:03:13.824,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,266.0,7971.0,0.0,0
+2026-06-26T14:03:13.887,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,258.0,8233.0,0.0,0
+2026-06-26T14:03:13.948,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,320.0,9262.0,0.0,0
+2026-06-26T14:03:14.011,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,458.0,7967.0,0.0,0
+2026-06-26T14:03:14.073,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,362.0,9528.0,0.0,0
+2026-06-26T14:03:14.137,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,534.0,7934.0,0.0,0
+2026-06-26T14:03:14.199,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,631.0,9280.0,0.0,0
+2026-06-26T14:03:14.262,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,298.0,7971.0,0.0,0
+2026-06-26T14:03:14.325,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,226.0,9456.0,0.0,0
+2026-06-26T14:03:14.388,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,255.0,9305.0,0.0,0
+2026-06-26T14:03:14.450,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,268.0,8034.0,0.0,0
+2026-06-26T14:03:14.514,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,270.0,9227.0,0.0,0
+2026-06-26T14:03:14.575,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,288.0,8136.0,0.0,0
+2026-06-26T14:03:14.636,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,440.0,9117.0,0.0,0
+2026-06-26T14:03:14.699,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,474.0,8292.0,0.0,0
+2026-06-26T14:03:14.762,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,343.0,9502.0,0.0,0
+2026-06-26T14:03:14.824,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,288.0,8157.0,0.0,0
+2026-06-26T14:03:14.885,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,255.0,8175.0,0.0,0
+2026-06-26T14:03:14.947,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,260.0,9466.0,0.0,0
+2026-06-26T14:03:15.011,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,435.0,8143.0,0.0,0
+2026-06-26T14:03:15.073,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,308.0,9457.0,0.0,0
+2026-06-26T14:03:15.135,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,517.0,7950.0,0.0,0
+2026-06-26T14:03:15.198,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,401.0,9296.0,0.0,0
+2026-06-26T14:03:15.261,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,257.0,8197.0,0.0,0
+2026-06-26T14:03:15.324,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,257.0,9365.0,0.0,0
+2026-06-26T14:03:15.387,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,270.0,9286.0,0.0,0
+2026-06-26T14:03:15.449,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,885.0,7992.0,0.0,0
+2026-06-26T14:03:15.512,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,554.0,8013.0,0.0,0
+2026-06-26T14:03:15.573,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,357.0,9420.0,0.0,0
+2026-06-26T14:03:15.636,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,557.0,8101.0,0.0,0
+2026-06-26T14:03:15.699,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,372.0,9371.0,0.0,0
+2026-06-26T14:03:15.762,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,366.0,8083.0,0.0,0
+2026-06-26T14:03:15.825,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,289.0,9300.0,0.0,0
+2026-06-26T14:03:15.888,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,393.0,9050.0,0.0,0
+2026-06-26T14:03:15.948,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,254.0,8128.0,0.0,0
+2026-06-26T14:03:16.011,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,644.0,8082.0,0.0,0
+2026-06-26T14:03:16.074,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,368.0,9689.0,0.0,0
+2026-06-26T14:03:16.136,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,559.0,8980.0,0.0,0
+2026-06-26T14:03:16.199,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,387.0,8197.0,0.0,0
+2026-06-26T14:03:16.262,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,257.0,9397.0,0.0,0
+2026-06-26T14:03:16.325,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,253.0,8139.0,0.0,0
+2026-06-26T14:03:16.387,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,240.0,9388.0,0.0,0
+2026-06-26T14:03:16.449,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,254.0,8170.0,0.0,617

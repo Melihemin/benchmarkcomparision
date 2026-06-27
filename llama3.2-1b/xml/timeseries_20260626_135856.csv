@@ -1,0 +1,67 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-26T13:59:04.762,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1699.0,8024.0,0.0,0
+2026-06-26T13:59:04.817,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1635.0,9029.0,0.0,0
+2026-06-26T13:59:04.880,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1622.0,7805.0,0.0,0
+2026-06-26T13:59:04.941,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1499.0,10335.0,0.0,0
+2026-06-26T13:59:05.005,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1847.0,8110.0,0.0,0
+2026-06-26T13:59:05.067,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1713.0,9373.0,0.0,0
+2026-06-26T13:59:05.134,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1471.0,8050.0,0.0,0
+2026-06-26T13:59:05.141,timeseries,1,User List,mlx-community/Llama-3.2-1B-Instruct-4bit,1475.0,9253.0,0.0,62
+2026-06-26T13:59:08.550,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,957.0,3574.0,0.0,0
+2026-06-26T13:59:08.608,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,4948.0,8971.0,0.0,0
+2026-06-26T13:59:08.669,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,1417.0,8748.0,0.0,0
+2026-06-26T13:59:08.731,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,728.0,8765.0,0.0,0
+2026-06-26T13:59:08.794,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,512.0,9541.0,0.0,0
+2026-06-26T13:59:08.857,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,340.0,8221.0,0.0,0
+2026-06-26T13:59:08.901,timeseries,2,Nested Product Conversion,mlx-community/Llama-3.2-1B-Instruct-4bit,269.0,9135.0,0.0,53
+2026-06-26T13:59:12.286,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1155.0,5178.0,0.0,0
+2026-06-26T13:59:12.342,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1537.0,7522.0,0.0,0
+2026-06-26T13:59:12.402,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1614.0,8877.0,0.0,0
+2026-06-26T13:59:12.465,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1447.0,8840.0,0.0,0
+2026-06-26T13:59:12.527,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1264.0,9400.0,0.0,0
+2026-06-26T13:59:12.589,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1804.0,7972.0,0.0,0
+2026-06-26T13:59:12.651,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1479.0,9099.0,0.0,0
+2026-06-26T13:59:12.712,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1414.0,7952.0,0.0,0
+2026-06-26T13:59:12.775,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1246.0,9158.0,0.0,0
+2026-06-26T13:59:12.836,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1216.0,8025.0,0.0,0
+2026-06-26T13:59:12.897,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1279.0,7928.0,0.0,0
+2026-06-26T13:59:12.959,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1736.0,9235.0,0.0,0
+2026-06-26T13:59:13.021,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1337.0,8102.0,0.0,0
+2026-06-26T13:59:13.084,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1757.0,9140.0,0.0,0
+2026-06-26T13:59:13.146,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1031.0,8009.0,0.0,0
+2026-06-26T13:59:13.207,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1407.0,9085.0,0.0,0
+2026-06-26T13:59:13.269,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1232.0,8044.0,0.0,0
+2026-06-26T13:59:13.330,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1277.0,8035.0,0.0,0
+2026-06-26T13:59:13.392,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1250.0,9339.0,0.0,0
+2026-06-26T13:59:13.453,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1320.0,8086.0,0.0,0
+2026-06-26T13:59:13.516,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1315.0,8069.0,0.0,0
+2026-06-26T13:59:13.578,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1768.0,9229.0,0.0,0
+2026-06-26T13:59:13.639,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1267.0,7869.0,0.0,0
+2026-06-26T13:59:13.701,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1554.0,9225.0,0.0,0
+2026-06-26T13:59:13.762,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1216.0,8074.0,0.0,0
+2026-06-26T13:59:13.824,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1298.0,9231.0,0.0,0
+2026-06-26T13:59:13.888,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1222.0,8114.0,0.0,0
+2026-06-26T13:59:13.950,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1610.0,9239.0,0.0,0
+2026-06-26T13:59:14.012,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1415.0,7829.0,0.0,0
+2026-06-26T13:59:14.073,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1724.0,9098.0,0.0,0
+2026-06-26T13:59:14.134,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1305.0,8110.0,0.0,0
+2026-06-26T13:59:14.195,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1321.0,8157.0,0.0,0
+2026-06-26T13:59:14.257,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1336.0,9306.0,0.0,0
+2026-06-26T13:59:14.319,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1191.0,8161.0,0.0,0
+2026-06-26T13:59:14.380,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,1532.0,8135.0,0.0,0
+2026-06-26T13:59:14.441,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,2119.0,9202.0,0.0,0
+2026-06-26T13:59:14.505,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,571.0,8191.0,0.0,0
+2026-06-26T13:59:14.566,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,292.0,9424.0,0.0,0
+2026-06-26T13:59:14.628,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,623.0,8030.0,0.0,0
+2026-06-26T13:59:14.691,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,389.0,8201.0,0.0,0
+2026-06-26T13:59:14.753,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,416.0,9288.0,0.0,0
+2026-06-26T13:59:14.816,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,381.0,8020.0,0.0,0
+2026-06-26T13:59:14.879,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,244.0,9436.0,0.0,0
+2026-06-26T13:59:14.942,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,270.0,9244.0,0.0,0
+2026-06-26T13:59:15.003,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,392.0,7916.0,0.0,0
+2026-06-26T13:59:15.064,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,276.0,8265.0,0.0,0
+2026-06-26T13:59:15.128,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,609.0,9237.0,0.0,0
+2026-06-26T13:59:15.192,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,377.0,8331.0,0.0,0
+2026-06-26T13:59:15.254,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,253.0,9193.0,0.0,0
+2026-06-26T13:59:15.318,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,265.0,9107.0,0.0,0
+2026-06-26T13:59:15.379,timeseries,3,Weather Report Extended v2,mlx-community/Llama-3.2-1B-Instruct-4bit,258.0,8224.0,0.0,379

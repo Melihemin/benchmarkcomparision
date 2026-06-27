@@ -1,0 +1,542 @@
+timestamp,record_type,task_id,task_name,model_name,cpu_power_mw,gpu_power_mw,ane_power_mw,current_token
+2026-06-24T12:04:47.869,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,595.0,1010.0,0.0,0
+2026-06-24T12:04:47.927,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,161.0,1000.0,0.0,0
+2026-06-24T12:04:47.986,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,123.0,984.0,0.0,0
+2026-06-24T12:04:48.046,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,723.0,964.0,0.0,0
+2026-06-24T12:04:48.108,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,170.0,950.0,0.0,0
+2026-06-24T12:04:48.169,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,150.0,935.0,0.0,0
+2026-06-24T12:04:48.229,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,212.0,913.0,0.0,0
+2026-06-24T12:04:48.289,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,49.0,1052.0,0.0,0
+2026-06-24T12:04:48.349,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,50.0,931.0,0.0,0
+2026-06-24T12:04:48.410,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,133.0,928.0,0.0,0
+2026-06-24T12:04:48.470,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,50.0,927.0,0.0,0
+2026-06-24T12:04:48.528,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,663.0,1128.0,0.0,0
+2026-06-24T12:04:48.585,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,644.0,908.0,0.0,0
+2026-06-24T12:04:48.642,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1729.0,812.0,0.0,0
+2026-06-24T12:04:48.702,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,123.0,985.0,0.0,0
+2026-06-24T12:04:48.761,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,662.0,976.0,0.0,0
+2026-06-24T12:04:48.823,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,118.0,1082.0,0.0,0
+2026-06-24T12:04:48.879,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,437.0,3949.0,0.0,0
+2026-06-24T12:04:48.938,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,4068.0,3271.0,0.0,0
+2026-06-24T12:04:48.997,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,4168.0,668.0,0.0,0
+2026-06-24T12:04:49.058,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,737.0,909.0,0.0,0
+2026-06-24T12:04:49.119,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,67.0,892.0,0.0,0
+2026-06-24T12:04:49.179,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,131.0,1000.0,0.0,0
+2026-06-24T12:04:49.239,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,231.0,874.0,0.0,0
+2026-06-24T12:04:49.299,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,863.0,0.0,0
+2026-06-24T12:04:49.360,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,868.0,0.0,0
+2026-06-24T12:04:49.420,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,133.0,863.0,0.0,0
+2026-06-24T12:04:49.480,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,994.0,0.0,0
+2026-06-24T12:04:49.540,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,565.0,865.0,0.0,0
+2026-06-24T12:04:49.601,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,862.0,0.0,0
+2026-06-24T12:04:49.661,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,149.0,861.0,0.0,0
+2026-06-24T12:04:49.721,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,498.0,996.0,0.0,0
+2026-06-24T12:04:49.782,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,859.0,0.0,0
+2026-06-24T12:04:49.842,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,50.0,865.0,0.0,0
+2026-06-24T12:04:49.903,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,865.0,0.0,0
+2026-06-24T12:04:49.964,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,365.0,996.0,0.0,0
+2026-06-24T12:04:50.025,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,642.0,856.0,0.0,0
+2026-06-24T12:04:50.085,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,846.0,0.0,0
+2026-06-24T12:04:50.146,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,980.0,0.0,0
+2026-06-24T12:04:50.206,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,116.0,863.0,0.0,0
+2026-06-24T12:04:50.266,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,98.0,852.0,0.0,0
+2026-06-24T12:04:50.326,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,34.0,879.0,0.0,0
+2026-06-24T12:04:50.386,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,33.0,865.0,0.0,0
+2026-06-24T12:04:50.446,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,135.0,1010.0,0.0,0
+2026-06-24T12:04:50.507,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,547.0,862.0,0.0,0
+2026-06-24T12:04:50.568,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2380.0,5420.0,0.0,0
+2026-06-24T12:04:50.628,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2300.0,6390.0,0.0,0
+2026-06-24T12:04:50.689,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2192.0,7352.0,0.0,0
+2026-06-24T12:04:50.749,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2624.0,6551.0,0.0,0
+2026-06-24T12:04:50.812,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2222.0,6371.0,0.0,0
+2026-06-24T12:04:50.869,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2140.0,7341.0,0.0,0
+2026-06-24T12:04:50.926,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,3644.0,6147.0,0.0,0
+2026-06-24T12:04:50.986,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2419.0,5977.0,0.0,0
+2026-06-24T12:04:51.049,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1563.0,7923.0,0.0,0
+2026-06-24T12:04:51.111,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,513.0,6486.0,0.0,0
+2026-06-24T12:04:51.172,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,711.0,7097.0,0.0,0
+2026-06-24T12:04:51.234,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,785.0,6490.0,0.0,0
+2026-06-24T12:04:51.295,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,672.0,6495.0,0.0,0
+2026-06-24T12:04:51.356,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,656.0,7195.0,0.0,0
+2026-06-24T12:04:51.417,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,737.0,6517.0,0.0,0
+2026-06-24T12:04:51.479,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,774.0,6538.0,0.0,0
+2026-06-24T12:04:51.540,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1031.0,7428.0,0.0,0
+2026-06-24T12:04:51.603,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,778.0,6455.0,0.0,0
+2026-06-24T12:04:51.665,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,750.0,7415.0,0.0,0
+2026-06-24T12:04:51.727,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,827.0,6301.0,0.0,0
+2026-06-24T12:04:51.787,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,799.0,6393.0,0.0,0
+2026-06-24T12:04:51.847,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,704.0,7416.0,0.0,0
+2026-06-24T12:04:51.909,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,697.0,6592.0,0.0,0
+2026-06-24T12:04:51.971,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,610.0,6511.0,0.0,0
+2026-06-24T12:04:52.032,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1156.0,7393.0,0.0,0
+2026-06-24T12:04:52.094,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,840.0,6426.0,0.0,0
+2026-06-24T12:04:52.156,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,747.0,7418.0,0.0,0
+2026-06-24T12:04:52.216,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,807.0,6453.0,0.0,0
+2026-06-24T12:04:52.280,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,744.0,6582.0,0.0,0
+2026-06-24T12:04:52.341,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,837.0,7338.0,0.0,0
+2026-06-24T12:04:52.402,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,735.0,6148.0,0.0,0
+2026-06-24T12:04:52.463,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,751.0,6531.0,0.0,0
+2026-06-24T12:04:52.523,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,997.0,7436.0,0.0,0
+2026-06-24T12:04:52.585,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1915.0,6505.0,0.0,0
+2026-06-24T12:04:52.646,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,2788.0,6533.0,0.0,0
+2026-06-24T12:04:52.707,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1607.0,7336.0,0.0,0
+2026-06-24T12:04:52.768,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1478.0,6503.0,0.0,0
+2026-06-24T12:04:52.829,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1183.0,6523.0,0.0,0
+2026-06-24T12:04:52.890,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,933.0,7432.0,0.0,0
+2026-06-24T12:04:52.950,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,851.0,6528.0,0.0,0
+2026-06-24T12:04:53.011,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,933.0,6550.0,0.0,0
+2026-06-24T12:04:53.072,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,1061.0,7559.0,0.0,0
+2026-06-24T12:04:53.134,timeseries,1,User List,mlx-community/Qwen3-0.6B-8bit,776.0,6620.0,0.0,367
+2026-06-24T12:04:56.519,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,902.0,1028.0,0.0,0
+2026-06-24T12:04:56.577,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,160.0,1032.0,0.0,0
+2026-06-24T12:04:56.636,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,141.0,1024.0,0.0,0
+2026-06-24T12:04:56.696,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,103.0,996.0,0.0,0
+2026-06-24T12:04:56.757,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,474.0,981.0,0.0,0
+2026-06-24T12:04:56.817,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,216.0,965.0,0.0,0
+2026-06-24T12:04:56.877,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,50.0,963.0,0.0,0
+2026-06-24T12:04:56.937,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,50.0,1097.0,0.0,0
+2026-06-24T12:04:56.997,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,150.0,970.0,0.0,0
+2026-06-24T12:04:57.058,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,662.0,959.0,0.0,0
+2026-06-24T12:04:57.120,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,200.0,968.0,0.0,0
+2026-06-24T12:04:57.182,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1482.0,8699.0,0.0,0
+2026-06-24T12:04:57.242,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,5564.0,98.0,0.0,0
+2026-06-24T12:04:57.303,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,129.0,869.0,0.0,0
+2026-06-24T12:04:57.364,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,1018.0,0.0,0
+2026-06-24T12:04:57.423,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,379.0,891.0,0.0,0
+2026-06-24T12:04:57.485,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1049.0,899.0,0.0,0
+2026-06-24T12:04:57.546,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,831.0,898.0,0.0,0
+2026-06-24T12:04:57.606,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,2178.0,992.0,0.0,0
+2026-06-24T12:04:57.666,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,866.0,0.0,0
+2026-06-24T12:04:57.726,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,4104.0,877.0,0.0,0
+2026-06-24T12:04:57.787,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,4820.0,913.0,0.0,0
+2026-06-24T12:04:57.847,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,6671.0,1021.0,0.0,0
+2026-06-24T12:04:57.907,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,6608.0,892.0,0.0,0
+2026-06-24T12:04:57.968,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,6547.0,897.0,0.0,0
+2026-06-24T12:04:58.028,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,5008.0,918.0,0.0,0
+2026-06-24T12:04:58.087,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,66.0,1016.0,0.0,0
+2026-06-24T12:04:58.147,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,51.0,917.0,0.0,0
+2026-06-24T12:04:58.207,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,116.0,899.0,0.0,0
+2026-06-24T12:04:58.268,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,216.0,897.0,0.0,0
+2026-06-24T12:04:58.328,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,199.0,895.0,0.0,0
+2026-06-24T12:04:58.389,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,1008.0,0.0,0
+2026-06-24T12:04:58.448,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,875.0,0.0,0
+2026-06-24T12:04:58.509,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,663.0,895.0,0.0,0
+2026-06-24T12:04:58.568,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,136.0,917.0,0.0,0
+2026-06-24T12:04:58.628,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,82.0,869.0,0.0,0
+2026-06-24T12:04:58.688,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,17.0,1035.0,0.0,0
+2026-06-24T12:04:58.749,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,384.0,903.0,0.0,0
+2026-06-24T12:04:58.809,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,115.0,874.0,0.0,0
+2026-06-24T12:04:58.869,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,875.0,0.0,0
+2026-06-24T12:04:58.929,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,1016.0,0.0,0
+2026-06-24T12:04:58.990,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,883.0,0.0,0
+2026-06-24T12:04:59.050,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,664.0,880.0,0.0,0
+2026-06-24T12:04:59.111,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,870.0,0.0,0
+2026-06-24T12:04:59.171,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,17.0,1015.0,0.0,0
+2026-06-24T12:04:59.231,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,33.0,887.0,0.0,0
+2026-06-24T12:04:59.292,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,34.0,910.0,0.0,0
+2026-06-24T12:04:59.348,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,362.0,873.0,0.0,0
+2026-06-24T12:04:59.405,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,2036.0,870.0,0.0,0
+2026-06-24T12:04:59.463,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,266.0,940.0,0.0,0
+2026-06-24T12:04:59.523,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,912.0,930.0,0.0,0
+2026-06-24T12:04:59.581,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,172.0,910.0,0.0,0
+2026-06-24T12:04:59.640,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,67.0,892.0,0.0,0
+2026-06-24T12:04:59.697,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,104.0,921.0,0.0,0
+2026-06-24T12:04:59.753,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1190.0,889.0,0.0,0
+2026-06-24T12:04:59.812,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,196.0,945.0,0.0,0
+2026-06-24T12:04:59.871,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,210.0,947.0,0.0,0
+2026-06-24T12:04:59.926,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,119.0,900.0,0.0,0
+2026-06-24T12:04:59.981,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,136.0,785.0,0.0,0
+2026-06-24T12:05:00.037,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,867.0,958.0,0.0,0
+2026-06-24T12:05:00.092,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,413.0,953.0,0.0,0
+2026-06-24T12:05:00.148,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,326.0,833.0,0.0,0
+2026-06-24T12:05:00.203,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,973.0,0.0,0
+2026-06-24T12:05:00.258,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,347.0,968.0,0.0,0
+2026-06-24T12:05:00.313,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,828.0,0.0,0
+2026-06-24T12:05:00.369,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,667.0,974.0,0.0,0
+2026-06-24T12:05:00.424,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,288.0,956.0,0.0,0
+2026-06-24T12:05:00.480,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,325.0,830.0,0.0,0
+2026-06-24T12:05:00.535,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1064.0,974.0,0.0,0
+2026-06-24T12:05:00.591,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,953.0,0.0,0
+2026-06-24T12:05:00.645,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,487.0,830.0,0.0,0
+2026-06-24T12:05:00.700,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,476.0,971.0,0.0,0
+2026-06-24T12:05:00.755,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,677.0,841.0,0.0,0
+2026-06-24T12:05:00.810,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,311.0,988.0,0.0,0
+2026-06-24T12:05:00.866,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,640.0,841.0,0.0,0
+2026-06-24T12:05:00.921,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1962.0,972.0,0.0,0
+2026-06-24T12:05:00.977,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,143.0,966.0,0.0,0
+2026-06-24T12:05:01.032,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,875.0,946.0,0.0,0
+2026-06-24T12:05:01.087,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,324.0,828.0,0.0,0
+2026-06-24T12:05:01.142,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,401.0,966.0,0.0,0
+2026-06-24T12:05:01.198,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,310.0,838.0,0.0,0
+2026-06-24T12:05:01.253,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,325.0,974.0,0.0,0
+2026-06-24T12:05:01.308,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,288.0,955.0,0.0,0
+2026-06-24T12:05:01.364,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,381.0,834.0,0.0,0
+2026-06-24T12:05:01.419,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,575.0,952.0,0.0,0
+2026-06-24T12:05:01.475,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,973.0,0.0,0
+2026-06-24T12:05:01.530,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,957.0,831.0,0.0,0
+2026-06-24T12:05:01.586,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,954.0,0.0,0
+2026-06-24T12:05:01.641,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,415.0,956.0,0.0,0
+2026-06-24T12:05:01.697,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,829.0,0.0,0
+2026-06-24T12:05:01.752,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,650.0,958.0,0.0,0
+2026-06-24T12:05:01.808,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,342.0,972.0,0.0,0
+2026-06-24T12:05:01.862,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,829.0,0.0,0
+2026-06-24T12:05:01.918,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,404.0,991.0,0.0,0
+2026-06-24T12:05:01.973,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,324.0,828.0,0.0,0
+2026-06-24T12:05:02.027,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,890.0,981.0,0.0,0
+2026-06-24T12:05:02.083,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,329.0,988.0,0.0,0
+2026-06-24T12:05:02.138,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,450.0,829.0,0.0,0
+2026-06-24T12:05:02.194,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,396.0,955.0,0.0,0
+2026-06-24T12:05:02.249,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,325.0,976.0,0.0,0
+2026-06-24T12:05:02.304,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,324.0,829.0,0.0,0
+2026-06-24T12:05:02.360,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,309.0,980.0,0.0,0
+2026-06-24T12:05:02.415,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,541.0,829.0,0.0,0
+2026-06-24T12:05:02.471,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,416.0,977.0,0.0,0
+2026-06-24T12:05:02.526,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,955.0,973.0,0.0,0
+2026-06-24T12:05:02.582,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,323.0,827.0,0.0,0
+2026-06-24T12:05:02.637,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,306.0,973.0,0.0,0
+2026-06-24T12:05:02.693,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,415.0,975.0,0.0,0
+2026-06-24T12:05:02.748,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,649.0,829.0,0.0,0
+2026-06-24T12:05:02.804,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,325.0,974.0,0.0,0
+2026-06-24T12:05:02.859,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,4025.0,975.0,0.0,0
+2026-06-24T12:05:02.915,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,885.0,830.0,0.0,0
+2026-06-24T12:05:02.969,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,468.0,953.0,0.0,0
+2026-06-24T12:05:03.025,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1024.0,969.0,0.0,0
+2026-06-24T12:05:03.080,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,323.0,827.0,0.0,0
+2026-06-24T12:05:03.136,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,324.0,972.0,0.0,0
+2026-06-24T12:05:03.191,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,396.0,972.0,0.0,0
+2026-06-24T12:05:03.247,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,325.0,831.0,0.0,0
+2026-06-24T12:05:03.302,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1733.0,3051.0,0.0,0
+2026-06-24T12:05:03.363,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,3067.0,7151.0,0.0,0
+2026-06-24T12:05:03.424,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,2431.0,7008.0,0.0,0
+2026-06-24T12:05:03.485,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,2521.0,6434.0,0.0,0
+2026-06-24T12:05:03.547,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,2284.0,6424.0,0.0,0
+2026-06-24T12:05:03.609,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,953.0,7439.0,0.0,0
+2026-06-24T12:05:03.670,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,404.0,6354.0,0.0,0
+2026-06-24T12:05:03.730,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,705.0,7177.0,0.0,0
+2026-06-24T12:05:03.791,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,676.0,6515.0,0.0,0
+2026-06-24T12:05:03.853,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,750.0,6615.0,0.0,0
+2026-06-24T12:05:03.915,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,668.0,7383.0,0.0,0
+2026-06-24T12:05:03.976,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,672.0,6509.0,0.0,0
+2026-06-24T12:05:04.037,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,982.0,6409.0,0.0,0
+2026-06-24T12:05:04.098,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,787.0,7473.0,0.0,0
+2026-06-24T12:05:04.158,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,663.0,6436.0,0.0,0
+2026-06-24T12:05:04.219,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,710.0,6552.0,0.0,0
+2026-06-24T12:05:04.280,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,697.0,7534.0,0.0,0
+2026-06-24T12:05:04.341,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,790.0,6584.0,0.0,0
+2026-06-24T12:05:04.402,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,881.0,6457.0,0.0,0
+2026-06-24T12:05:04.465,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,727.0,6592.0,0.0,0
+2026-06-24T12:05:04.525,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,1109.0,7437.0,0.0,0
+2026-06-24T12:05:04.586,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,899.0,6420.0,0.0,0
+2026-06-24T12:05:04.648,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,829.0,7590.0,0.0,0
+2026-06-24T12:05:04.709,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,657.0,6533.0,0.0,0
+2026-06-24T12:05:04.770,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,914.0,6417.0,0.0,0
+2026-06-24T12:05:04.832,timeseries,2,Nested Product Conversion,mlx-community/Qwen3-0.6B-8bit,658.0,7472.0,0.0,218
+2026-06-24T12:05:08.170,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,415.0,992.0,0.0,0
+2026-06-24T12:05:08.228,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,556.0,986.0,0.0,0
+2026-06-24T12:05:08.287,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,299.0,967.0,0.0,0
+2026-06-24T12:05:08.347,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,156.0,933.0,0.0,0
+2026-06-24T12:05:08.407,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,68.0,919.0,0.0,0
+2026-06-24T12:05:08.467,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,134.0,906.0,0.0,0
+2026-06-24T12:05:08.528,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,629.0,893.0,0.0,0
+2026-06-24T12:05:08.589,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1028.0,0.0,0
+2026-06-24T12:05:08.650,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,897.0,0.0,0
+2026-06-24T12:05:08.712,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,344.0,886.0,0.0,0
+2026-06-24T12:05:08.772,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,358.0,1009.0,0.0,0
+2026-06-24T12:05:08.831,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,82.0,887.0,0.0,0
+2026-06-24T12:05:08.893,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,66.0,891.0,0.0,0
+2026-06-24T12:05:08.952,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,901.0,0.0,0
+2026-06-24T12:05:09.014,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,696.0,1077.0,0.0,0
+2026-06-24T12:05:09.074,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,910.0,0.0,0
+2026-06-24T12:05:09.134,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,877.0,0.0,0
+2026-06-24T12:05:09.195,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,901.0,0.0,0
+2026-06-24T12:05:09.256,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,116.0,1011.0,0.0,0
+2026-06-24T12:05:09.317,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,881.0,0.0,0
+2026-06-24T12:05:09.377,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,887.0,0.0,0
+2026-06-24T12:05:09.438,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1024.0,0.0,0
+2026-06-24T12:05:09.499,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,116.0,893.0,0.0,0
+2026-06-24T12:05:09.559,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,545.0,892.0,0.0,0
+2026-06-24T12:05:09.619,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,213.0,886.0,0.0,0
+2026-06-24T12:05:09.679,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,17.0,1043.0,0.0,0
+2026-06-24T12:05:09.739,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,623.0,886.0,0.0,0
+2026-06-24T12:05:09.799,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,134.0,905.0,0.0,0
+2026-06-24T12:05:09.860,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,233.0,897.0,0.0,0
+2026-06-24T12:05:09.921,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,896.0,0.0,0
+2026-06-24T12:05:09.982,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1004.0,0.0,0
+2026-06-24T12:05:10.043,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,708.0,889.0,0.0,0
+2026-06-24T12:05:10.104,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,886.0,0.0,0
+2026-06-24T12:05:10.165,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,998.0,0.0,0
+2026-06-24T12:05:10.225,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,886.0,0.0,0
+2026-06-24T12:05:10.287,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,131.0,885.0,0.0,0
+2026-06-24T12:05:10.347,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,1006.0,0.0,0
+2026-06-24T12:05:10.408,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,884.0,0.0,0
+2026-06-24T12:05:10.469,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,887.0,0.0,0
+2026-06-24T12:05:10.529,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,608.0,1003.0,0.0,0
+2026-06-24T12:05:10.591,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,884.0,0.0,0
+2026-06-24T12:05:10.651,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,898.0,0.0,0
+2026-06-24T12:05:10.712,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,880.0,0.0,0
+2026-06-24T12:05:10.772,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,680.0,1011.0,0.0,0
+2026-06-24T12:05:10.833,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,99.0,887.0,0.0,0
+2026-06-24T12:05:10.889,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,898.0,0.0,0
+2026-06-24T12:05:10.944,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,844.0,894.0,0.0,0
+2026-06-24T12:05:11.001,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,677.0,962.0,0.0,0
+2026-06-24T12:05:11.058,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1219.0,825.0,0.0,0
+2026-06-24T12:05:11.116,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1458.0,949.0,0.0,0
+2026-06-24T12:05:11.175,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,281.0,949.0,0.0,0
+2026-06-24T12:05:11.236,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,156.0,935.0,0.0,0
+2026-06-24T12:05:11.296,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,152.0,1029.0,0.0,0
+2026-06-24T12:05:11.354,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,82.0,889.0,0.0,0
+2026-06-24T12:05:11.411,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,303.0,908.0,0.0,0
+2026-06-24T12:05:11.469,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,724.0,931.0,0.0,0
+2026-06-24T12:05:11.528,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,767.0,942.0,0.0,0
+2026-06-24T12:05:11.586,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,171.0,925.0,0.0,0
+2026-06-24T12:05:11.643,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,171.0,922.0,0.0,0
+2026-06-24T12:05:11.698,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,121.0,796.0,0.0,0
+2026-06-24T12:05:11.753,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,513.0,954.0,0.0,0
+2026-06-24T12:05:11.809,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,664.0,969.0,0.0,0
+2026-06-24T12:05:11.864,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,288.0,828.0,0.0,0
+2026-06-24T12:05:11.920,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,327.0,981.0,0.0,0
+2026-06-24T12:05:11.975,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,306.0,972.0,0.0,0
+2026-06-24T12:05:12.031,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,971.0,827.0,0.0,0
+2026-06-24T12:05:12.086,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,431.0,969.0,0.0,0
+2026-06-24T12:05:12.142,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,289.0,974.0,0.0,0
+2026-06-24T12:05:12.197,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,324.0,829.0,0.0,0
+2026-06-24T12:05:12.253,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,307.0,974.0,0.0,0
+2026-06-24T12:05:12.308,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,396.0,973.0,0.0,0
+2026-06-24T12:05:12.364,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,324.0,828.0,0.0,0
+2026-06-24T12:05:12.419,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,288.0,973.0,0.0,0
+2026-06-24T12:05:12.474,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,327.0,980.0,0.0,0
+2026-06-24T12:05:12.529,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1024.0,841.0,0.0,0
+2026-06-24T12:05:12.585,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,395.0,969.0,0.0,0
+2026-06-24T12:05:12.640,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,325.0,830.0,0.0,0
+2026-06-24T12:05:12.695,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,469.0,973.0,0.0,0
+2026-06-24T12:05:12.750,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,679.0,990.0,0.0,0
+2026-06-24T12:05:12.805,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,327.0,837.0,0.0,0
+2026-06-24T12:05:12.860,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,667.0,974.0,0.0,0
+2026-06-24T12:05:12.915,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,292.0,840.0,0.0,0
+2026-06-24T12:05:12.970,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,993.0,975.0,0.0,0
+2026-06-24T12:05:13.026,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,4321.0,984.0,0.0,0
+2026-06-24T12:05:13.082,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,502.0,824.0,0.0,0
+2026-06-24T12:05:13.137,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,396.0,971.0,0.0,0
+2026-06-24T12:05:13.192,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,328.0,984.0,0.0,0
+2026-06-24T12:05:13.247,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,342.0,827.0,0.0,0
+2026-06-24T12:05:13.303,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,324.0,973.0,0.0,0
+2026-06-24T12:05:13.359,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,397.0,975.0,0.0,0
+2026-06-24T12:05:13.414,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,324.0,827.0,0.0,0
+2026-06-24T12:05:13.470,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,288.0,972.0,0.0,0
+2026-06-24T12:05:13.525,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,936.0,972.0,0.0,0
+2026-06-24T12:05:13.581,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,306.0,827.0,0.0,0
+2026-06-24T12:05:13.636,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,396.0,973.0,0.0,0
+2026-06-24T12:05:13.692,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,306.0,973.0,0.0,0
+2026-06-24T12:05:13.747,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,720.0,828.0,0.0,0
+2026-06-24T12:05:13.803,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,325.0,974.0,0.0,0
+2026-06-24T12:05:13.858,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,541.0,974.0,0.0,0
+2026-06-24T12:05:13.914,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,434.0,831.0,0.0,0
+2026-06-24T12:05:13.971,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1316.0,10942.0,0.0,0
+2026-06-24T12:05:14.032,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,858.0,17692.0,0.0,0
+2026-06-24T12:05:14.093,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,5240.0,1542.0,0.0,0
+2026-06-24T12:05:14.153,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1268.0,609.0,0.0,0
+2026-06-24T12:05:14.213,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,214.0,1053.0,0.0,0
+2026-06-24T12:05:14.272,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,924.0,0.0,0
+2026-06-24T12:05:14.333,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,99.0,903.0,0.0,0
+2026-06-24T12:05:14.394,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,118.0,926.0,0.0,0
+2026-06-24T12:05:14.454,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1025.0,0.0,0
+2026-06-24T12:05:14.514,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,630.0,895.0,0.0,0
+2026-06-24T12:05:14.575,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,82.0,887.0,0.0,0
+2026-06-24T12:05:14.635,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,34.0,905.0,0.0,0
+2026-06-24T12:05:14.696,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,132.0,889.0,0.0,0
+2026-06-24T12:05:14.757,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,379.0,1021.0,0.0,0
+2026-06-24T12:05:14.817,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,896.0,0.0,0
+2026-06-24T12:05:14.878,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,882.0,0.0,0
+2026-06-24T12:05:14.938,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,332.0,1014.0,0.0,0
+2026-06-24T12:05:14.998,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,82.0,881.0,0.0,0
+2026-06-24T12:05:15.059,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,826.0,978.0,0.0,0
+2026-06-24T12:05:15.120,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,889.0,0.0,0
+2026-06-24T12:05:15.180,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,133.0,1011.0,0.0,0
+2026-06-24T12:05:15.241,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,887.0,0.0,0
+2026-06-24T12:05:15.301,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,890.0,0.0,0
+2026-06-24T12:05:15.361,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,897.0,0.0,0
+2026-06-24T12:05:15.422,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1011.0,0.0,0
+2026-06-24T12:05:15.482,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,116.0,898.0,0.0,0
+2026-06-24T12:05:15.543,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,559.0,871.0,0.0,0
+2026-06-24T12:05:15.604,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,876.0,0.0,0
+2026-06-24T12:05:15.665,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,181.0,1002.0,0.0,0
+2026-06-24T12:05:15.726,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,443.0,870.0,0.0,0
+2026-06-24T12:05:15.785,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,888.0,0.0,0
+2026-06-24T12:05:15.845,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,66.0,887.0,0.0,0
+2026-06-24T12:05:15.905,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,34.0,1042.0,0.0,0
+2026-06-24T12:05:15.965,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,367.0,884.0,0.0,0
+2026-06-24T12:05:16.026,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,628.0,876.0,0.0,0
+2026-06-24T12:05:16.086,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,215.0,893.0,0.0,0
+2026-06-24T12:05:16.147,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1012.0,0.0,0
+2026-06-24T12:05:16.209,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,873.0,0.0,0
+2026-06-24T12:05:16.268,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,131.0,868.0,0.0,0
+2026-06-24T12:05:16.329,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,875.0,0.0,0
+2026-06-24T12:05:16.390,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1017.0,0.0,0
+2026-06-24T12:05:16.450,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,869.0,0.0,0
+2026-06-24T12:05:16.509,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,639.0,868.0,0.0,0
+2026-06-24T12:05:16.569,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,51.0,913.0,0.0,0
+2026-06-24T12:05:16.630,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1015.0,0.0,0
+2026-06-24T12:05:16.691,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,898.0,0.0,0
+2026-06-24T12:05:16.750,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,430.0,876.0,0.0,0
+2026-06-24T12:05:16.810,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,900.0,0.0,0
+2026-06-24T12:05:16.871,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,34.0,894.0,0.0,0
+2026-06-24T12:05:16.933,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,999.0,0.0,0
+2026-06-24T12:05:16.993,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,278.0,867.0,0.0,0
+2026-06-24T12:05:17.054,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,634.0,878.0,0.0,0
+2026-06-24T12:05:17.113,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1015.0,0.0,0
+2026-06-24T12:05:17.174,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,66.0,870.0,0.0,0
+2026-06-24T12:05:17.235,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,220.0,895.0,0.0,0
+2026-06-24T12:05:17.296,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,148.0,872.0,0.0,0
+2026-06-24T12:05:17.357,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,66.0,1009.0,0.0,0
+2026-06-24T12:05:17.418,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,229.0,868.0,0.0,0
+2026-06-24T12:05:17.478,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,65.0,863.0,0.0,0
+2026-06-24T12:05:17.539,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1983.0,1008.0,0.0,0
+2026-06-24T12:05:17.599,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,499.0,881.0,0.0,0
+2026-06-24T12:05:17.659,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1873.0,863.0,0.0,0
+2026-06-24T12:05:17.720,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,571.0,906.0,0.0,0
+2026-06-24T12:05:17.780,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,82.0,1005.0,0.0,0
+2026-06-24T12:05:17.841,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,874.0,0.0,0
+2026-06-24T12:05:17.902,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,877.0,0.0,0
+2026-06-24T12:05:17.963,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,875.0,0.0,0
+2026-06-24T12:05:18.023,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,774.0,1004.0,0.0,0
+2026-06-24T12:05:18.084,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2655.0,869.0,0.0,0
+2026-06-24T12:05:18.145,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,413.0,892.0,0.0,0
+2026-06-24T12:05:18.206,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,66.0,1002.0,0.0,0
+2026-06-24T12:05:18.267,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,872.0,0.0,0
+2026-06-24T12:05:18.328,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,213.0,884.0,0.0,0
+2026-06-24T12:05:18.389,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1005.0,0.0,0
+2026-06-24T12:05:18.449,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,16.0,869.0,0.0,0
+2026-06-24T12:05:18.509,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,655.0,868.0,0.0,0
+2026-06-24T12:05:18.569,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,117.0,903.0,0.0,0
+2026-06-24T12:05:18.630,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,50.0,1013.0,0.0,0
+2026-06-24T12:05:18.691,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,215.0,875.0,0.0,0
+2026-06-24T12:05:18.750,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,345.0,870.0,0.0,0
+2026-06-24T12:05:18.811,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,133.0,898.0,0.0,0
+2026-06-24T12:05:18.872,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1014.0,0.0,0
+2026-06-24T12:05:18.932,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,869.0,0.0,0
+2026-06-24T12:05:18.990,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,871.0,0.0,0
+2026-06-24T12:05:19.051,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,608.0,895.0,0.0,0
+2026-06-24T12:05:19.111,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,494.0,903.0,0.0,0
+2026-06-24T12:05:19.172,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1006.0,0.0,0
+2026-06-24T12:05:19.233,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,875.0,0.0,0
+2026-06-24T12:05:19.293,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,871.0,0.0,0
+2026-06-24T12:05:19.354,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,133.0,884.0,0.0,0
+2026-06-24T12:05:19.414,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,996.0,0.0,0
+2026-06-24T12:05:19.475,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,895.0,0.0,0
+2026-06-24T12:05:19.536,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,596.0,893.0,0.0,0
+2026-06-24T12:05:19.597,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,131.0,1001.0,0.0,0
+2026-06-24T12:05:19.658,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,16.0,867.0,0.0,0
+2026-06-24T12:05:19.718,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,344.0,884.0,0.0,0
+2026-06-24T12:05:19.778,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,49.0,891.0,0.0,0
+2026-06-24T12:05:19.838,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,134.0,1020.0,0.0,0
+2026-06-24T12:05:19.899,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,895.0,0.0,0
+2026-06-24T12:05:19.959,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,896.0,0.0,0
+2026-06-24T12:05:20.020,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,545.0,891.0,0.0,0
+2026-06-24T12:05:20.081,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,33.0,1012.0,0.0,0
+2026-06-24T12:05:20.142,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,528.0,874.0,0.0,0
+2026-06-24T12:05:20.203,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1376.0,3964.0,0.0,0
+2026-06-24T12:05:20.264,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2124.0,7424.0,0.0,0
+2026-06-24T12:05:20.325,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2087.0,6456.0,0.0,0
+2026-06-24T12:05:20.386,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2136.0,6474.0,0.0,0
+2026-06-24T12:05:20.447,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2129.0,7420.0,0.0,0
+2026-06-24T12:05:20.509,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2474.0,6489.0,0.0,0
+2026-06-24T12:05:20.572,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1518.0,6567.0,0.0,0
+2026-06-24T12:05:20.634,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,662.0,7379.0,0.0,0
+2026-06-24T12:05:20.695,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,348.0,6284.0,0.0,0
+2026-06-24T12:05:20.756,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,614.0,7380.0,0.0,0
+2026-06-24T12:05:20.817,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,603.0,6514.0,0.0,0
+2026-06-24T12:05:20.877,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,495.0,6545.0,0.0,0
+2026-06-24T12:05:20.937,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,707.0,6623.0,0.0,0
+2026-06-24T12:05:20.998,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,616.0,7593.0,0.0,0
+2026-06-24T12:05:21.059,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,897.0,6643.0,0.0,0
+2026-06-24T12:05:21.120,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,721.0,6623.0,0.0,0
+2026-06-24T12:05:21.180,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,855.0,7592.0,0.0,0
+2026-06-24T12:05:21.240,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,694.0,6680.0,0.0,0
+2026-06-24T12:05:21.301,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,666.0,6679.0,0.0,0
+2026-06-24T12:05:21.362,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,662.0,6655.0,0.0,0
+2026-06-24T12:05:21.421,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,624.0,7516.0,0.0,0
+2026-06-24T12:05:21.482,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,648.0,6668.0,0.0,0
+2026-06-24T12:05:21.542,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,927.0,6636.0,0.0,0
+2026-06-24T12:05:21.603,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,728.0,6672.0,0.0,0
+2026-06-24T12:05:21.664,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,729.0,7651.0,0.0,0
+2026-06-24T12:05:21.725,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,690.0,6573.0,0.0,0
+2026-06-24T12:05:21.786,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,685.0,6568.0,0.0,0
+2026-06-24T12:05:21.847,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,497.0,7588.0,0.0,0
+2026-06-24T12:05:21.908,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,391.0,6499.0,0.0,0
+2026-06-24T12:05:21.968,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,660.0,6598.0,0.0,0
+2026-06-24T12:05:22.029,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,676.0,6591.0,0.0,0
+2026-06-24T12:05:22.090,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,723.0,7606.0,0.0,0
+2026-06-24T12:05:22.151,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,641.0,6638.0,0.0,0
+2026-06-24T12:05:22.211,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,772.0,6653.0,0.0,0
+2026-06-24T12:05:22.274,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,676.0,7595.0,0.0,0
+2026-06-24T12:05:22.335,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,745.0,6508.0,0.0,0
+2026-06-24T12:05:22.396,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,724.0,6482.0,0.0,0
+2026-06-24T12:05:22.457,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,532.0,7366.0,0.0,0
+2026-06-24T12:05:22.517,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,762.0,6605.0,0.0,0
+2026-06-24T12:05:22.576,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,718.0,6794.0,0.0,0
+2026-06-24T12:05:22.637,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,659.0,6661.0,0.0,0
+2026-06-24T12:05:22.699,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,516.0,7642.0,0.0,0
+2026-06-24T12:05:22.759,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,688.0,6590.0,0.0,0
+2026-06-24T12:05:22.819,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,686.0,6615.0,0.0,0
+2026-06-24T12:05:22.879,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,630.0,7638.0,0.0,0
+2026-06-24T12:05:22.941,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,467.0,6687.0,0.0,0
+2026-06-24T12:05:23.003,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,416.0,6671.0,0.0,0
+2026-06-24T12:05:23.064,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,902.0,7457.0,0.0,0
+2026-06-24T12:05:23.126,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,650.0,6577.0,0.0,0
+2026-06-24T12:05:23.187,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2805.0,6522.0,0.0,0
+2026-06-24T12:05:23.247,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,2086.0,7514.0,0.0,0
+2026-06-24T12:05:23.307,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1296.0,6595.0,0.0,0
+2026-06-24T12:05:23.368,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1119.0,6630.0,0.0,0
+2026-06-24T12:05:23.430,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,971.0,6794.0,0.0,0
+2026-06-24T12:05:23.491,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,848.0,7551.0,0.0,0
+2026-06-24T12:05:23.551,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1153.0,6558.0,0.0,0
+2026-06-24T12:05:23.613,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,789.0,6710.0,0.0,0
+2026-06-24T12:05:23.675,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,691.0,7636.0,0.0,0
+2026-06-24T12:05:23.737,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,796.0,6598.0,0.0,0
+2026-06-24T12:05:23.798,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,663.0,7533.0,0.0,0
+2026-06-24T12:05:23.857,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,536.0,6546.0,0.0,0
+2026-06-24T12:05:23.920,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,431.0,6697.0,0.0,0
+2026-06-24T12:05:23.981,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,627.0,7644.0,0.0,0
+2026-06-24T12:05:24.042,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,833.0,6491.0,0.0,0
+2026-06-24T12:05:24.103,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,685.0,6655.0,0.0,0
+2026-06-24T12:05:24.163,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,705.0,7605.0,0.0,0
+2026-06-24T12:05:24.225,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,595.0,6712.0,0.0,0
+2026-06-24T12:05:24.286,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,559.0,6642.0,0.0,0
+2026-06-24T12:05:24.346,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,716.0,7601.0,0.0,0
+2026-06-24T12:05:24.407,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,574.0,6642.0,0.0,0
+2026-06-24T12:05:24.469,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,478.0,6665.0,0.0,0
+2026-06-24T12:05:24.531,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1280.0,7565.0,0.0,0
+2026-06-24T12:05:24.592,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,3484.0,6499.0,0.0,0
+2026-06-24T12:05:24.653,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1622.0,6551.0,0.0,0
+2026-06-24T12:05:24.715,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1199.0,7590.0,0.0,0
+2026-06-24T12:05:24.776,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,1261.0,6529.0,0.0,0
+2026-06-24T12:05:24.837,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,912.0,6628.0,0.0,0
+2026-06-24T12:05:24.897,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,822.0,7664.0,0.0,0
+2026-06-24T12:05:24.957,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,673.0,6696.0,0.0,0
+2026-06-24T12:05:25.018,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,890.0,6738.0,0.0,0
+2026-06-24T12:05:25.078,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,717.0,6824.0,0.0,0
+2026-06-24T12:05:25.138,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,642.0,7692.0,0.0,0
+2026-06-24T12:05:25.199,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,562.0,6725.0,0.0,0
+2026-06-24T12:05:25.264,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,586.0,6763.0,0.0,0
+2026-06-24T12:05:25.326,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,691.0,7652.0,0.0,0
+2026-06-24T12:05:25.387,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,864.0,6325.0,0.0,0
+2026-06-24T12:05:25.447,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,708.0,7517.0,0.0,0
+2026-06-24T12:05:25.508,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,527.0,6705.0,0.0,0
+2026-06-24T12:05:25.568,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,844.0,6751.0,0.0,0
+2026-06-24T12:05:25.629,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,659.0,6751.0,0.0,0
+2026-06-24T12:05:25.691,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,715.0,7760.0,0.0,0
+2026-06-24T12:05:25.751,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,789.0,6704.0,0.0,0
+2026-06-24T12:05:25.811,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,567.0,6623.0,0.0,0
+2026-06-24T12:05:25.875,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,581.0,7720.0,0.0,0
+2026-06-24T12:05:25.935,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,462.0,6743.0,0.0,0
+2026-06-24T12:05:25.997,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,587.0,6488.0,0.0,0
+2026-06-24T12:05:26.059,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,894.0,7732.0,0.0,0
+2026-06-24T12:05:26.119,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,709.0,6642.0,0.0,0
+2026-06-24T12:05:26.181,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,502.0,7569.0,0.0,0
+2026-06-24T12:05:26.243,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,511.0,6730.0,0.0,0
+2026-06-24T12:05:26.303,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,570.0,6660.0,0.0,0
+2026-06-24T12:05:26.362,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,662.0,7524.0,0.0,0
+2026-06-24T12:05:26.422,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,690.0,6916.0,0.0,0
+2026-06-24T12:05:26.484,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,467.0,6807.0,0.0,0
+2026-06-24T12:05:26.546,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,827.0,6766.0,0.0,0
+2026-06-24T12:05:26.584,timeseries,3,Weather Report Extended v2,mlx-community/Qwen3-0.6B-8bit,703.0,7696.0,0.0,809
