@@ -1,13 +1,5 @@
 # Enerji Tuketimi Odakli Benchmark Degerlendirme Raporu
 
-## 1. Raporun Amaci
-
-Bu rapor, buyuk dil modellerinin farkli yapilandirilmis cikti formatlari ile gorevleri yerine getirirken ortaya cikan enerji tuketimi farklarini incelemek amaciyla hazirlanmistir. Degerlendirme, calisma klasorundeki `summary_*.csv` ve `timeseries_*.csv` dosyalarindan otomatik olarak yuklenen benchmark sonuclarina dayanmaktadir.
-
-Analizde 7 model, 4 cikti formati ve 81 ozet kayit yer almaktadir. Raporun temel odagi model kalitesi degil, ayni gorev kosullarinda format, model ve gorev karmasikliginin enerji tuketimi uzerindeki etkisidir.
-
-Bu raporda syntax ve semantic basari tum modeller ve formatlar icin tam kabul edilmistir. Bu nedenle kalite skoru farki yaratilmamis, tum yorumlar enerji, guc tuketimi, token sayisi ve yanit uzunlugu uzerinden yapilmistir.
-
 ## 2. Temel Bulgular
 
 - Format secimi enerji tuketimini belirgin sekilde etkilemektedir.
@@ -107,11 +99,3 @@ Model bazinda qwen2.5-14b en dusuk ortalama enerji tuketimine sahiptir. Gemma3-4
 
 Bu sonuclar, yapilandirilmis cikti benchmarklarinda enerji verimliligi icin yalnizca model seciminin yeterli olmadigini, format seciminin de kritik bir parametre oldugunu gostermektedir.
 
-## 9. Enerji Odakli Oneriler
-
-- Genel enerji verimliligi icin ilk tercih: qwen2.5-14b.
-- Dusuk enerji isteyen uygulamalar icin alternatif modeller: gemma3-4b ve qwen3-0.6b-8bit.
-- Format seciminde dusuk enerji icin: TONL veya XML.
-- Karmasik gorevlerde YAML kullanimi enerji maliyeti nedeniyle dikkatle degerlendirilmelidir.
-- Model-format secimi her model icin ayri incelenmelidir; ayni format farkli modellerde cok farkli enerji maliyeti dogurabilir.
-- Enerji butcesi sinirli sistemlerde uzun yanit ureten modeller ve formatlar kontrollu kullanilmalidir.
